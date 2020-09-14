@@ -1,11 +1,8 @@
-
-
-
-<html xmlns="http://www.w3.org/TR/REC-html40">
+<html xmlns="https://www.w3.org/TR/REC-html40">
 
 <head>
 	<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-	<title>Session Summary</title>
+	<title>Buyin Club Main Page</title>
 	<link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/slick.grid.css">
 	<link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/examples/examples.css">
 	<link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/css/smoothness/jquery-ui.css">
@@ -17,100 +14,38 @@
 	<script src="https://6pac.github.io/SlickGrid/slick.grid.js"></script>
 	<script src="https://6pac.github.io/SlickGrid/slick.dataview.js"></script>
 	<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
-	<script type="text/javascript" src="MainGridData.js"></script>
+	<script type="text/javascript" src="indexData.js"></script>
 
-	<script>
-		window.onload = function () {
-
-
-			// start of loop
-			var chartTable1 = new CanvasJS.Chart("chartContainerTable1", {
-				theme: "light2",
-				animationEnabled: true,
-				axisX: {
-					labelFontSize: 10,
-					labelFontFamily: "arial",
-				},
-				axisY: {
-					title: "Winnings",
-					titleFontSize: 12,
-					titleFontFamily: "arial",
-					labelFontSize: 10,
-					labelFontFamily: "arial",
-					interval: 20
-				},
-				toolTip: {
-					shared: "true"
-				},
-				legend: {
-					cursor: "pointer",
-					itemclick: toggleDataSeriesTable1
-				},
-			});
-			chartTable1.options.data = mainTable1GraphData;
-			chartTable1.render();
-
-				
-			function toggleDataSeriesTable1(e) {
-				if (typeof (e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
-					e.dataSeries.visible = false;
-				} else {
-					e.dataSeries.visible = true;
-				}
-				chartTable1.render();
-			}
-
-			// start of loop
-			var chartTable2 = new CanvasJS.Chart("chartContainerTable2", {
-				theme: "light2",
-				animationEnabled: true,
-				axisX: {
-					labelFontSize: 10,
-					labelFontFamily: "arial",
-				},
-				axisY: {
-					title: "Winnings",
-					titleFontSize: 12,
-					titleFontFamily: "arial",
-					labelFontSize: 10,
-					labelFontFamily: "arial",
-					interval: 20
-				},
-				toolTip: {
-					shared: "true"
-				},
-				legend: {
-					cursor: "pointer",
-					itemclick: toggleDataSeriesTable2
-				},
-			});
-			chartTable2.options.data = mainTable2GraphData;
-			chartTable2.render();
-
-				
-			function toggleDataSeriesTable2(e) {
-				if (typeof (e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
-					e.dataSeries.visible = false;
-				} else {
-					e.dataSeries.visible = true;
-				}
-				chartTable2.render();
-			}
-
-		}
-	</script>
+    <style>
+        li {
+        list-style: disc outside none;
+        font-size:x-small;
+        display: list-item;
+        margin-left: 1em;
+        }        
+        ul.a {
+            list-style-type: circle;
+        }  
+    </style>
 </head>
 
 <body>
+    <h1 style="font-size:large">Welcome to the Buyin Club</h1>
+    <p style="font-size:medium">
+        The pages will have links with statistics across sessions, players and tables.  On this page, index.html (the page you are on), there are 2 grids.  
+        The first grid listing the sessions.  Only the last session will have a link to more statistics as we are limited in space due to the hosting provider github. 
+        The second (coming back) grid has player totals and links to graphs for each player.  Enjoy Tyrell.
+    </p>
 	<div style="position:relative">
-		<div style="width:800px;">
+        <div style="width:760px;">
 			<div class="grid-header" style="width:100%">
-				<label id="titlePla"></label>
+				<label>Session Summary</label>
 			</div>
 			<div class="container">
-				<div id="myGridPla" style="width:100%"></div>
+				<div id="gridSessions" style="width:100%"></div>
 			</div>
-		</div>
+        </div>
+        <!--
 		<div style="width:1040px;">
 			<div class="grid-header" style="width:100%">
 				<label id="titleTab"></label>
@@ -118,21 +53,17 @@
 			<div class="container">
 				<div id="myGridTab" style="width:100%"></div>
 			</div>
-		</div>
-
-		<div class="grid-header" style="width:100%">
-			<label>Table: Table1</label>
-		</div>
-		<div id="chartContainerTable1" style="height: 370px; width: 100%;"></div>
-		<div class="grid-header" style="width:100%">
-			<label>Table: Table2</label>
-		</div>
-		<div id="chartContainerTable2" style="height: 370px; width: 100%;"></div>
+        </div>
+        -->
+        <br>
+        <p style="font-size:x-small">
+            Below are notes on changes to the statistic pages.  
+        </p>
+        <ul class="a" style="font-size:x-small"> 
+            <li>9-14-20 - Added index page with session table, player summary to come.</li>
+        </ul>
+    
 </body>
-<script>
-    document.getElementById('titlePla').innerHTML = titlePla;
-    document.getElementById('titleTab').innerHTML = titleTab;
-</script>
 </html>
 
-<script type="text/javascript" src="MainGrids.js"></script>
+<script type="text/javascript" src="indexGrids.js"></script>
