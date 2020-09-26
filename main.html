@@ -55,7 +55,8 @@
 					shared: "true",
 					contentFormatter: function(e) {
 						  //var content;
-						  var content = "<a href='Table1-Details.html?hand=" + e.entries[0].dataPoint.x + "'>" + e.entries[0].dataPoint.x + "</a><br/>";
+						  //var content = "<a href='Table1-Details.html?hand=" + e.entries[0].dataPoint.x + "'>" + e.entries[0].dataPoint.x + "</a><br/>";
+						  var content = "<a href='Table1-Details.html?hand=" + e.entries[0].dataPoint.label + "'>" + e.entries[0].dataPoint.label + "</a><br/>";
 						  for(var i = 0; i < e.entries.length; i++) {
 							//content += "<span style='color:" + e.entries[i].dataSeries.color +";'>" + e.entries[i].dataSeries.name + "</span>: " + "<strong>" + e.entries[i].dataPoint.y + "</strong>"
 							content += "<span style='color:" + e.entries[i].dataSeries.color +";'>" + e.entries[i].dataSeries.name + "</span>: " + e.entries[i].dataPoint.y;
@@ -104,7 +105,8 @@
 					shared: "true",
 					contentFormatter: function(e) {
 						  //var content;
-						  var content = "<a href='Table2-Details.html?hand=" + e.entries[0].dataPoint.x + "'>" + e.entries[0].dataPoint.x + "</a><br/>";
+						  //var content = "<a href='Table2-Details.html?hand=" + e.entries[0].dataPoint.x + "'>" + e.entries[0].dataPoint.x + "</a><br/>";
+						  var content = "<a href='Table2-Details.html?hand=" + e.entries[0].dataPoint.label + "'>" + e.entries[0].dataPoint.label + "</a><br/>";
 						  for(var i = 0; i < e.entries.length; i++) {
 							//content += "<span style='color:" + e.entries[i].dataSeries.color +";'>" + e.entries[i].dataSeries.name + "</span>: " + "<strong>" + e.entries[i].dataPoint.y + "</strong>"
 							content += "<span style='color:" + e.entries[i].dataSeries.color +";'>" + e.entries[i].dataSeries.name + "</span>: " + e.entries[i].dataPoint.y;
