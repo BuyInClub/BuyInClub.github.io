@@ -10,6 +10,16 @@
 	<link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/examples/examples.css">
 	<link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/css/smoothness/jquery-ui.css">
 	<link rel="stylesheet" href="gridstyles.css" type="text/css" />
+
+	<style>
+		.canvasjs-chart-tooltip * {
+		  pointer-events: auto !important;
+		  -webkit-user-select: auto !important; /* Safari 3.1+ */
+		  -moz-user-select: auto !important; /* Firefox 2+ */
+		  -ms-user-select: auto !important; /* IE 10+ */
+		  user-select: auto !important; /* Standard syntax */
+		}
+	</style>
 	<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 	<script src="https://code.jquery.com/ui/1.11.0/jquery-ui.min.js"></script>
 	<script src="https://6pac.github.io/SlickGrid/lib/jquery.event.drag-2.3.0.js"></script>
@@ -25,6 +35,8 @@
 
 			// start of loop
 			var chartTable1 = new CanvasJS.Chart("chartContainerTable1", {
+				animationEnabled: true,
+				zoomEnabled: true,
 				theme: "light2",
 				animationEnabled: true,
 				axisX: {
@@ -40,7 +52,17 @@
 					interval: 20
 				},
 				toolTip: {
-					shared: "true"
+					shared: "true",
+					contentFormatter: function(e) {
+						  //var content;
+						  var content = "<a href='Table1-Details.html?hand=" + e.entries[0].dataPoint.x + "'>" + e.entries[0].dataPoint.x + "</a><br/>";
+						  for(var i = 0; i < e.entries.length; i++) {
+							//content += "<span style='color:" + e.entries[i].dataSeries.color +";'>" + e.entries[i].dataSeries.name + "</span>: " + "<strong>" + e.entries[i].dataPoint.y + "</strong>"
+							content += "<span style='color:" + e.entries[i].dataSeries.color +";'>" + e.entries[i].dataSeries.name + "</span>: " + e.entries[i].dataPoint.y;
+							content += "<br/>";
+						  }
+						  return content;
+						}
 				},
 				legend: {
 					cursor: "pointer",
@@ -62,6 +84,8 @@
 
 			// start of loop
 			var chartTable2 = new CanvasJS.Chart("chartContainerTable2", {
+				animationEnabled: true,
+				zoomEnabled: true,
 				theme: "light2",
 				animationEnabled: true,
 				axisX: {
@@ -77,7 +101,17 @@
 					interval: 20
 				},
 				toolTip: {
-					shared: "true"
+					shared: "true",
+					contentFormatter: function(e) {
+						  //var content;
+						  var content = "<a href='Table2-Details.html?hand=" + e.entries[0].dataPoint.x + "'>" + e.entries[0].dataPoint.x + "</a><br/>";
+						  for(var i = 0; i < e.entries.length; i++) {
+							//content += "<span style='color:" + e.entries[i].dataSeries.color +";'>" + e.entries[i].dataSeries.name + "</span>: " + "<strong>" + e.entries[i].dataPoint.y + "</strong>"
+							content += "<span style='color:" + e.entries[i].dataSeries.color +";'>" + e.entries[i].dataSeries.name + "</span>: " + e.entries[i].dataPoint.y;
+							content += "<br/>";
+						  }
+						  return content;
+						}
 				},
 				legend: {
 					cursor: "pointer",
@@ -111,7 +145,7 @@
 				<div id="myGridPla" style="width:100%"></div>
 			</div>
 		</div>
-		<div style="width:1040px;">
+		<div style="width:1120px;">
 			<div class="grid-header" style="width:100%">
 				<label id="titleTab"></label>
 			</div>

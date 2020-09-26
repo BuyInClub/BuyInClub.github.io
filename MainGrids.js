@@ -52,6 +52,7 @@ var columnsTab = [
   {id: "numHands", name: "# Hands", field: "numHands", sortable: true, minWidth:42},
   {id: "numWins", name: "# Wins", field: "numWins", sortable: true, minWidth:42},
   {id: "numUncalledWins", name: "# Uncalled Wins", field: "numUncalledWins", sortable: true, minWidth:42},
+  { id: "consecutiveHandsWOWin", name: "W/O Win", toolTip: "# Hands with out Win", field: "consecutiveHandsWOWin", sortable: true, minWidth: 42 },
   {id: "biggestWin", name: "Biggest Win", field: "biggestWin", sortable: true, formatter: addLinkToBiggestWinHand, minWidth:42},
   {id: "biggestLoss", name: "Biggest Loss", field: "biggestLoss", sortable: true, formatter: addLinkToBiggestLossHand, minWidth:42},
   {id: "showedHoleCards", name: "SHC for UW", field: "showedHoleCards", sortable: true, toolTip: "% of showed hole cards for uncalled pot", minWidth:42},

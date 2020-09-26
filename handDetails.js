@@ -211,6 +211,7 @@ var HandFormatter = function (row, cell, value, columnDef, dataContext) {
   }
 };
 
+
 function cellFound(row, cell, value, columnDef, dataContext) {
     var rtn = { text: value, removeClasses: 'cellFound' };
     if (value !== null || value !== "") {
@@ -223,7 +224,8 @@ function cellFound(row, cell, value, columnDef, dataContext) {
                 if (parseFloat(value) >= parseFloat(document.getElementById('amountWonSearch').value)) {
                     { rtn.addClasses = "cellFound"; }
             }
-        
+
+
             if (columnDef.id === "player" && document.getElementById('playerActionSearch').value !== "") {
                 if (value === document.getElementById('playerActionSearch').value)
                     { rtn.addClasses = "cellFound"; }
@@ -251,6 +253,17 @@ function cellFound(row, cell, value, columnDef, dataContext) {
     }
     return rtn;
 }	
+function addLinkToPlayer(row, cell, value, columnDef, dataContext) {
+    var rtn = { text: value, removeClasses: 'cellFound' };
+    if (columnDef.id === "player" && value !== "") {
+        rtn.text = "<a href='" + value + "-" + tableName + "-details.html?hand=" + data[dataContext.parent].handNum + "'>" + value + "</a>";
+    }
+    if (columnDef.id === "player" && document.getElementById('playerActionSearch').value !== "") {
+        if (value === document.getElementById('playerActionSearch').value)
+        { rtn.addClasses = "cellFound"; }
+    }
+    return rtn;
+}
 
 function getUrlVars() {
     var vars = {};
@@ -292,7 +305,8 @@ var columns = [
   {id: "finalHand", name: "Final Hand", field: "finalHand", width:140},
   {id: "step", name: "Step", field: "step", formatter: cellFound},
   {id: "boardCards", name: "Board Cards", field: "boardCards", formatter: HtmlFormatter},
-  {id: "player", name: "Player", field: "player", formatter: cellFound},
+  //{id: "player", name: "Player", field: "player", formatter: cellFound },
+  {id: "player", name: "Player", field: "player", formatter: addLinkToPlayer},
   {id: "holeCards", name: "Hole Cards", field: "holeCards", formatter: HtmlFormatter},
   {id: "action", name: "Action", field: "action", formatter: cellFound},
   {id: "amount", name: "Amount", field: "amount", formatter: cellFound},
@@ -306,6 +320,7 @@ var options = {
   enableCellNavigation: true,
   asyncEditorLoading: false
 };
+
 
 var percentCompleteThreshold = 0;
 var searchString = "";

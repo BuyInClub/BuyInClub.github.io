@@ -2,6 +2,7 @@
 
 $("#clearFilters").click(function () {
     document.getElementById('amountWonSearch').value = "";
+    document.getElementById('amountLossSearch').value = "";
     document.getElementById('positionSearch').value = "";
 
     document.getElementById('stepSearch').value = "";
@@ -69,7 +70,12 @@ function parentCriteriaMet(item)
         (parseFloat(document.getElementById('amountWonSearch').value) > parseFloat(item.wonOrLost))) {
         return "NoMatch";
     }
-    if ((document.getElementById('positionSearch').value === "") && (document.getElementById('amountWonSearch').value === "")) {
+    if ((document.getElementById('amountLossSearch').value !== "") &&
+        (parseFloat(document.getElementById('amountLossSearch').value) < parseFloat(item.wonOrLost))) {
+        return "NoMatch";
+    }
+    if ((document.getElementById('positionSearch').value === "") && (document.getElementById('amountWonSearch').value === "")
+        && (document.getElementById('amountLossSearch').value === "")) {
         return "NoCriteria"
     }
 
@@ -244,6 +250,10 @@ function cellFound(row, cell, value, columnDef, dataContext) {
             }
             if (columnDef.id === "wonOrLost" && document.getElementById('amountWonSearch').value !== "") 
                 if (parseFloat(value) >= parseFloat(document.getElementById('amountWonSearch').value)) {
+                    { rtn.addClasses = "cellFound"; }
+            }
+            if (columnDef.id === "wonOrLost" && document.getElementById('amountLossSearch').value !== "") 
+                if (parseFloat(value) <= parseFloat(document.getElementById('amountLossSearch').value)) {
                     { rtn.addClasses = "cellFound"; }
             }
             if (columnDef.id === "step" && document.getElementById('stepSearch').value !== "") {
