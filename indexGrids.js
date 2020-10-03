@@ -44,7 +44,7 @@ gridSess.onSort.subscribe(function (e, args) {
 
 var gridPla;
 var columnsPla = [
-  {id: "player", name: "Player", field: "player", sortable: true, minWidth:50},
+  {id: "player", name: "Player", field: "player", formatter: addLinkToPlayer, sortable: true, minWidth:50},
   {id: "numBigWinner", name: "Big Winner", field: "numBigWinner", sortable: true, toolTip: "# of times big winner for a session", minWidth:42},
   {id: "numSessions", name: "# Sessions", field: "numSessions", sortable: true, minWidth:42},
   {id: "numHands", name: "# Hands", field: "numHands", sortable: true, minWidth: 42 },
@@ -78,6 +78,12 @@ var columnsPla = [
     gridPla.render();
   });
 
+function addLinkToPlayer (row, cell, value, columnDef, dataContext) { 
+    var playerLinkName = dataContext.player.replace(/\s/g,'').toLowerCase();
+    var rtn = "<a href='" + playerLinkName + "-Graph.html'>" + dataContext.player + "</a>";
+    return rtn;
+}
+
 function addLinkToMain (row, cell, value, columnDef, dataContext) { 
     var rtn;
     if (dataContext.link !== "") {
@@ -88,11 +94,6 @@ function addLinkToMain (row, cell, value, columnDef, dataContext) {
     return rtn;
 }
 
-function addLinkToPlayer (row, cell, value, columnDef, dataContext) { 
-    var rtn = "<a href='" + dataContext.player + "-" + dataContext.table + "-Details.html'>" + dataContext.player + "</a>";
-    return rtn;
- }
- 
 function htmlFormatter (row, cell, value, columnDef, dataContext) { 
   if (value == null) return ''; 
 

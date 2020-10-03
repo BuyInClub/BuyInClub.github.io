@@ -256,7 +256,7 @@ function cellFound(row, cell, value, columnDef, dataContext) {
 function addLinkToPlayer(row, cell, value, columnDef, dataContext) {
     var rtn = { text: value, removeClasses: 'cellFound' };
     if (columnDef.id === "player" && value !== "") {
-        rtn.text = "<a href='" + value + "-" + tableName + "-details.html?hand=" + data[dataContext.parent].handNum + "'>" + value + "</a>";
+        rtn.text = "<a href='" + value + "-" + tableName + "-Details.html?hand=" + data[dataContext.parent].handNum + "'>" + value + "</a>";
     }
     if (columnDef.id === "player" && document.getElementById('playerActionSearch').value !== "") {
         if (value === document.getElementById('playerActionSearch').value)

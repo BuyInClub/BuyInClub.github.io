@@ -1,0 +1,20 @@
+﻿var PFR = [
+{ label: "Sept 18th 2020", y: 9},
+{ label: "Sept 25th 2020", y: 8},
+{ label: "Oct 2nd 2020", y: 7},
+]
+var VPIP = [
+{ label: "Sept 18th 2020", y: 78},
+{ label: "Sept 25th 2020", y: 70},
+{ label: "Oct 2nd 2020", y: 61},
+]
+var Agg = [
+{ label: "Sept 18th 2020", y: 17},
+{ label: "Sept 25th 2020", y: 14},
+{ label: "Oct 2nd 2020", y: 15},
+]
+var wonLost = [
+{ label: "Sept 18th 2020", y: -20.0},
+{ label: "Sept 25th 2020", y: -20.0},
+{ label: "Oct 2nd 2020", y: 1.53},
+]
