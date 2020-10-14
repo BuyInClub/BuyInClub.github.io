@@ -3,7 +3,40 @@ var options = {
     enableColumnReorder: true,
     multiColumnSort: true,
     autoHeight: true,
-  };
+};
+
+var gridBB;
+var columnsBB = [
+    { id: "luckyWinner", name: "BB Winner", field: "luckyWinner", sortable: true, formatter: addLinkToBB, minWidth: 50 },
+    { id: "unluckyLoser", name: "BB Loser", field: "unluckyLoser", sortable: true, minWidth: 50 },
+    { id: "numOuts", name: "# Outs", field: "numOuts", sortable: true, minWidth: 42 },
+    { id: "amount", name: "Amount", field: "amount", sortable: true, minWidth: 42 },
+];
+
+gridBB = new Slick.Grid("#myGridBB", badBeatList, columnsBB, options);
+
+
+gridBB.onSort.subscribe(function (e, args) {
+    var cols = args.sortCols;
+
+    badBeatList.sort(function (dataRow1, dataRow2) {
+        for (var i = 0, l = cols.length; i < l; i++) {
+            var field = cols[i].sortCol.field;
+            var sign = cols[i].sortAsc ? 1 : -1;
+            var value1 = dataRow1[field], value2 = dataRow2[field];
+            var result = (value1 == value2 ? 0 : (value1 > value2 ? 1 : -1)) * sign;
+            if (result != 0) {
+                return result;
+            }
+        }
+        return 0;
+    });
+
+    gridBB.invalidate();
+    gridBB.render();
+});
+
+
 
 var gridPla;
 var columnsPla = [
@@ -92,6 +125,11 @@ function addLinkToBiggestLossHand (row, cell, value, columnDef, dataContext) {
 
 function addLinkToTable (row, cell, value, columnDef, dataContext) { 
     var rtn = "<a href='" + dataContext.table + "-Details.html'>" + value + "</a>";
+    return rtn;
+}
+
+function addLinkToBB(row, cell, value, columnDef, dataContext) {
+    var rtn = "<a href='" + dataContext.link + "'>" + value + "</a>";
     return rtn;
 }
 
