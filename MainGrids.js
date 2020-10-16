@@ -50,6 +50,7 @@ var columnsPla = [
   {id: "PFR", name: "PFR", field: "PFR", sortable: true, toolTip: "% of raises preflop", minWidth:42},
   {id: "VPIPPFR", name: "PFR/VPIP", field: "VPIPPFR", sortable: true, toolTip: "", minWidth:42},
   {id: "AggFact", name: "AggFact", field: "AggFact", sortable: true, toolTip: "((Bets + Raises) / (Beta + Raises + Calls - CheckRaises))", minWidth:42},
+  {id: "time", name: "Time (ms)", field: "time", sortable: true, toolTip: "time (ms) on average to take an action", minWidth: 42 },
   
 ];
 

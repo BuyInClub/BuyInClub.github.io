@@ -3,45 +3,59 @@ var titleTab = "Player by Table: Oct 9th 2020";
 var dataPla = [
 {
 player: "Dave",wonLost: 13.22,numHands: 600,numWins: 84,numUncalledWins: 63,showedHoleCards: 63,VPIP: 36,PFR: 5,VPIPPFR: 13,AggFact: 23,
+time: 3853,
 },
 {
 player: "Chris Moy",wonLost: 146.21,numHands: 598,numWins: 96,numUncalledWins: 72,showedHoleCards: 27,VPIP: 41,PFR: 6,VPIPPFR: 14,AggFact: 28,
+time: 3096,
 },
 {
 player: "heather",wonLost: 50.81,numHands: 219,numWins: 38,numUncalledWins: 25,showedHoleCards: 28,VPIP: 38,PFR: 6,VPIPPFR: 15,AggFact: 23,
+time: 5539,
 },
 {
 player: "Greg",wonLost: 58.53,numHands: 611,numWins: 92,numUncalledWins: 64,showedHoleCards: 84,VPIP: 33,PFR: 12,VPIPPFR: 36,AggFact: 25,
+time: 3717,
 },
 {
 player: "Josh",wonLost: -20,numHands: 99,numWins: 13,numUncalledWins: 12,showedHoleCards: 0,VPIP: 32,PFR: 10,VPIPPFR: 31,AggFact: 35,
+time: 3778,
 },
 {
 player: "Susie",wonLost: -4.28,numHands: 484,numWins: 98,numUncalledWins: 80,showedHoleCards: 95,VPIP: 51,PFR: 0,VPIPPFR: 0,AggFact: 19,
+time: 2949,
 },
 {
 player: "Will",wonLost: -20,numHands: 79,numWins: 12,numUncalledWins: 5,showedHoleCards: 100,VPIP: 46,PFR: 1,VPIPPFR: 2,AggFact: 12,
+time: 3703,
 },
 {
 player: "DanC",wonLost: -60,numHands: 441,numWins: 69,numUncalledWins: 47,showedHoleCards: 51,VPIP: 49,PFR: 10,VPIPPFR: 20,AggFact: 26,
+time: 2450,
 },
 {
 player: "Jeff",wonLost: -35.96,numHands: 546,numWins: 98,numUncalledWins: 77,showedHoleCards: 96,VPIP: 41,PFR: 12,VPIPPFR: 29,AggFact: 28,
+time: 3193,
 },
 {
 player: "John P",wonLost: 27.97,numHands: 374,numWins: 68,numUncalledWins: 49,showedHoleCards: 36,VPIP: 45,PFR: 4,VPIPPFR: 8,AggFact: 20,
+time: 5388,
 },
 {
 player: "Jim O",wonLost: -140,numHands: 509,numWins: 131,numUncalledWins: 90,showedHoleCards: 57,VPIP: 58,PFR: 23,VPIPPFR: 39,AggFact: 34,
+time: 5117,
 },
 {
 player: "Doug",wonLost: 1.16,numHands: 320,numWins: 89,numUncalledWins: 47,showedHoleCards: 34,VPIP: 75,PFR: 6,VPIPPFR: 8,AggFact: 12,
+time: 2940,
 },
 {
 player: "Suzanne",wonLost: 2.34,numHands: 320,numWins: 46,numUncalledWins: 23,showedHoleCards: 4,VPIP: 29,PFR: 0,VPIPPFR: 0,AggFact: 10,
+time: 3091,
 },
 {
 player: "Bailey",wonLost: -20,numHands: 200,numWins: 18,numUncalledWins: 11,showedHoleCards: 90,VPIP: 23,PFR: 9,VPIPPFR: 39,AggFact: 26,
+time: 2501,
 },
 ];
 var dataTab = [
