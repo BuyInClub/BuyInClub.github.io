@@ -5,6 +5,40 @@ var options = {
     autoHeight: true,
 };
 
+var gridNH;
+var columnsNH = [
+    { id: "player", name: "Player", field: "player", sortable: true, minWidth: 50 },
+    { id: "nemesisName", name: "Nemesis", field: "nemesisName", sortable: true, minWidth: 50 },
+    { id: "nemesisAmount", name: "Amount", field: "nemesisAmount", sortable: true, minWidth: 42 },
+    { id: "heroName", name: "Hero", field: "heroName", sortable: true, minWidth: 50 },
+    { id: "heroAmount", name: "Amount", field: "heroAmount", sortable: true, minWidth: 42 },
+];
+
+gridNH = new Slick.Grid("#myGridNH", nhList, columnsNH, options);
+
+
+gridNH.onSort.subscribe(function (e, args) {
+    var cols = args.sortCols;
+
+    nhList.sort(function (dataRow1, dataRow2) {
+        for (var i = 0, l = cols.length; i < l; i++) {
+            var field = cols[i].sortCol.field;
+            var sign = cols[i].sortAsc ? 1 : -1;
+            var value1 = dataRow1[field], value2 = dataRow2[field];
+            var result = (value1 == value2 ? 0 : (value1 > value2 ? 1 : -1)) * sign;
+            if (result != 0) {
+                return result;
+            }
+        }
+        return 0;
+    });
+
+    gridNH.invalidate();
+    gridNH.render();
+});
+
+
+
 var gridBB;
 var columnsBB = [
     { id: "luckyWinner", name: "BB Winner", field: "luckyWinner", sortable: true, formatter: addLinkToBB, minWidth: 50 },
