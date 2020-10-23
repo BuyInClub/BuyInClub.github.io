@@ -15,6 +15,7 @@
 	<script src="https://6pac.github.io/SlickGrid/slick.dataview.js"></script>
 	<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 	<script type="text/javascript" src="indexData.js"></script>
+    <script type="text/javascript" src="bigholecards.js"></script>
 
     <style>
         li {
@@ -53,11 +54,21 @@
 				<div id="myGridPla" style="width:100%"></div>
 			</div>
         </div>
+        <div style="width:800px;">
+            <div class="grid-header" style="width:100%">
+                <label id="titleHC">Per Player big hole card - numbers only accurate if you show them!</label>
+            </div>
+            <div class="container">
+                <div id="myGridHC" style="width:100%"></div>
+            </div>
+        </div>
+
         <br>
         <p style="font-size:x-small">
             Changes to the web site:  
         </p>
         <ul class="a" style="font-size:x-small"> 
+            <li>10-22-20 - Per player keep track of AA, KK, AK hole cards.  You need to show them for the stats to be useful!</li>
             <li>10-18-20 - For each player, identify there nemesis and their hero - minimum $5 win or loss for a hand for a player</li>
             <li>10-14-20 - Time (ms) a player on average took to complete an action</li>
             <li>10-13-20 - Calculate bad beats, on the main.html page (this will be challenging)</li>
@@ -79,11 +90,9 @@
             Things to come:
         </p>
         <ul class="a" style="font-size:x-small">
-            <li>Keep track of results KK and AA hold cards</li>
             <li>Keep track of bluffs - $5 bet or more on the turn of river forces the best hand out</li>
-            <li>For each player, identify there nemesis and their fairy god-mother - minimum $5 win or loss on the turn or river</li>
             <li>Keep track of badbeats across sessions, seperate page</li>
-            <li>Report Dave's - hands you folded before the flop that went to the river</li>
+            <li>Report Dave's - hands you folded before the flop that went to the river and yuo would of won</li>
             <li>Per session, save who got hands 4 of a kind or better</li>
             <li>Per session, determine highest losing hand</li>
             <li>Add records across sessions for biggest hand won, biggest winner, total money, total hands</li>
