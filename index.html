@@ -31,28 +31,34 @@
 </head>
 
 <body>
-    <h1 style="font-size:large">Welcome to the Buyin Club</h1>
+    <h1 style="font-size:large">Welcome to the Buyin Club - Poker Informatics</h1>
     <p style="font-size:medium">
         This site is to provide us with some fun statistics and hand details from our poker nights.  This is a work in progress.
         This initial page will provide a summary of the different sessions and overall player totals.  From this page you can click into the last session and start exploring.
-        Due to space limitations on the provider github only the last poker night will have a link.  Enjoy Tyrell.
+        Due to space limitations of the provider github only the last poker night will have details.  Enjoy Tyrell.
     </p>
-	<div style="position:relative">
+    <p style="font-size:large">
+        <a href="highhands.html" style="font-size:large">Link to a history of 4 of a kind or better hands</a>
+    </p>
+    <p style="font-size:large">
+        <a href="badbeats.html" style="font-size:large">Link to a history of bad beats</a>
+    </p>
+    <div style="position:relative">
         <div style="width:520px;">
-			<div class="grid-header" style="width:100%">
-				<label>Session Summary</label>
-			</div>
-			<div class="container">
-				<div id="gridSessions" style="width:100%"></div>
-			</div>
+            <div class="grid-header" style="width:100%">
+                <label>Session Summary</label>
+            </div>
+            <div class="container">
+                <div id="gridSessions" style="width:100%"></div>
+            </div>
         </div>
-		<div style="width:720px;">
-			<div class="grid-header" style="width:100%">
-				<label id="titlePla">Player Totals for all Sessions</label>
-			</div>
-			<div class="container">
-				<div id="myGridPla" style="width:100%"></div>
-			</div>
+        <div style="width:720px;">
+            <div class="grid-header" style="width:100%">
+                <label id="titlePla">Player Totals for all Sessions</label>
+            </div>
+            <div class="container">
+                <div id="myGridPla" style="width:100%"></div>
+            </div>
         </div>
         <div style="width:800px;">
             <div class="grid-header" style="width:100%">
@@ -68,6 +74,8 @@
             Changes to the web site:  
         </p>
         <ul class="a" style="font-size:x-small"> 
+            <li>10-27-20 - Across sessions keep track of bad beats</li>
+            <li>10-25-20 - Across sessions, show who got hands 4 of a kind or better</li>
             <li>10-22-20 - Per player keep track of AA, KK, AK hole cards.  You need to show them for the stats to be useful!</li>
             <li>10-18-20 - For each player, identify there nemesis and their hero - minimum $5 win or loss for a hand for a player</li>
             <li>10-14-20 - Time (ms) a player on average took to complete an action</li>
@@ -91,9 +99,7 @@
         </p>
         <ul class="a" style="font-size:x-small">
             <li>Keep track of bluffs - $5 bet or more on the turn of river forces the best hand out</li>
-            <li>Keep track of badbeats across sessions, seperate page</li>
             <li>Report Dave's - hands you folded before the flop that went to the river and yuo would of won</li>
-            <li>Per session, save who got hands 4 of a kind or better</li>
             <li>Per session, determine highest losing hand</li>
             <li>Add records across sessions for biggest hand won, biggest winner, total money, total hands</li>
         </ul>
