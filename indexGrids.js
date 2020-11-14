@@ -94,7 +94,7 @@ var columnsPla = [
   {id: "VPIP", name: "VPIP", field: "VPIP", sortable: true, toolTip: "% of calls and raises preflop", minWidth:42},
   {id: "PFR", name: "PFR", field: "PFR", sortable: true, toolTip: "% of raises preflop", minWidth:42},
   {id: "preflopAggressive", name: "PFR/VPIP", field: "preflopAggressive", sortable: true, toolTip: "", minWidth:42},
-  { id: "aggFact", name: "AggFact", field: "aggFact", sortable: true, toolTip: "((Bets + Raises + CheckRaises) / (Beta + Raises + Calls + CheckRaises))", minWidth:42},
+  { id: "aggFact", name: "Agg%", field: "aggFact", sortable: true, toolTip: "Postflop - ((Bets + All Raises) / (Bets + All Raises + Calls + Checks - CheckRaises))", minWidth:42},
   
 ];
 
