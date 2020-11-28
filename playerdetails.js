@@ -3,7 +3,8 @@ var numHands=0;
 var numFound=0;
 var numWin=0;
 var numLost=0;
-var numHoleCards=0;
+var numHoleCards = 0;
+var numWonLost = 0;
 var searchResults="";
 
 $("#clearFilters").click(function () {
@@ -22,7 +23,8 @@ $("#clearFilters").click(function () {
     numFound=0;
     numWin=0;
     numLost=0;
-    numHoleCards=0;
+    numHoleCards = 0;
+    numWonLost = 0;
     searchResults=""; 
 
     // clear search results
@@ -179,6 +181,7 @@ $("#search").click(function () {
 
                 if (parseFloat(item.wonOrLost) < 0) { numLost++; }
                 if (parseFloat(item.wonOrLost) > 0) { numWin++; }
+                numWonLost = numWonLost + parseFloat(item.wonOrLost);
                 if (item.holeCards !== "") { numHoleCards++; }
                 numFound++;
             }
@@ -190,7 +193,7 @@ $("#search").click(function () {
     }
 
     // display search results
-    searchResults = "# Hands: " + numHands + "; # Found: " + numFound + "; # Won: " + numWin + "; # Lost: " + numLost + "; # Showed HC: " + numHoleCards;
+    searchResults = "# Hands: " + numHands + "; # Found: " + numFound + "; # Won: " + numWin + "; # Lost: " + numLost + "; # Showed HC: " + numHoleCards + "; Amount Won/Lost: " + numWonLost.toFixed(2);
     document.getElementById('searchResults').innerHTML = searchResults;
 
     // do highlighting

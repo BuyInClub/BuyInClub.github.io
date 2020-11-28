@@ -1,5 +1,6 @@
 var numHands = 0;
 var numFound = 0;
+var numWon = 0;
 var searchResults = "";
 
 
@@ -15,6 +16,7 @@ $("#clearFilters").click(function () {
 
     numHands = 0;
     numFound = 0;
+    numWon = 0;
     searchResults = "";
     // clear search results
     document.getElementById('searchResults').innerHTML = searchResults;
@@ -144,6 +146,7 @@ $("#search").click(function () {
     curDataLength = curData.length;
     numHands = 0;
     numFound = 0;
+    numWon = 0;
 
     for(var k = 0; k < curDataLength; k++) {
         item = curData[k];
@@ -152,6 +155,7 @@ $("#search").click(function () {
             if (handsThatMeetFilter.hasItem(item.handNum)) {
                 item._collapsed = false;
                 numFound++;
+                numWon = numWon + parseFloat(item.won);
             }
             else {
                 item._collapsed = true;
@@ -161,7 +165,7 @@ $("#search").click(function () {
     }
 
     // display search results
-    searchResults = "# Hands: " + numHands + "; # Found: " + numFound;
+    searchResults = "# Hands: " + numHands + "; # Found: " + numFound + "; Amount Won: " + numWon.toFixed(2);
     document.getElementById('searchResults').innerHTML = searchResults;
 
     // do highlighting
