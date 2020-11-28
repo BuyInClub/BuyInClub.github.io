@@ -1,4 +1,10 @@
 
+var numHands=0;
+var numFound=0;
+var numWin=0;
+var numLost=0;
+var numHoleCards=0;
+var searchResults="";
 
 $("#clearFilters").click(function () {
     document.getElementById('amountWonSearch').value = "";
@@ -12,6 +18,15 @@ $("#clearFilters").click(function () {
     document.getElementById('lastActionSearch').value = "";
     document.getElementById('lastActionPlayerSearch').value = "";
 
+    numHands=0;
+    numFound=0;
+    numWin=0;
+    numLost=0;
+    numHoleCards=0;
+    searchResults=""; 
+
+    // clear search results
+    document.getElementById('searchResults').innerHTML = searchResults;
     // clear highlighting
     dataView.refresh();    
     // collapse all 
@@ -110,6 +125,8 @@ function addFilterItem(item)
     }
 }
 
+
+
 $("#search").click(function () {
     // to make things always update collapse all first.
     document.getElementById('collapse').click();
@@ -142,14 +159,28 @@ $("#search").click(function () {
             }
         }
     }
+
     // have ony hands the meet criteria be expanded
     curData = dataView.getItems();
     curDataLength = curData.length;
+
+    numHands=0;
+    numFound=0;
+    numWin=0;
+    numLost=0;
+    numHoleCards=0;
+   
     for(var k = 0; k < curDataLength;k++) {
         item = curData[k];
         if (item.indent === 0) {
+            numHands++;
             if (handsThatMeetFilter.hasItem(item.handNum)) {
                 item._collapsed = false;
+
+                if (parseFloat(item.wonOrLost) < 0) { numLost++; }
+                if (parseFloat(item.wonOrLost) > 0) { numWin++; }
+                if (item.holeCards !== "") { numHoleCards++; }
+                numFound++;
             }
             else {
                 item._collapsed = true;
@@ -157,6 +188,10 @@ $("#search").click(function () {
             dataView.updateItem(item.id, item);
         }
     }
+
+    // display search results
+    searchResults = "# Hands: " + numHands + "; # Found: " + numFound + "; # Won: " + numWin + "; # Lost: " + numLost + "; # Showed HC: " + numHoleCards;
+    document.getElementById('searchResults').innerHTML = searchResults;
 
     // do highlighting
     dataView.refresh();
@@ -174,6 +209,10 @@ $("#collapse").click(function () {
             }
         }
     }
+    searchResults=""; 
+    // clear search results
+    document.getElementById('searchResults').innerHTML = searchResults;
+
 })
 
 $("#expand").click(function () {
@@ -194,7 +233,9 @@ $("#expand").click(function () {
             }
         }
     }
-
+    searchResults=""; 
+    // clear search results
+    document.getElementById('searchResults').innerHTML = searchResults;
 })
 
 var HtmlFormatter = function (row, cell, value, columnDef, dataContext) { 

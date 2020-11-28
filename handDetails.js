@@ -1,3 +1,6 @@
+var numHands = 0;
+var numFound = 0;
+var searchResults = "";
 
 
 $("#clearFilters").click(function () {
@@ -9,6 +12,12 @@ $("#clearFilters").click(function () {
     document.getElementById('stepSearch').value = "";
     document.getElementById('actionAmountSearch').value = "";
     document.getElementById('amountToPotSearch').value = "";
+
+    numHands = 0;
+    numFound = 0;
+    searchResults = "";
+    // clear search results
+    document.getElementById('searchResults').innerHTML = searchResults;
 
     // clear highlighting
     dataView.refresh();    
@@ -133,20 +142,27 @@ $("#search").click(function () {
     // have ony hands the meet criteria be expanded
     curData = dataView.getItems();
     curDataLength = curData.length;
+    numHands = 0;
+    numFound = 0;
+
     for(var k = 0; k < curDataLength; k++) {
         item = curData[k];
         if (item.indent === 0) {
+            numHands++;
             if (handsThatMeetFilter.hasItem(item.handNum)) {
                 item._collapsed = false;
+                numFound++;
             }
             else {
                 item._collapsed = true;
             }
-            //dataView.invalidateRows(item.id);
             dataView.updateItem(item.id, item);
-            //grid.invalidateRows(item.id)
         }
     }
+
+    // display search results
+    searchResults = "# Hands: " + numHands + "; # Found: " + numFound;
+    document.getElementById('searchResults').innerHTML = searchResults;
 
     // do highlighting
     dataView.refresh();
@@ -165,6 +181,9 @@ $("#collapse").click(function () {
             }
         }
     }
+    searchResults = "";
+    // clear search results
+    document.getElementById('searchResults').innerHTML = searchResults;
 })
 
 $("#expand").click(function () {
@@ -185,7 +204,9 @@ $("#expand").click(function () {
             }
         }
     }
-
+    searchResults = "";
+    // clear search results
+    document.getElementById('searchResults').innerHTML = searchResults;
 })
 
 var HtmlFormatter = function (row, cell, value, columnDef, dataContext) { 

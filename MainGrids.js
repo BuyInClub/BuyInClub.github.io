@@ -5,6 +5,48 @@ var options = {
     autoHeight: true,
 };
 
+var gridHC;
+var columnsHC = [
+    { id: "playerName", name: "Player", field: "playerName", sortable: true },
+    { id: "AAnum", name: "# AA", field: "AAnum", sortable: true, minWidth: 42 },
+    { id: "AAamount", name: "AA amount", field: "AAamount", sortable: true, minWidth: 42, toolTip: "amount won or lost with AA hole cards" },
+    { id: "AAhandfreq", name: "AA freq", field: "AAhandfreq", sortable: true, minWidth: 42, toolTip: "frequency per hand AA is in hole cards" },
+    { id: "KKnum", name: "# KK", field: "KKnum", sortable: true, minWidth: 42 },
+    { id: "KKamount", name: "KK amount", field: "KKamount", sortable: true, minWidth: 42, toolTip: "amount won or lost with KK hole cards" },
+    { id: "KKhandfreq", name: "KK freq", field: "KKhandfreq", sortable: true, minWidth: 42, toolTip: "frequency per hand KK is in hole cards" },
+    { id: "AKnum", name: "# AK", field: "AKnum", sortable: true, minWidth: 42 },
+    { id: "AKamount", name: "AK amount", field: "AKamount", sortable: true, minWidth: 42, toolTip: "amount won or lost with AK hole cards" },
+    { id: "AKhandfreq", name: "AK freq", field: "AKhandfreq", sortable: true, minWidth: 42, toolTip: "frequency per hand AK is in hole cards" },
+];
+
+gridHC = new Slick.Grid("#myGridHC", bigholecards, columnsHC, options);
+
+
+gridHC.onSort.subscribe(function (e, args) {
+    var cols = args.sortCols;
+
+    bigholecards.sort(function (dataRow1, dataRow2) {
+        for (var i = 0, l = cols.length; i < l; i++) {
+            var field = cols[i].sortCol.field;
+            var sign = cols[i].sortAsc ? 1 : -1;
+            var value1 = dataRow1[field], value2 = dataRow2[field];
+            var result = (value1 == value2 ? 0 : (value1 > value2 ? 1 : -1)) * sign;
+            if (result != 0) {
+                return result;
+            }
+        }
+        return 0;
+    });
+
+    gridHC.invalidate();
+    gridHC.render();
+});
+
+
+
+
+
+
 var gridNH;
 var columnsNH = [
     { id: "player", name: "Player", field: "player", sortable: true, minWidth: 50 },

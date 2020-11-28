@@ -2,7 +2,11 @@
 
 <head>
 	<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-	<title>Buyin Club Main Page</title>
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+
+	<title>Re-Buyin Club Main Page</title>
 	<link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/slick.grid.css">
 	<link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/examples/examples.css">
 	<link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/css/smoothness/jquery-ui.css">
@@ -31,7 +35,7 @@
 </head>
 
 <body>
-    <h1 style="font-size:large">Welcome to the Buyin Club - Poker Informatics</h1>
+    <h1 style="font-size:large">Welcome to the Re-Buyin Club - Poker Informatics</h1>
     <p style="font-size:medium">
         This site is to provide us with some fun statistics and hand details from our poker nights.  This is a work in progress.
         This initial page will provide a summary of the different sessions and overall player totals.  From this page you can click into the last session and start exploring.
@@ -42,6 +46,12 @@
     </p>
     <p style="font-size:large">
         <a href="badbeats.html" style="font-size:large">Link to a history of bad beats</a>
+    </p>
+    <p style="font-size:large">
+        <a href="records.html" style="font-size:large">Link to session records</a>
+    </p>
+    <p style="font-size:large">
+        <a href="nemesishero.html" style="font-size:large">Link to cumulative Nemesis-Hero</a>
     </p>
     <div style="position:relative">
         <div style="width:520px;">
@@ -74,6 +84,13 @@
             Changes to the web site:  
         </p>
         <ul class="a" style="font-size:x-small"> 
+            <li>11-26-20 - When executing a search on a table page, give a summary of counts that include the following - num hands and count</li>
+            <li>11-26-20 - When executing a search on a player page, give a summary of counts that include the following - num hands, count, num won, num lost, num showed hole cards</li>
+            <li>11-25-20 - Per player keep track of AA, KK, AK hole cards for a session.  You need to show them for the stats to be useful!</li>
+            <li>11-22-20 - Change bad beat to have a minimum of $10 in the pot</li>
+            <li>11-22-20 - Have the index page not cache anymore. </li>
+            <li>11-22-20 - Across sessions played, for each player, identify their nemesis and their hero - minimum $5 win or loss for a hand for a player</li>
+            <li>11-22-20 - Add records across sessions for biggest hand won, biggest winner, total money, total hands</li>
             <li>11-11-20 - Changed Agg% formula to be more accurate (thank you Adam) = Postflop - ((Bets + All Raises) / (Bets + All Raises + Calls + Checks - CheckRaises))</li>
             <li>10-27-20 - Across sessions keep track of bad beats</li>
             <li>10-25-20 - Across sessions, show who got hands 4 of a kind or better</li>
@@ -99,15 +116,12 @@
             Things to come:
         </p>
         <ul class="a" style="font-size:x-small">
-            <li>Change bad beat to have a minimum of 10 in the pot</li>
             <li>Add won/lost per player across sessions broken down by # players at table</li>
             <li>Add average # of players at the table per hand</li>
-            <li>When excuting a filter put add a count, num won add num lost</li>
-            <li>Per player keep track of AA, KK, AK hole cards for a session.  You need to show them for the stats to be useful!</li>
-            <li>Across sessions played, for each player, identify their nemesis and their hero - minimum $5 win or loss for a hand for a player</li>
-            <li>Report Dave's - hands you folded before the flop that went to the river and yuo would of won</li>
+            <li>When executing a search on a table page, give a summary of counts that include the following - num hands and count</li>
+            <li>Report Dave's - hands you folded before the flop that went to the river that you would of won</li>
             <li>Per session, determine highest losing hand</li>
-            <li>Add records across sessions for biggest hand won, biggest winner, total money, total hands</li>
+            <li>Add hole card ranking based on Slansky hand groups</li>
         </ul>
 </body>
 </html>
