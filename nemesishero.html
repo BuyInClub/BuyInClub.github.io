@@ -1,0 +1,79 @@
+﻿<html xmlns="https://www.w3.org/TR/REC-html40">
+
+<head>
+    <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+    <link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/slick.grid.css">
+    <link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/examples/examples.css">
+    <link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/css/smoothness/jquery-ui.css">
+    <link rel="stylesheet" href="gridstyles.css" type="text/css" />
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.0/jquery-ui.min.js"></script>
+    <script src="https://6pac.github.io/SlickGrid/lib/jquery.event.drag-2.3.0.js"></script>
+    <script src="https://6pac.github.io/SlickGrid/slick.core.js"></script>
+    <script src="https://6pac.github.io/SlickGrid/slick.grid.js"></script>
+    <script src="https://6pac.github.io/SlickGrid/slick.dataview.js"></script>
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    <script type="text/javascript" src="nemesisheroacrosssessions.js"></script>
+
+</head>
+
+
+<body>
+    <div style="position:relative">
+        <div style="width:400px;">
+            <div class="grid-header" style="width:100%">
+                <label>Cumulative Nemesis-Hero (only use wins or losses $5)</label>
+            </div>
+            <div class="container">
+                <div id="myGridNH" style="width:100%"></div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
+
+<script>
+
+    var options = {
+        enableCellNavigation: true,
+        enableColumnReorder: true,
+        multiColumnSort: true,
+        autoHeight: true,
+    };
+
+    var gridNH;
+    var columnsNH = [
+        { id: "player", name: "Player", field: "player", sortable: true, minWidth: 50 },
+        { id: "nemesisName", name: "Nemesis", field: "nemesisName", sortable: true, minWidth: 50 },
+        { id: "nemesisAmount", name: "Amount", field: "nemesisAmount", sortable: true, minWidth: 42 },
+        { id: "heroName", name: "Hero", field: "heroName", sortable: true, minWidth: 50 },
+        { id: "heroAmount", name: "Amount", field: "heroAmount", sortable: true, minWidth: 42 },
+    ];
+
+    gridNH = new Slick.Grid("#myGridNH", nhList, columnsNH, options);
+
+
+    gridNH.onSort.subscribe(function (e, args) {
+        var cols = args.sortCols;
+
+        nhList.sort(function (dataRow1, dataRow2) {
+            for (var i = 0, l = cols.length; i < l; i++) {
+                var field = cols[i].sortCol.field;
+                var sign = cols[i].sortAsc ? 1 : -1;
+                var value1 = dataRow1[field], value2 = dataRow2[field];
+                var result = (value1 == value2 ? 0 : (value1 > value2 ? 1 : -1)) * sign;
+                if (result != 0) {
+                    return result;
+                }
+            }
+            return 0;
+        });
+
+        gridNH.invalidate();
+        gridNH.render();
+    });
+
+
+</script>
