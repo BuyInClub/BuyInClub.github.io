@@ -84,11 +84,11 @@ function parentCriteriaMet(item)
         return "NoMatch";
     }
     if ((document.getElementById('amountWonSearch').value !== "") &&
-        (parseFloat(document.getElementById('amountWonSearch').value) > parseFloat(item.wonOrLost))) {
+        (parseFloat(document.getElementById('amountWonSearch').value) > parseFloat(item.wonNetOrLost))) {
         return "NoMatch";
     }
     if ((document.getElementById('amountLossSearch').value !== "") &&
-        (parseFloat(document.getElementById('amountLossSearch').value) < parseFloat(item.wonOrLost))) {
+        (parseFloat(document.getElementById('amountLossSearch').value) < parseFloat(item.wonNetOrLost))) {
         return "NoMatch";
     }
     if ((document.getElementById('positionSearch').value === "") && (document.getElementById('amountWonSearch').value === "")
@@ -180,9 +180,10 @@ $("#search").click(function () {
             if (handsThatMeetFilter.hasItem(item.handNum)) {
                 item._collapsed = false;
 
-                if (parseFloat(item.wonOrLost) < 0) { numLost++; }
-                if (parseFloat(item.wonOrLost) > 0) { numWin++; }
-                numWL = numWL + (parseFloat(item.endAmt) - parseFloat(item.startAmt));
+                if (parseFloat(item.wonNetOrLost) < 0) { numLost++; }
+                if (parseFloat(item.wonNetOrLost) > 0) { numWin++; }
+                numWL = numWL + parseFloat(item.wonNetOrLost);
+                //numWL = numWL + (parseFloat(item.endAmt) - parseFloat(item.startAmt));
                 //console.log("Hand: " + item.handNum + "WonLost Total: " + numWL.toFixed(2));
                 if (item.holeCards !== "") { numHoleCards++; }
                 numFound++;
@@ -294,11 +295,11 @@ function cellFound(row, cell, value, columnDef, dataContext) {
                 if (value.includes(document.getElementById('positionSearch').value)) 
                     { rtn.addClasses = "cellFound"; }
             }
-            if (columnDef.id === "wonOrLost" && document.getElementById('amountWonSearch').value !== "") 
+            if (columnDef.id === "wonNetOrLost" && document.getElementById('amountWonSearch').value !== "") 
                 if (parseFloat(value) >= parseFloat(document.getElementById('amountWonSearch').value)) {
                     { rtn.addClasses = "cellFound"; }
             }
-            if (columnDef.id === "wonOrLost" && document.getElementById('amountLossSearch').value !== "") 
+            if (columnDef.id === "wonNetOrLost" && document.getElementById('amountLossSearch').value !== "") 
                 if (parseFloat(value) <= parseFloat(document.getElementById('amountLossSearch').value)) {
                     { rtn.addClasses = "cellFound"; }
             }
@@ -367,7 +368,7 @@ var grid;
 
 var columns = [
   {id: "handNum", name: "Hand #", field: "handNum", width: 50, cssClass: "cell-title", formatter: HandFormatter},
-  {id: "wonOrLost", name: "Won/Lost", field: "wonOrLost", formatter: wonLostFormatter},
+  {id: "wonNetOrLost", name: "Won/Lost", field: "wonNetOrLost", formatter: wonLostFormatter},
   {id: "startAmt", name: "Start Amt", field: "startAmt", width: 60},
   {id: "endAmt", name: "End Amt", field: "endAmt", minWidth: 60},
   {id: "position", name: "Position", field: "position", formatter: cellFound},
