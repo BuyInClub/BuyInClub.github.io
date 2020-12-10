@@ -1,4 +1,4 @@
-﻿var title = "Hand Details for jim o at Table2";
+﻿var title = "Hand Details for Jim O at Table2";
 var handFilename = "Table2-Details.html";
 var data = [
 {
@@ -71,7 +71,7 @@ id: 21,indent: 0,parent: null,handNum: "90",wonOrLost: "-7.00",wonNetOrLost: "-7
 id: 22,indent: 1,parent: 21,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "8",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 23,indent: 1,parent: 21,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 23,indent: 1,parent: 21,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 24,indent: 1,parent: 21,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Bet",amount: "2.50",potSizeToWin: "2.50",amountToPot: "100",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>",
@@ -257,7 +257,7 @@ id: 83,indent: 0,parent: null,handNum: "106",wonOrLost: "3.00",wonNetOrLost: "1.
 id: 84,indent: 1,parent: 83,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "8",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 85,indent: 1,parent: 83,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 85,indent: 1,parent: 83,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 86,indent: 1,parent: 83,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&diams;</span>",
@@ -341,7 +341,7 @@ id: 111,indent: 0,parent: null,handNum: "114",wonOrLost: "-2.00",wonNetOrLost: "
 id: 112,indent: 1,parent: 111,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "8",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 113,indent: 1,parent: 111,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 113,indent: 1,parent: 111,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 114,indent: 1,parent: 111,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
@@ -587,7 +587,7 @@ id: 193,indent: 0,parent: null,handNum: "138",wonOrLost: "-0.50",wonNetOrLost: "
 id: 194,indent: 1,parent: 193,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "8",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 195,indent: 1,parent: 193,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 195,indent: 1,parent: 193,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 196,indent: 1,parent: 193,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, [4<span style = 'font-size:125%; color: blue; '>&hearts;</span>]",
@@ -671,7 +671,7 @@ id: 221,indent: 0,parent: null,handNum: "146",wonOrLost: "-11.88",wonNetOrLost: 
 id: 222,indent: 1,parent: 221,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "8",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 223,indent: 1,parent: 221,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 223,indent: 1,parent: 221,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 224,indent: 1,parent: 221,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Bet",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
@@ -731,7 +731,7 @@ id: 241,indent: 0,parent: null,handNum: "153",wonOrLost: "-1.25",wonNetOrLost: "
 id: 242,indent: 1,parent: 241,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "7",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 243,indent: 1,parent: 241,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 243,indent: 1,parent: 241,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 244,indent: 1,parent: 241,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",
@@ -809,7 +809,7 @@ id: 267,indent: 0,parent: null,handNum: "159",wonOrLost: "-2.25",wonNetOrLost: "
 id: 268,indent: 1,parent: 267,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 269,indent: 1,parent: 267,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 269,indent: 1,parent: 267,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 270,indent: 1,parent: 267,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Bet",amount: "1.75",potSizeToWin: "1.75",amountToPot: "100",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&diams;</span>",
@@ -887,7 +887,7 @@ id: 293,indent: 0,parent: null,handNum: "165",wonOrLost: "-1.62",wonNetOrLost: "
 id: 294,indent: 1,parent: 293,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 295,indent: 1,parent: 293,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 295,indent: 1,parent: 293,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 296,indent: 1,parent: 293,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>",
@@ -974,7 +974,7 @@ id: 322,indent: 0,parent: null,handNum: "171",wonOrLost: "-0.50",wonNetOrLost: "
 id: 323,indent: 1,parent: 322,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 324,indent: 1,parent: 322,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 324,indent: 1,parent: 322,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 325,indent: 1,parent: 322,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Susie",lastActionAmount: "2.00",boardCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
@@ -1253,7 +1253,7 @@ id: 415,indent: 0,parent: null,handNum: "194",wonOrLost: "1.25",wonNetOrLost: "0
 id: 416,indent: 1,parent: 415,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 417,indent: 1,parent: 415,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 417,indent: 1,parent: 415,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 418,indent: 1,parent: 415,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Bet",amount: "1.25",potSizeToWin: "1.25",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
@@ -1307,7 +1307,7 @@ id: 433,indent: 0,parent: null,handNum: "199",wonOrLost: "-0.50",wonNetOrLost: "
 id: 434,indent: 1,parent: 433,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 435,indent: 1,parent: 433,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 435,indent: 1,parent: 433,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 436,indent: 1,parent: 433,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "9<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
@@ -1433,7 +1433,7 @@ id: 475,indent: 0,parent: null,handNum: "209",wonOrLost: "-0.50",wonNetOrLost: "
 id: 476,indent: 1,parent: 475,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 477,indent: 1,parent: 475,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 477,indent: 1,parent: 475,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 478,indent: 1,parent: 475,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Susie",lastActionAmount: "1.00",boardCards: "A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",
@@ -1490,7 +1490,7 @@ id: 494,indent: 0,parent: null,handNum: "214",wonOrLost: "9.00",wonNetOrLost: "4
 id: 495,indent: 1,parent: 494,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 496,indent: 1,parent: 494,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 496,indent: 1,parent: 494,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 497,indent: 1,parent: 494,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>",
@@ -1550,7 +1550,7 @@ id: 514,indent: 0,parent: null,handNum: "219",wonOrLost: "-0.50",wonNetOrLost: "
 id: 515,indent: 1,parent: 514,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 516,indent: 1,parent: 514,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 516,indent: 1,parent: 514,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 517,indent: 1,parent: 514,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "J<span style = 'font-size:125%; color: blue; '>&spades;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>, 7<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
@@ -1631,7 +1631,7 @@ id: 541,indent: 0,parent: null,handNum: "225",wonOrLost: "-3.12",wonNetOrLost: "
 id: 542,indent: 1,parent: 541,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 543,indent: 1,parent: 541,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 543,indent: 1,parent: 541,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 544,indent: 1,parent: 541,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "9<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 3<span style = 'font-size:125%; color: blue; '>&spades;</span>",
@@ -1706,7 +1706,7 @@ id: 566,indent: 0,parent: null,handNum: "231",wonOrLost: "8.50",wonNetOrLost: "5
 id: 567,indent: 1,parent: 566,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 568,indent: 1,parent: 566,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Raise",amount: "3.00",potSizeToWin: "2.50",amountToPot: "120",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 568,indent: 1,parent: 566,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Raise",amount: "3.00",potSizeToWin: "2.50",amountToPot: "120",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 569,indent: 1,parent: 566,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Bet",amount: "4.25",potSizeToWin: "8.50",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
@@ -1787,7 +1787,7 @@ id: 593,indent: 0,parent: null,handNum: "236",wonOrLost: "1.00",wonNetOrLost: "0
 id: 594,indent: 1,parent: 593,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 595,indent: 1,parent: 593,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 595,indent: 1,parent: 593,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 596,indent: 1,parent: 593,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
@@ -1844,7 +1844,7 @@ id: 612,indent: 0,parent: null,handNum: "241",wonOrLost: "-0.50",wonNetOrLost: "
 id: 613,indent: 1,parent: 612,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 614,indent: 1,parent: 612,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 614,indent: 1,parent: 612,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 615,indent: 1,parent: 612,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>",
@@ -1913,7 +1913,7 @@ id: 635,indent: 0,parent: null,handNum: "246",wonOrLost: "-0.50",wonNetOrLost: "
 id: 636,indent: 1,parent: 635,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 637,indent: 1,parent: 635,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 637,indent: 1,parent: 635,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 638,indent: 1,parent: 635,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Susie",lastActionAmount: "1.00",boardCards: "5<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>",
@@ -2060,7 +2060,7 @@ id: 684,indent: 0,parent: null,handNum: "256",wonOrLost: "-0.50",wonNetOrLost: "
 id: 685,indent: 1,parent: 684,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 686,indent: 1,parent: 684,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 686,indent: 1,parent: 684,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 687,indent: 1,parent: 684,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
@@ -2117,7 +2117,7 @@ id: 703,indent: 0,parent: null,handNum: "261",wonOrLost: "-6.50",wonNetOrLost: "
 id: 704,indent: 1,parent: 703,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 705,indent: 1,parent: 703,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 705,indent: 1,parent: 703,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 706,indent: 1,parent: 703,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Susie",lastActionAmount: "1.00",boardCards: "8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
@@ -2183,7 +2183,7 @@ id: 725,indent: 0,parent: null,handNum: "266",wonOrLost: "-0.50",wonNetOrLost: "
 id: 726,indent: 1,parent: 725,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 727,indent: 1,parent: 725,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 727,indent: 1,parent: 725,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 728,indent: 1,parent: 725,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Susie",lastActionAmount: "1.00",boardCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
@@ -2237,7 +2237,7 @@ id: 743,indent: 0,parent: null,handNum: "271",wonOrLost: "-0.50",wonNetOrLost: "
 id: 744,indent: 1,parent: 743,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 745,indent: 1,parent: 743,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 745,indent: 1,parent: 743,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 746,indent: 1,parent: 743,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, [8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>]",
@@ -2291,7 +2291,7 @@ id: 761,indent: 0,parent: null,handNum: "284",wonOrLost: "-0.50",wonNetOrLost: "
 id: 762,indent: 1,parent: 761,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 763,indent: 1,parent: 761,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 763,indent: 1,parent: 761,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 764,indent: 1,parent: 761,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "4<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
@@ -2402,7 +2402,7 @@ id: 798,indent: 0,parent: null,handNum: "292",wonOrLost: "23.00",wonNetOrLost: "
 id: 799,indent: 1,parent: 798,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 800,indent: 1,parent: 798,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 800,indent: 1,parent: 798,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 801,indent: 1,parent: 798,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Call",amount: "2.00",potSizeToWin: "3.00",amountToPot: "66",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Susie",lastActionAmount: "2.00",boardCards: "6<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>",
@@ -2459,7 +2459,7 @@ id: 817,indent: 0,parent: null,handNum: "296",wonOrLost: "-0.50",wonNetOrLost: "
 id: 818,indent: 1,parent: 817,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 819,indent: 1,parent: 817,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 819,indent: 1,parent: 817,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 820,indent: 1,parent: 817,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>",
@@ -2561,7 +2561,7 @@ id: 851,indent: 0,parent: null,handNum: "304",wonOrLost: "-0.50",wonNetOrLost: "
 id: 852,indent: 1,parent: 851,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 853,indent: 1,parent: 851,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 853,indent: 1,parent: 851,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 854,indent: 1,parent: 851,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Susie",lastActionAmount: "2.00",boardCards: "9<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>",
@@ -2606,7 +2606,7 @@ id: 866,indent: 0,parent: null,handNum: "308",wonOrLost: "3.75",wonNetOrLost: "2
 id: 867,indent: 1,parent: 866,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 868,indent: 1,parent: 866,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 868,indent: 1,parent: 866,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 869,indent: 1,parent: 866,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
@@ -2666,7 +2666,7 @@ id: 886,indent: 0,parent: null,handNum: "312",wonOrLost: "-0.50",wonNetOrLost: "
 id: 887,indent: 1,parent: 886,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 888,indent: 1,parent: 886,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 888,indent: 1,parent: 886,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 889,indent: 1,parent: 886,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "J<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 5<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
@@ -3101,7 +3101,7 @@ id: 1031,indent: 0,parent: null,handNum: "356",wonOrLost: "-3.00",wonNetOrLost: 
 id: 1032,indent: 1,parent: 1031,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 1033,indent: 1,parent: 1031,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Raise",amount: "1.00",potSizeToWin: "1.00",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 1033,indent: 1,parent: 1031,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Raise",amount: "1.00",potSizeToWin: "1.00",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 1034,indent: 1,parent: 1031,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Bet",amount: "1.50",potSizeToWin: "3.00",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 10<span style = 'font-size:125%; color: blue; '>&diams;</span>",
@@ -3176,7 +3176,7 @@ id: 1056,indent: 0,parent: null,handNum: "364",wonOrLost: "15.00",wonNetOrLost: 
 id: 1057,indent: 1,parent: 1056,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 1058,indent: 1,parent: 1056,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 1058,indent: 1,parent: 1056,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 1059,indent: 1,parent: 1056,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Susie",lastActionAmount: "1.00",boardCards: "5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>",
@@ -3227,7 +3227,7 @@ id: 1073,indent: 0,parent: null,handNum: "368",wonOrLost: "-0.50",wonNetOrLost: 
 id: 1074,indent: 1,parent: 1073,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 1075,indent: 1,parent: 1073,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 1075,indent: 1,parent: 1073,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 1076,indent: 1,parent: 1073,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "J<span style = 'font-size:125%; color: blue; '>&clubs;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&diams;</span>",
@@ -3344,7 +3344,7 @@ id: 1112,indent: 0,parent: null,handNum: "380",wonOrLost: "-0.50",wonNetOrLost: 
 id: 1113,indent: 1,parent: 1112,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 1114,indent: 1,parent: 1112,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 1114,indent: 1,parent: 1112,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 1115,indent: 1,parent: 1112,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Susie",lastActionAmount: "2.00",boardCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>, 7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
@@ -3386,7 +3386,7 @@ id: 1126,indent: 0,parent: null,handNum: "384",wonOrLost: "-0.50",wonNetOrLost: 
 id: 1127,indent: 1,parent: 1126,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
 },
 {
-id: 1128,indent: 1,parent: 1126,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "jim o",lastActionAmount: "0.50",boardCards: "",
+id: 1128,indent: 1,parent: 1126,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Jim O",lastActionAmount: "0.50",boardCards: "",
 },
 {
 id: 1129,indent: 1,parent: 1126,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",holeCards: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "4<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>",

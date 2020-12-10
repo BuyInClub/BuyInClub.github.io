@@ -135,7 +135,8 @@ var columnsTab = [
   {id: "VPIP", name: "VPIP", field: "VPIP", sortable: true, toolTip: "% of calls and raises preflop", minWidth:42},
   {id: "PFR", name: "PFR", field: "PFR", sortable: true, toolTip: "% of raises preflop", minWidth:42},
   {id: "VPIPPFR", name: "PFR/VPIP", field: "VPIPPFR", sortable: true, toolTip: "", minWidth:42},
-  { id: "AggFact", name: "Agg%", field: "AggFact", sortable: true, toolTip: "Postflop - ((Bets + All Raises) / (Bets + All Raises + Calls + Checks - CheckRaises))", minWidth:42},
+  {id: "AggFact", name: "Agg%", field: "AggFact", sortable: true, toolTip: "Postflop - ((Bets + All Raises) / (Bets + All Raises + Calls + Checks - CheckRaises))", minWidth:42},
+  {id: "biggestLosingHand", name: "Biggest Losing Hand", field: "biggestLosingHand", sortable: false, formatter: addLinkToBiggestLosingHand, minWidth: 120 },
   
 ];
 
@@ -179,6 +180,11 @@ function addLinkToBB(row, cell, value, columnDef, dataContext) {
 function addLinkToBiggestWinHand (row, cell, value, columnDef, dataContext) { 
    var rtn = "<a href='" + dataContext.table + "-Details.html?hand=" + dataContext.biggestWinHand + "'>" + dataContext.biggestWin + "</a>";
    return rtn;
+}
+
+function addLinkToBiggestLosingHand(row, cell, value, columnDef, dataContext) {
+    var rtn = "<a href='" + dataContext.table + "-Details.html?hand=" + dataContext.biggestLosingHandNum + "'>" + dataContext.biggestLosingHand + "</a>";
+    return rtn;
 }
 
 function addLinkToPlayer (row, cell, value, columnDef, dataContext) { 

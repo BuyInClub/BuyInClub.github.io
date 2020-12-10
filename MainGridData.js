@@ -2,7 +2,7 @@
 var titleTab = "Player by Table: Dec 4th 2020";
 var dataPla = [
 {
-player: "heather",wonLost: -20,numHands: 407,numWins: 46,numUncalledWins: 27,showedHoleCards: 33,VPIP: 31,PFR: 3,VPIPPFR: 9,AggFact: 30,
+player: "Heather",wonLost: -20,numHands: 407,numWins: 46,numUncalledWins: 27,showedHoleCards: 33,VPIP: 31,PFR: 3,VPIPPFR: 9,AggFact: 30,
 time: 5022,
 },
 {
@@ -34,7 +34,7 @@ player: "DanC",wonLost: -233.73,numHands: 366,numWins: 71,numUncalledWins: 47,sh
 time: 3075,
 },
 {
-player: "jim o",wonLost: -140,numHands: 401,numWins: 106,numUncalledWins: 83,showedHoleCards: 59,VPIP: 58,PFR: 19,VPIPPFR: 32,AggFact: 31,
+player: "Jim O",wonLost: -140,numHands: 401,numWins: 106,numUncalledWins: 83,showedHoleCards: 59,VPIP: 58,PFR: 19,VPIPPFR: 32,AggFact: 31,
 time: 4521,
 },
 {
@@ -68,61 +68,61 @@ time: 3135,
 ];
 var dataTab = [
 {
-player: "heather",wonLost: -20,numHands: 407,numWins: 46,numUncalledWins: 27,showedHoleCards: 33,VPIP: 31,PFR: 3,VPIPPFR: 9,AggFact: 30,table: "Table1",biggestWin: 52.24,biggestLoss: -37.37,biggestWinHand: "102",biggestLossHand: "316",consecutiveHandsWOWin: 30,
+player: "Heather",wonLost: -20,numHands: 407,numWins: 46,numUncalledWins: 27,showedHoleCards: 33,VPIP: 31,PFR: 3,VPIPPFR: 9,AggFact: 30,table: "Table1",biggestWin: 52.24,biggestLoss: -37.37,biggestWinHand: "102",biggestLossHand: "316",consecutiveHandsWOWin: 30,biggestLosingHand: "2 Pair - Qs and 5s",biggestLosingHandNum: "68",
 },
 {
-player: "John P",wonLost: 36.86,numHands: 280,numWins: 55,numUncalledWins: 45,showedHoleCards: 64,VPIP: 44,PFR: 13,VPIPPFR: 29,AggFact: 34,table: "Table1",biggestWin: 119.25,biggestLoss: -44.13,biggestWinHand: "157",biggestLossHand: "151",consecutiveHandsWOWin: 16,
+player: "John P",wonLost: 36.86,numHands: 280,numWins: 55,numUncalledWins: 45,showedHoleCards: 64,VPIP: 44,PFR: 13,VPIPPFR: 29,AggFact: 34,table: "Table1",biggestWin: 119.25,biggestLoss: -44.13,biggestWinHand: "157",biggestLossHand: "151",consecutiveHandsWOWin: 16,biggestLosingHand: "3 of a kind - 5s",biggestLosingHandNum: "150",
 },
 {
-player: "Chris Moy",wonLost: 178.62,numHands: 438,numWins: 73,numUncalledWins: 55,showedHoleCards: 74,VPIP: 44,PFR: 9,VPIPPFR: 20,AggFact: 40,table: "Table1",biggestWin: 279.62,biggestLoss: -60.5,biggestWinHand: "427",biggestLossHand: "364",consecutiveHandsWOWin: 21,
+player: "Chris Moy",wonLost: 178.62,numHands: 438,numWins: 73,numUncalledWins: 55,showedHoleCards: 74,VPIP: 44,PFR: 9,VPIPPFR: 20,AggFact: 40,table: "Table1",biggestWin: 279.62,biggestLoss: -60.5,biggestWinHand: "427",biggestLossHand: "364",consecutiveHandsWOWin: 21,biggestLosingHand: "3 of a kind - Qs",biggestLosingHandNum: "102",
 },
 {
-player: "Suzanne",wonLost: -4.2,numHands: 134,numWins: 10,numUncalledWins: 4,showedHoleCards: 0,VPIP: 32,PFR: 0,VPIPPFR: 0,AggFact: 7,table: "Table1",biggestWin: 21,biggestLoss: -4,biggestWinHand: "60",biggestLossHand: "104",consecutiveHandsWOWin: 31,
+player: "Suzanne",wonLost: -4.2,numHands: 134,numWins: 10,numUncalledWins: 4,showedHoleCards: 0,VPIP: 32,PFR: 0,VPIPPFR: 0,AggFact: 7,table: "Table1",biggestWin: 21,biggestLoss: -4,biggestWinHand: "60",biggestLossHand: "104",consecutiveHandsWOWin: 31,biggestLosingHand: "Pair - 8s",biggestLosingHandNum: "117",
 },
 {
-player: "Dave",wonLost: -80,numHands: 326,numWins: 37,numUncalledWins: 28,showedHoleCards: 50,VPIP: 35,PFR: 5,VPIPPFR: 14,AggFact: 28,table: "Table1",biggestWin: 90.01,biggestLoss: -59,biggestWinHand: "151",biggestLossHand: "157",consecutiveHandsWOWin: 37,
+player: "Dave",wonLost: -80,numHands: 326,numWins: 37,numUncalledWins: 28,showedHoleCards: 50,VPIP: 35,PFR: 5,VPIPPFR: 14,AggFact: 28,table: "Table1",biggestWin: 90.01,biggestLoss: -59,biggestWinHand: "151",biggestLossHand: "157",consecutiveHandsWOWin: 37,biggestLosingHand: "3 of a kind - As",biggestLosingHandNum: "120",
 },
 {
-player: "Toord",wonLost: -80,numHands: 202,numWins: 27,numUncalledWins: 24,showedHoleCards: 45,VPIP: 33,PFR: 11,VPIPPFR: 33,AggFact: 42,table: "Table1",biggestWin: 29.2,biggestLoss: -27.45,biggestWinHand: "195",biggestLossHand: "205",consecutiveHandsWOWin: 30,
+player: "Toord",wonLost: -80,numHands: 202,numWins: 27,numUncalledWins: 24,showedHoleCards: 45,VPIP: 33,PFR: 11,VPIPPFR: 33,AggFact: 42,table: "Table1",biggestWin: 29.2,biggestLoss: -27.45,biggestWinHand: "195",biggestLossHand: "205",consecutiveHandsWOWin: 30,biggestLosingHand: "2 Pair - 10s and 2s",biggestLosingHandNum: "205",
 },
 {
-player: "Jeff",wonLost: 111.13,numHands: 439,numWins: 85,numUncalledWins: 75,showedHoleCards: 96,VPIP: 46,PFR: 15,VPIPPFR: 32,AggFact: 41,table: "Table1",biggestWin: 123.49,biggestLoss: -30.48,biggestWinHand: "186",biggestLossHand: "302",consecutiveHandsWOWin: 16,
+player: "Jeff",wonLost: 111.13,numHands: 439,numWins: 85,numUncalledWins: 75,showedHoleCards: 96,VPIP: 46,PFR: 15,VPIPPFR: 32,AggFact: 41,table: "Table1",biggestWin: 123.49,biggestLoss: -30.48,biggestWinHand: "186",biggestLossHand: "302",consecutiveHandsWOWin: 16,biggestLosingHand: "Straight to the 6s",biggestLosingHandNum: "167",
 },
 {
-player: "DanC",wonLost: -233.73,numHands: 366,numWins: 71,numUncalledWins: 47,showedHoleCards: 40,VPIP: 57,PFR: 19,VPIPPFR: 33,AggFact: 36,table: "Table1",biggestWin: 63.71,biggestLoss: -88.08,biggestWinHand: "302",biggestLossHand: "427",consecutiveHandsWOWin: 20,
+player: "DanC",wonLost: -233.73,numHands: 366,numWins: 71,numUncalledWins: 47,showedHoleCards: 40,VPIP: 57,PFR: 19,VPIPPFR: 33,AggFact: 36,table: "Table1",biggestWin: 63.71,biggestLoss: -88.08,biggestWinHand: "302",biggestLossHand: "427",consecutiveHandsWOWin: 20,biggestLosingHand: "Straight to the Js",biggestLosingHandNum: "413",
 },
 {
-player: "jim o",wonLost: -82.75,numHands: 116,numWins: 34,numUncalledWins: 29,showedHoleCards: 68,VPIP: 61,PFR: 26,VPIPPFR: 42,AggFact: 38,table: "Table1",biggestWin: 174.23,biggestLoss: -87.46,biggestWinHand: "323",biggestLossHand: "427",consecutiveHandsWOWin: 13,
+player: "Jim O",wonLost: -82.75,numHands: 116,numWins: 34,numUncalledWins: 29,showedHoleCards: 68,VPIP: 61,PFR: 26,VPIPPFR: 42,AggFact: 38,table: "Table1",biggestWin: 174.23,biggestLoss: -87.46,biggestWinHand: "323",biggestLossHand: "427",consecutiveHandsWOWin: 13,biggestLosingHand: "3 of a kind - 9s",biggestLosingHandNum: "343",
 },
 {
-player: "Greg",wonLost: 126.08,numHands: 145,numWins: 17,numUncalledWins: 10,showedHoleCards: 100,VPIP: 36,PFR: 8,VPIPPFR: 22,AggFact: 27,table: "Table1",biggestWin: 124,biggestLoss: -13,biggestWinHand: "364",biggestLossHand: "416",consecutiveHandsWOWin: 26,
+player: "Greg",wonLost: 126.08,numHands: 145,numWins: 17,numUncalledWins: 10,showedHoleCards: 100,VPIP: 36,PFR: 8,VPIPPFR: 22,AggFact: 27,table: "Table1",biggestWin: 124,biggestLoss: -13,biggestWinHand: "364",biggestLossHand: "416",consecutiveHandsWOWin: 26,biggestLosingHand: "Pair - As",biggestLosingHandNum: "367",
 },
 {
-player: "Susie",wonLost: 47.99,numHands: 103,numWins: 4,numUncalledWins: 2,showedHoleCards: 100,VPIP: 22,PFR: 1,VPIPPFR: 4,AggFact: 39,table: "Table1",biggestWin: 148.58,biggestLoss: -26.5,biggestWinHand: "413",biggestLossHand: "370",consecutiveHandsWOWin: 56,
+player: "Susie",wonLost: 47.99,numHands: 103,numWins: 4,numUncalledWins: 2,showedHoleCards: 100,VPIP: 22,PFR: 1,VPIPPFR: 4,AggFact: 39,table: "Table1",biggestWin: 148.58,biggestLoss: -26.5,biggestWinHand: "413",biggestLossHand: "370",consecutiveHandsWOWin: 56,biggestLosingHand: "Straight to the 10s",biggestLosingHandNum: "370",
 },
 {
-player: "Craig",wonLost: 90.15,numHands: 283,numWins: 45,numUncalledWins: 33,showedHoleCards: 72,VPIP: 38,PFR: 12,VPIPPFR: 31,AggFact: 38,table: "Table2",biggestWin: 57.5,biggestLoss: -19,biggestWinHand: "187",biggestLossHand: "141",consecutiveHandsWOWin: 21,
+player: "Craig",wonLost: 90.15,numHands: 283,numWins: 45,numUncalledWins: 33,showedHoleCards: 72,VPIP: 38,PFR: 12,VPIPPFR: 31,AggFact: 38,table: "Table2",biggestWin: 57.5,biggestLoss: -19,biggestWinHand: "187",biggestLossHand: "141",consecutiveHandsWOWin: 21,biggestLosingHand: "2 Pair - Js and 10s",biggestLosingHandNum: "137",
 },
 {
-player: "Greg",wonLost: 85.6,numHands: 384,numWins: 67,numUncalledWins: 51,showedHoleCards: 98,VPIP: 41,PFR: 12,VPIPPFR: 29,AggFact: 21,table: "Table2",biggestWin: 58.77,biggestLoss: -21.5,biggestWinHand: "383",biggestLossHand: "87",consecutiveHandsWOWin: 23,
+player: "Greg",wonLost: 85.6,numHands: 384,numWins: 67,numUncalledWins: 51,showedHoleCards: 98,VPIP: 41,PFR: 12,VPIPPFR: 29,AggFact: 21,table: "Table2",biggestWin: 58.77,biggestLoss: -21.5,biggestWinHand: "383",biggestLossHand: "87",consecutiveHandsWOWin: 23,biggestLosingHand: "3 of a kind - As",biggestLosingHandNum: "87",
 },
 {
-player: "Bailey",wonLost: -100,numHands: 197,numWins: 18,numUncalledWins: 11,showedHoleCards: 90,VPIP: 25,PFR: 13,VPIPPFR: 52,AggFact: 31,table: "Table2",biggestWin: 18,biggestLoss: -20.75,biggestWinHand: "86",biggestLossHand: "187",consecutiveHandsWOWin: 34,
+player: "Bailey",wonLost: -100,numHands: 197,numWins: 18,numUncalledWins: 11,showedHoleCards: 90,VPIP: 25,PFR: 13,VPIPPFR: 52,AggFact: 31,table: "Table2",biggestWin: 18,biggestLoss: -20.75,biggestWinHand: "86",biggestLossHand: "187",consecutiveHandsWOWin: 34,biggestLosingHand: "2 Pair - Ks and 8s",biggestLosingHandNum: "53",
 },
 {
-player: "Doug",wonLost: 20.91,numHands: 148,numWins: 37,numUncalledWins: 24,showedHoleCards: 33,VPIP: 65,PFR: 5,VPIPPFR: 7,AggFact: 17,table: "Table2",biggestWin: 46.6,biggestLoss: -14.5,biggestWinHand: "120",biggestLossHand: "123",consecutiveHandsWOWin: 18,
+player: "Doug",wonLost: 20.91,numHands: 148,numWins: 37,numUncalledWins: 24,showedHoleCards: 33,VPIP: 65,PFR: 5,VPIPPFR: 7,AggFact: 17,table: "Table2",biggestWin: 46.6,biggestLoss: -14.5,biggestWinHand: "120",biggestLossHand: "123",consecutiveHandsWOWin: 18,biggestLosingHand: "3 of a kind - 2s",biggestLosingHandNum: "80",
 },
 {
-player: "RB33",wonLost: -20,numHands: 371,numWins: 82,numUncalledWins: 62,showedHoleCards: 91,VPIP: 50,PFR: 10,VPIPPFR: 20,AggFact: 44,table: "Table2",biggestWin: 49.22,biggestLoss: -28.26,biggestWinHand: "241",biggestLossHand: "383",consecutiveHandsWOWin: 21,
+player: "RB33",wonLost: -20,numHands: 371,numWins: 82,numUncalledWins: 62,showedHoleCards: 91,VPIP: 50,PFR: 10,VPIPPFR: 20,AggFact: 44,table: "Table2",biggestWin: 49.22,biggestLoss: -28.26,biggestWinHand: "241",biggestLossHand: "383",consecutiveHandsWOWin: 21,biggestLosingHand: "Flush - A high",biggestLosingHandNum: "302",
 },
 {
-player: "Will",wonLost: -20,numHands: 97,numWins: 14,numUncalledWins: 7,showedHoleCards: 100,VPIP: 44,PFR: 1,VPIPPFR: 2,AggFact: 31,table: "Table2",biggestWin: 30,biggestLoss: -27.3,biggestWinHand: "90",biggestLossHand: "157",consecutiveHandsWOWin: 27,
+player: "Will",wonLost: -20,numHands: 97,numWins: 14,numUncalledWins: 7,showedHoleCards: 100,VPIP: 44,PFR: 1,VPIPPFR: 2,AggFact: 31,table: "Table2",biggestWin: 30,biggestLoss: -27.3,biggestWinHand: "90",biggestLossHand: "157",consecutiveHandsWOWin: 27,biggestLosingHand: "Pair - As",biggestLosingHandNum: "157",
 },
 {
-player: "jim o",wonLost: -57.25,numHands: 285,numWins: 72,numUncalledWins: 54,showedHoleCards: 53,VPIP: 57,PFR: 17,VPIPPFR: 29,AggFact: 29,table: "Table2",biggestWin: 58.35,biggestLoss: -21.79,biggestWinHand: "157",biggestLossHand: "340",consecutiveHandsWOWin: 14,
+player: "Jim O",wonLost: -57.25,numHands: 285,numWins: 72,numUncalledWins: 54,showedHoleCards: 53,VPIP: 57,PFR: 17,VPIPPFR: 29,AggFact: 29,table: "Table2",biggestWin: 58.35,biggestLoss: -21.79,biggestWinHand: "157",biggestLossHand: "340",consecutiveHandsWOWin: 14,biggestLosingHand: "Flush - K high",biggestLosingHandNum: "340",
 },
 {
-player: "Susie",wonLost: 0.59,numHands: 294,numWins: 58,numUncalledWins: 50,showedHoleCards: 94,VPIP: 39,PFR: 3,VPIPPFR: 7,AggFact: 42,table: "Table2",biggestWin: 49.22,biggestLoss: -14.25,biggestWinHand: "241",biggestLossHand: "112",consecutiveHandsWOWin: 28,
+player: "Susie",wonLost: 0.59,numHands: 294,numWins: 58,numUncalledWins: 50,showedHoleCards: 94,VPIP: 39,PFR: 3,VPIPPFR: 7,AggFact: 42,table: "Table2",biggestWin: 49.22,biggestLoss: -14.25,biggestWinHand: "241",biggestLossHand: "112",consecutiveHandsWOWin: 28,biggestLosingHand: "Flush - J high",biggestLosingHandNum: "270",
 },
 ];
 var mainTable1GraphData = [
@@ -136,7 +136,7 @@ var toolTipContainer = $('.canvasjs-chart-tooltip');
 $(toolTipContainer).css('top', (e.y - $(toolTipContainer).height() / 2) + 'px');
 $(toolTipContainer).css('left', (e.x - $(toolTipContainer).width() / 2) + 'px');
 },
-name: "heather",
+name: "Heather",
 dataPoints: [
 { label: "1", y: -1.00},
 { label: "2", y: -1.50},
@@ -2965,7 +2965,7 @@ var toolTipContainer = $('.canvasjs-chart-tooltip');
 $(toolTipContainer).css('top', (e.y - $(toolTipContainer).height() / 2) + 'px');
 $(toolTipContainer).css('left', (e.x - $(toolTipContainer).width() / 2) + 'px');
 },
-name: "jim o",
+name: "Jim O",
 dataPoints: [
 { label: "1", y: null},
 { label: "2", y: null},
@@ -5970,7 +5970,7 @@ var toolTipContainer = $('.canvasjs-chart-tooltip');
 $(toolTipContainer).css('top', (e.y - $(toolTipContainer).height() / 2) + 'px');
 $(toolTipContainer).css('left', (e.x - $(toolTipContainer).width() / 2) + 'px');
 },
-name: "jim o",
+name: "Jim O",
 dataPoints: [
 { label: "1", y: null},
 { label: "2", y: null},
