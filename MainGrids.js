@@ -136,7 +136,7 @@ var columnsTab = [
   {id: "PFR", name: "PFR", field: "PFR", sortable: true, toolTip: "% of raises preflop", minWidth:42},
   {id: "VPIPPFR", name: "PFR/VPIP", field: "VPIPPFR", sortable: true, toolTip: "", minWidth:42},
   {id: "AggFact", name: "Agg%", field: "AggFact", sortable: true, toolTip: "Postflop - ((Bets + All Raises) / (Bets + All Raises + Calls + Checks - CheckRaises))", minWidth:42},
-  {id: "biggestLosingHand", name: "Biggest Losing Hand", field: "biggestLosingHand", sortable: false, formatter: addLinkToBiggestLosingHand, minWidth: 120 },
+  { id: "biggestLosingHand", name: "Biggest Losing Hand", field: "biggestLosingHand", sortable: false, toolTip: "Must use both hole cards",formatter: addLinkToBiggestLosingHand, minWidth: 120 },
   
 ];
 
