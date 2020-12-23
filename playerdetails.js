@@ -11,6 +11,8 @@ $("#clearFilters").click(function () {
     document.getElementById('amountWonSearch').value = "";
     document.getElementById('amountLossSearch').value = "";
     document.getElementById('positionSearch').value = "";
+    document.getElementById('holeCardsTierSearch').value = "";
+    document.getElementById('totalPlayersSearch').value = "";
 
     document.getElementById('stepSearch').value = "";
     document.getElementById('actionAmountSearch').value = "";
@@ -83,6 +85,14 @@ function parentCriteriaMet(item)
         (!item.position.includes(document.getElementById('positionSearch').value))) {
         return "NoMatch";
     }
+    if ((document.getElementById('holeCardsTierSearch').value !== "") &&
+        (document.getElementById('holeCardsTierSearch').value !== item.holeCardsTier)) {
+        return "NoMatch";
+    }
+    if ((document.getElementById('totalPlayersSearch').value !== "") &&
+        (document.getElementById('totalPlayersSearch').value !== item.totalPlayers)) {
+        return "NoMatch";
+    }
     if ((document.getElementById('amountWonSearch').value !== "") &&
         (parseFloat(document.getElementById('amountWonSearch').value) > parseFloat(item.wonNetOrLost))) {
         return "NoMatch";
@@ -92,7 +102,7 @@ function parentCriteriaMet(item)
         return "NoMatch";
     }
     if ((document.getElementById('positionSearch').value === "") && (document.getElementById('amountWonSearch').value === "")
-        && (document.getElementById('amountLossSearch').value === "")) {
+        && (document.getElementById('amountLossSearch').value === "") && (document.getElementById('holeCardsTierSearch').value === "") && (document.getElementById('totalPlayersSearch').value === "")) {
         return "NoCriteria"
     }
 
@@ -183,7 +193,6 @@ $("#search").click(function () {
                 if (parseFloat(item.wonNetOrLost) < 0) { numLost++; }
                 if (parseFloat(item.wonNetOrLost) > 0) { numWin++; }
                 numWL = numWL + parseFloat(item.wonNetOrLost);
-                //numWL = numWL + (parseFloat(item.endAmt) - parseFloat(item.startAmt));
                 //console.log("Hand: " + item.handNum + "WonLost Total: " + numWL.toFixed(2));
                 if (item.holeCards !== "") { numHoleCards++; }
                 numFound++;
@@ -295,6 +304,14 @@ function cellFound(row, cell, value, columnDef, dataContext) {
                 if (value.includes(document.getElementById('positionSearch').value)) 
                     { rtn.addClasses = "cellFound"; }
             }
+            if (columnDef.id === "holeCardsTier" && document.getElementById('holeCardsTierSearch').value !== "") {
+                if (document.getElementById('holeCardsTierSearch').value === value)
+                { rtn.addClasses = "cellFound"; }
+            }
+            if (columnDef.id === "position" && document.getElementById('totalPlayersSearch').value !== "") {
+                if (document.getElementById('totalPlayersSearch').value === dataContext.totalPlayers)
+                { rtn.addClasses = "cellFound"; }
+            }
             if (columnDef.id === "wonNetOrLost" && document.getElementById('amountWonSearch').value !== "") 
                 if (parseFloat(value) >= parseFloat(document.getElementById('amountWonSearch').value)) {
                     { rtn.addClasses = "cellFound"; }
@@ -373,6 +390,7 @@ var columns = [
   {id: "endAmt", name: "End Amt", field: "endAmt", minWidth: 60},
   {id: "position", name: "Position", field: "position", formatter: cellFound},
   {id: "holeCards", name: "Hole Cards", field: "holeCards", formatter: HtmlFormatter},
+  { id: "holeCardsTier", name: "HC Tier", field: "holeCardsTier", width: 50, formatter: cellFound, toolTip: "Hole Card Tier from https://en.wikipedia.org/wiki/Texas_hold_%27em_starting_hands#Statistics_based_on_real_online_play" },
   {id: "step", name: "Step", field: "step", formatter: cellFound},
   {id: "boardCards", name: "Board Cards", field: "boardCards", minWidth: 120, formatter: HtmlFormatter},
   {id: "action", name: "Action", field: "action", formatter: cellFound},
