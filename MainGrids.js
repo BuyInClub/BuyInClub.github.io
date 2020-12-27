@@ -91,7 +91,8 @@ var columnsPla = [
   {id: "VPIP", name: "VPIP", field: "VPIP", sortable: true, toolTip: "% of calls and raises preflop", minWidth:42},
   {id: "PFR", name: "PFR", field: "PFR", sortable: true, toolTip: "% of raises preflop", minWidth:42},
   {id: "VPIPPFR", name: "PFR/VPIP", field: "VPIPPFR", sortable: true, toolTip: "", minWidth:42},
-  { id: "AggFact", name: "Agg%", field: "AggFact", sortable: true, toolTip: "Postflop - ((Bets + All Raises) / (Bets + All Raises + Calls + Checks - CheckRaises))", minWidth:42},
+  { id: "AggFact", name: "Agg%", field: "AggFact", sortable: true, toolTip: "Postflop - ((Bets + All Raises) / (Bets + All Raises + Calls + Checks - CheckRaises))", minWidth: 42 },
+  { id: "numFoldedWH", name: "# Daves", field: "numFoldedWH", sortable: true, toolTip: "Hand you folded preflop that would of won", minWidth: 42 },
   {id: "time", name: "Time (ms)", field: "time", sortable: true, toolTip: "time (ms) on average to take an action", minWidth: 42 },
   
 ];
@@ -135,7 +136,8 @@ var columnsTab = [
   {id: "VPIP", name: "VPIP", field: "VPIP", sortable: true, toolTip: "% of calls and raises preflop", minWidth:42},
   {id: "PFR", name: "PFR", field: "PFR", sortable: true, toolTip: "% of raises preflop", minWidth:42},
   {id: "VPIPPFR", name: "PFR/VPIP", field: "VPIPPFR", sortable: true, toolTip: "", minWidth:42},
-  {id: "AggFact", name: "Agg%", field: "AggFact", sortable: true, toolTip: "Postflop - ((Bets + All Raises) / (Bets + All Raises + Calls + Checks - CheckRaises))", minWidth:42},
+  { id: "AggFact", name: "Agg%", field: "AggFact", sortable: true, toolTip: "Postflop - ((Bets + All Raises) / (Bets + All Raises + Calls + Checks - CheckRaises))", minWidth: 42 },
+  { id: "numFoldedWH", name: "# Daves", field: "numFoldedWH", sortable: true, toolTip: "Hand you folded preflop that would of won", minWidth: 42 },
   { id: "biggestLosingHand", name: "Biggest Losing Hand", field: "biggestLosingHand", sortable: false, toolTip: "Must use both hole cards",formatter: addLinkToBiggestLosingHand, minWidth: 120 },
   
 ];

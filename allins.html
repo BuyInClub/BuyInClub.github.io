@@ -24,6 +24,27 @@
             <div class="grid-header" style="width:100%">
                 <label>All-Ins ($10 or more)</label>
             </div>
+            <div style="border:1px solid gray;background:wheat;padding:6px;">
+                <div style="float:left">
+                    <label>Filters: Session-Table:Hand: </label>
+                    <input size="20" type=text id="sessionTableHandSearch">
+                    <label>Player: </label>
+                    <input size="10" type=text id="playerSearch">
+                    <label>Action: </label>
+                    <input size="15" type=text id="actionSearch">
+                    <label>Action Amount GEQ: </label>
+                    <input type="number" min="0" max="999" type=text id="actionAmountSearch">
+                    <label>Step: </label>
+                    <input size="8" type=text id="stepSearch">
+                </div>
+                <div style="text-align: right">
+                    <button id="clearFilters">Clear</button>
+                    <button id="search">Filter</button>
+                </div>
+                <label>Search Summary -  </label>
+                <label id="searchResults"></label>
+            </div>
+
             <div class="container">
                 <div id="myGridAI" style="width:100%"></div>
             </div>
@@ -87,7 +108,15 @@
             for (var i = 0, l = cols.length; i < l; i++) {
                 var field = cols[i].sortCol.field;
                 var sign = cols[i].sortAsc ? 1 : -1;
-                var value1 = dataRow1[field], value2 = dataRow2[field];
+
+                if (cols[i].sortCol.field === 'holeCardsRank' || cols[i].sortCol.field === 'numOuts') {
+                    var value1 = parseIntWithDefault(dataRow1[field]),
+                        value2 = parseIntWithDefault(dataRow2[field]);
+                }
+                else {
+                    var value1 = dataRow1[field],
+                        value2 = dataRow2[field];
+                }
                 var result = (value1 == value2 ? 0 : (value1 > value2 ? 1 : -1)) * sign;
                 if (result != 0) {
                     return result;
@@ -99,4 +128,11 @@
         gridAI.invalidate();
         gridAI.render();
     });
+
+    function parseIntWithDefault(value)
+    {
+        var result = parseInt(value);
+        if (isNaN(result)) { result = -1; }
+        return result;
+    }
 </script>
