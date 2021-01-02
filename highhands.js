@@ -1,1 +1,0 @@
-﻿var highhandList = [{"playerName":"RB33","session":"Dec 29th 2020","handName":"4 of a kind - 7s","link":"Table1-Details.html?hand=197","amount":22.62},{"playerName":"Bob","session":"Dec 29th 2020","handName":"4 of a kind - 4s","link":"Table1-Details.html?hand=28","amount":16.5}]
