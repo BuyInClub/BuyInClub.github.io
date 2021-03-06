@@ -1,0 +1,151 @@
+<html xmlns="https://www.w3.org/TR/REC-html40">
+
+<head>
+	<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+
+	<title>Re-Buyin Club Main Page</title>
+	<link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/slick.grid.css">
+	<link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/slick-default-theme.css">
+    <link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/css/smoothness/jquery-ui.css">
+    <link rel="stylesheet" href="gridstyles.css" type="text/css" />
+	<link href="rebuystyles.css" rel="stylesheet" type="text/css">    
+	<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<script src="https://code.jquery.com/ui/1.11.0/jquery-ui.min.js"></script>
+	<script src="https://6pac.github.io/SlickGrid/lib/jquery.event.drag-2.3.0.js"></script>
+	<script src="https://6pac.github.io/SlickGrid/slick.core.js"></script>
+	<script src="https://6pac.github.io/SlickGrid/slick.grid.js"></script>
+	<script src="https://6pac.github.io/SlickGrid/slick.dataview.js"></script>
+	<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+	<script type="text/javascript" src="indexData.js"></script>
+    <script type="text/javascript" src="bigholecards.js"></script>
+</head>
+
+<body>
+    <div height="180">  
+        <p style="float: left;"><img src="rebuylogosm.png" width="180" height="180" alt="Welcome to The Re-Buy Club, Concord, MA - Established 2018"></p>        
+        <h1 style="font-size:xx-large; text-align: center; padding-top: 1em;">Welcome to the Re-Buyin Club - Poker Informatics</h1>
+        <p style="font-size:medium; padding-left: 13em">
+            This site is to provide us with some fun statistics and hand details from our poker nights.  This is a work in progress.
+            This initial page will provide a summary of the different sessions and overall player totals.  From this page you can click into the last session and start exploring.
+            Due to space limitations of the provider github only the last poker night will have details.  Enjoy Tyrell.
+        </p>    
+    </div>
+
+
+    <div style="clear:both">
+    <table style="width: 1100px; border-collapse:collapse">
+        <colgroup>
+        <col style="width: 300px">
+        <col style="width: 500px">
+        </colgroup>
+        <tbody>
+          <tr>
+            <td style="height:1px">        
+                <p>
+                    <a href="highhands.html" style="font-size:large; padding:0; margin:0; color:#deb66e;">History of 4 of a kind or better hands</a>
+                </p>
+            </td>
+            <!-- for use later if we want image next to the links -->
+            <td rowspan="6"><!--<img src="images_pc/poker1.png" alt=""/>--></td>
+          </tr>
+          <tr>
+            <td style="height:1px">        
+                <p>
+                    <a href="badbeats.html" style="font-size:large; padding:0; margin:0;  color:#deb66e;">History of bad beats</a>
+                </p>
+            </td>
+          </tr>
+          <tr>
+            <td style="height:1px">        
+                <p>
+                    <a href="records.html" style="font-size:large; padding:0; margin:0;  color:#deb66e;">Session records</a>
+                </p>
+            </td>
+          </tr>
+          <tr>
+            <td style="height:1px">        
+                <p>
+                    <a href="nemesishero.html" style="font-size:large;  padding:0; margin:0; color:#deb66e;">Cumulative Nemesis-Hero</a>
+                </p>
+            </td>
+          </tr>
+          <tr>
+            <td style="height:1px">        
+                <p style="font-size:large">
+                    <a href="allins.html" style="font-size:large; padding:0; margin:0;  color:#deb66e;">History of All-Ins</a>
+                </p>
+            </td>
+          </tr>
+          <tr>
+            <td>        
+                <p style="font-size:large">
+                    <a href="holecards.html" style="font-size:large;  padding:0; margin:0; color:#deb66e;">Cumulative high hole cards</a>
+                </p>
+            </td>
+          </tr>
+        </tbody>
+    </table>
+    </div>
+
+    <div style="position:relative">
+        <div style="width:920px;">
+            <div class="grid-header" style="width:100%">
+                <label>Session Summary</label>
+            </div>
+            <div class="container">
+                <div id="gridSessions" style="width:100%"></div>
+            </div>
+        </div>
+        <div style="width:720px;">
+            <div class="grid-header" style="width:100%">
+                <label id="titlePla">Player Totals for all Sessions</label>
+            </div>
+            <div class="container">
+                <div id="myGridPla" style="width:100%"></div>
+            </div>
+        </div>
+
+        <br>
+        <p style="font-size:12pt; color:#fff; margin-bottom: 0em;" >
+            Changes to the web site in 2021:  
+        </p>
+        <ul class="a"> 
+            <li>2-25-21 - Chnaged uncalled wins to a %</li>
+            <li>2-25-21 - Fix bug calculating hole card rank</li>
+            <li>2-21-21 - Add player summary for bad beats</li>
+            <li>2-14-21 - Add volatility measurement for session and player</li>
+            <li>2-7-21 - Add time of last hand per player for a session and overall per session</li>
+            <li>2-4-21 - Improve all-in grid, color win or loss and note if all-in was called.</li>
+            <li>1-19-21 - Added styling!</li>
+            <li>1-4-21 - In the all-in grid, change all-in amount to risk amount and make the minimum $10</li>
+            <li>1-2-21 - Add in big winner amount percent for a record</li>
+            <li>1-2-21 - Add in session list big winner amount and percent of total money</li>
+            <li>1-2-21 - Put cumulative big hole cards on its own page</li>
+            <li>1-2-21 - Track # of hands over a $100 per session and records</li>
+            <li>1-2-21 - Track # of wins in a session for a record</li>
+            <li>1-2-21 - To have a Dave, need win a minimum of $5</li>
+        </ul>
+        <p style="font-size:12pt; color:#fff; margin-bottom: 0em;" >
+            Things to come:
+        </p>
+        <ul class="a">
+            <li>Add volatility to the records</li>
+            <li>Add streak statistic</li>
+            <li>Add grid giving a break-down of winning hands</li>
+            <li>Add export feature</li>
+            <li>Add in summary in players table details # folded, # checked if filtered by step</li>
+            <li>Add in summary in players VPIP, etc</li>
+            <li>Internal fixes - need to switch to OAuth for publishing to Git (this may not be needed)</li>
+            <li>Internal fixes - make calculating total money on tables automatic</li>
+        </ul>
+</body>
+</html>
+
+<script>
+    document.getElementById('titlePla').innerHTML = "Player Totals for all Sessions: " + plaTitle;
+</script>
+
+<script type="text/javascript" src="indexGrids.js"></script>
