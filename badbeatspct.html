@@ -1,0 +1,156 @@
+﻿<html xmlns="https://www.w3.org/TR/REC-html40">
+
+<head>
+    <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+    <link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/slick.grid.css">
+    <link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/slick-default-theme.css">
+    <link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/css/smoothness/jquery-ui.css">
+    <link rel="stylesheet" href="gridstyles.css" type="text/css" />
+    <link href="rebuystyles.css" rel="stylesheet" type="text/css">
+
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.0/jquery-ui.min.js"></script>
+    <script src="https://6pac.github.io/SlickGrid/lib/jquery.event.drag-2.3.0.js"></script>
+    <script src="https://6pac.github.io/SlickGrid/slick.core.js"></script>
+    <script src="https://6pac.github.io/SlickGrid/slick.grid.js"></script>
+    <script src="https://6pac.github.io/SlickGrid/slick.dataview.js"></script>
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    <script type="text/javascript" src="badbeatspercent.js"></script>
+
+</head>
+
+
+<body>
+    <div style="position:relative">
+        <div style="width:720px;">
+            <div class="grid-header" style="width:100%">
+                <label>Bad Beat Player Summary - Are you lucky!</label>
+            </div>
+            <div class="container">
+                <div id="myGridBBPlay" style="width:100%"></div>
+            </div>
+        </div>
+
+        <div style="width:920px;">
+            <div class="grid-header" style="width:100%">
+                <label>Bad Beats (see details below on BB calculator)</label>
+            </div>
+            <div class="container">
+                <div id="myGridBB" style="width:100%"></div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <p style="font-size:12pt; color:#fff; margin-bottom: 0em;">
+        Some information on how bad beats are calculated and the information provided:
+    </p>
+    <ul class="a">
+        <li>A bad beat can happen on any street</li>
+        <li>Only 2 players can be in at the end of the hand</li>
+        <li>The threshold to get a bad beat is calculated as 2*(19 percent)/# num players in the hand</li>
+        <li>Percentage of ties is added to the percent of winning</li>
+        <li>Cards shown by other players at end of hand are used in the calculation of percent to win, they are considered dead cards</li>
+        <li>On the street the BB threshold is met, a minimum of $10 must be in the pot</li>
+        <li>The percent column will have alway have the lowest percent the BB winner had to win</li>
+        <li>Any amounts in columns starting with 'Pot' will be based on the entire hand</li>
+        <li>Any amounts in columns starting with 'BB' will be based on the end of the last street the BB winner was under the threshold</li>
+    </ul>
+
+</body>
+
+</html>
+
+<script>
+    var options = {
+        enableCellNavigation: true,
+        enableColumnReorder: true,
+        multiColumnSort: true,
+        autoHeight: true,
+    };
+    // Player summarry of Bad Beats
+    var gridBBPlay;
+    var columnsBBPlay = [
+        { id: "name", name: "Name", field: "name", sortable: true, minWidth: 50 },
+        { id: "numLost", name: "# Lost", field: "numLost", sortable: true, minWidth: 42 },
+        { id: "lostAmount", name: "Pot Amt Lost", field: "lostAmount", sortable: true, minWidth: 42 },
+        { id: "bbLostAmount", name: "BB Amt Lost", field: "bbLostAmount", sortable: true, minWidth: 42 },
+        { id: "numWon", name: "# Won", field: "numWon", sortable: true, minWidth: 42 },
+        { id: "wonAmount", name: "Pot Amt Won", field: "wonAmount", sortable: true, minWidth: 42 },
+        { id: "bbWonAmount", name: "BB Amt Won", field: "bbWonAmount", sortable: true, minWidth: 42 },
+        { id: "wonLost", name: "Pot Total", field: "wonLost", sortable: true, minWidth: 42 },
+        { id: "bbWonLost", name: "BB Total", field: "bbWonLost", sortable: true, minWidth: 42 },
+    ];
+
+    gridBBPlay = new Slick.Grid("#myGridBBPlay", playerSummaryList, columnsBBPlay, options);
+
+    gridBBPlay.onSort.subscribe(function (e, args) {
+        var cols = args.sortCols;
+
+        playerSummaryList.sort(function (dataRow1, dataRow2) {
+            for (var i = 0, l = cols.length; i < l; i++) {
+                var field = cols[i].sortCol.field;
+                var sign = cols[i].sortAsc ? 1 : -1;
+                var value1 = dataRow1[field], value2 = dataRow2[field];
+                var result = (value1 == value2 ? 0 : (value1 > value2 ? 1 : -1)) * sign;
+                if (result != 0) {
+                    return result;
+                }
+            }
+            return 0;
+        });
+
+        gridBBPlay.invalidate();
+        gridBBPlay.render();
+    });
+
+
+    // Bad Beat table
+    var gridBB;
+    var columnsBB = [
+        { id: "session", name: "Session", field: "session", sortable: true, minWidth: 120 },
+        { id: "luckyWinner", name: "BB Winner", field: "luckyWinner", sortable: true, formatter: addLinkToBB, minWidth: 50 },
+        { id: "wonAmount", name: "Pot Amt Won", field: "wonAmount", sortable: true, minWidth: 42 },
+        { id: "bbWonAmount", name: "BB Amt Won", field: "bbWonAmount", sortable: true, minWidth: 42 },
+        { id: "unluckyLoser", name: "BB Loser", field: "unluckyLoser", sortable: true, minWidth: 50 },
+        { id: "lostAmount", name: "Pot Amt Lost", field: "lostAmount", sortable: true, minWidth: 42 },
+        { id: "bbLostAmount", name: "BB Amt Lost", field: "bbLostAmount", sortable: true, minWidth: 42 },
+        { id: "percent", name: "Percent", field: "percent", sortable: true, minWidth: 42 },
+        { id: "numPlayers", name: "# Players", field: "numPlayers", sortable: true, minWidth: 42 },
+        { id: "step", name: "Step", field: "step", sortable: true, minWidth: 42 },
+        { id: "amount", name: "Pot Amt", field: "amount", sortable: true, minWidth: 42 },
+    ];
+
+    function addLinkToBB(row, cell, value, columnDef, dataContext) {
+        var rtn;
+        if (dataContext.link === "") {
+            rtn = value;
+        }
+        else {
+            rtn = "<a href='" + dataContext.link + "'>" + value + "</a>";
+        }
+        return rtn;
+    }
+
+    gridBB = new Slick.Grid("#myGridBB", badBeatList, columnsBB, options);
+
+
+    gridBB.onSort.subscribe(function (e, args) {
+        var cols = args.sortCols;
+
+        badBeatList.sort(function (dataRow1, dataRow2) {
+            for (var i = 0, l = cols.length; i < l; i++) {
+                var field = cols[i].sortCol.field;
+                var sign = cols[i].sortAsc ? 1 : -1;
+                var value1 = dataRow1[field], value2 = dataRow2[field];
+                var result = (value1 == value2 ? 0 : (value1 > value2 ? 1 : -1)) * sign;
+                if (result != 0) {
+                    return result;
+                }
+            }
+            return 0;
+        });
+
+        gridBB.invalidate();
+        gridBB.render();
+    });
+</script>
