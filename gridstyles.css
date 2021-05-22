@@ -1,0 +1,30 @@
+.cell-title {
+    font-weight: bold;
+  }
+
+  .toggle {
+    height: 9px;
+    width: 9px;
+    display: inline-block;
+  }
+
+  .toggle.expand {
+    background: url(http://6pac.github.io/SlickGrid/images/expand.gif) no-repeat center center;
+  }
+
+  .toggle.collapse {
+    background: url(http://6pac.github.io/SlickGrid/images/collapse.gif) no-repeat center center;
+  }
+  .cellFound {
+  color: #006100;
+  background: #C6EFCE;
+}
+.cellGood {
+    color: #006100;
+    background: #C6EFCE;
+}
+
+.cellBad {
+    color: #9C0006;
+    background: #FFC7CE;
+}
