@@ -29,6 +29,7 @@
 { label: "July 9th 2021", y: 20},
 { label: "July 16th 2021", y: 10},
 { label: "July 23rd 2021", y: 16},
+{ label: "July 30th 2021", y: 19},
 ]
 var VPIP = [
 { label: "Jan 1st 2021", y: 65},
@@ -61,6 +62,7 @@ var VPIP = [
 { label: "July 9th 2021", y: 56},
 { label: "July 16th 2021", y: 52},
 { label: "July 23rd 2021", y: 59},
+{ label: "July 30th 2021", y: 68},
 ]
 var Agg = [
 { label: "Jan 1st 2021", y: 35},
@@ -93,6 +95,7 @@ var Agg = [
 { label: "July 9th 2021", y: 39},
 { label: "July 16th 2021", y: 34},
 { label: "July 23rd 2021", y: 33},
+{ label: "July 30th 2021", y: 30},
 ]
 var wonLost = [
 { label: "Jan 1st 2021", y: -60.00},
@@ -125,4 +128,5 @@ var wonLost = [
 { label: "July 9th 2021", y: -200.0},
 { label: "July 16th 2021", y: -120.0},
 { label: "July 23rd 2021", y: -180.0},
+{ label: "July 30th 2021", y: -57.74},
 ]
