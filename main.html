@@ -1,0 +1,207 @@
+
+
+
+<html xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+	<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+	<title>Session Summary</title>
+	<link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/slick.grid.css">
+	<link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/slick-default-theme.css">
+	<link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/css/smoothness/jquery-ui.css">
+	<link rel="stylesheet" href="gridstyles.css" type="text/css" />
+	<link href="rebuystyles.css" rel="stylesheet" type="text/css">
+
+
+	<style>
+		.canvasjs-chart-tooltip * {
+		  pointer-events: auto !important;
+		  -webkit-user-select: auto !important; /* Safari 3.1+ */
+		  -moz-user-select: auto !important; /* Firefox 2+ */
+		  -ms-user-select: auto !important; /* IE 10+ */
+		  user-select: auto !important; /* Standard syntax */
+		}
+	</style>
+	<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+	<script src="https://code.jquery.com/ui/1.11.0/jquery-ui.min.js"></script>
+	<script src="https://6pac.github.io/SlickGrid/lib/jquery.event.drag-2.3.0.js"></script>
+	<script src="https://6pac.github.io/SlickGrid/slick.core.js"></script>
+	<script src="https://6pac.github.io/SlickGrid/slick.grid.js"></script>
+	<script src="https://6pac.github.io/SlickGrid/slick.dataview.js"></script>
+	<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+	<script type="text/javascript" src="MainGridData.js"></script>
+	<script type="text/javascript" src="badbeats.js"></script>
+	<script type="text/javascript" src="nemesishero.js"></script>
+	<script type="text/javascript" src="bigholecardsforsession.js"></script>
+	<script type="text/javascript" src="streaks.js"></script>
+
+
+	<script>
+		window.onload = function () {
+
+
+			// start of loop
+			var chartTable1 = new CanvasJS.Chart("chartContainerTable1", {
+				animationEnabled: true,
+				zoomEnabled: true,
+				theme: "light2",
+				animationEnabled: true,
+				axisX: {
+					labelFontSize: 10,
+					labelFontFamily: "arial",
+				},
+				axisY: {
+					title: "Winnings",
+					titleFontSize: 12,
+					titleFontFamily: "arial",
+					labelFontSize: 10,
+					labelFontFamily: "arial",
+					interval: 20
+				},
+				toolTip: {
+					shared: "true",
+					contentFormatter: function(e) {
+						  //var content;
+						  //var content = "<a href='Table1-Details.html?hand=" + e.entries[0].dataPoint.x + "'>" + e.entries[0].dataPoint.x + "</a><br/>";
+						  var content = "<a href='Table1-Details.html?hand=" + e.entries[0].dataPoint.label + "'>" + e.entries[0].dataPoint.label + "</a><br/>";
+						  for(var i = 0; i < e.entries.length; i++) {
+							//content += "<span style='color:" + e.entries[i].dataSeries.color +";'>" + e.entries[i].dataSeries.name + "</span>: " + "<strong>" + e.entries[i].dataPoint.y + "</strong>"
+							content += "<span style='color:" + e.entries[i].dataSeries.color +";'>" + e.entries[i].dataSeries.name + "</span>: " + e.entries[i].dataPoint.y;
+							content += "<br/>";
+						  }
+						  return content;
+						}
+				},
+				legend: {
+					cursor: "pointer",
+					itemclick: toggleDataSeriesTable1
+				},
+			});
+			chartTable1.options.data = mainTable1GraphData;
+			chartTable1.render();
+
+				
+			function toggleDataSeriesTable1(e) {
+				if (typeof (e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
+					e.dataSeries.visible = false;
+				} else {
+					e.dataSeries.visible = true;
+				}
+				chartTable1.render();
+			}
+
+			// start of loop
+			var chartTable2 = new CanvasJS.Chart("chartContainerTable2", {
+				animationEnabled: true,
+				zoomEnabled: true,
+				theme: "light2",
+				animationEnabled: true,
+				axisX: {
+					labelFontSize: 10,
+					labelFontFamily: "arial",
+				},
+				axisY: {
+					title: "Winnings",
+					titleFontSize: 12,
+					titleFontFamily: "arial",
+					labelFontSize: 10,
+					labelFontFamily: "arial",
+					interval: 20
+				},
+				toolTip: {
+					shared: "true",
+					contentFormatter: function(e) {
+						  //var content;
+						  //var content = "<a href='Table2-Details.html?hand=" + e.entries[0].dataPoint.x + "'>" + e.entries[0].dataPoint.x + "</a><br/>";
+						  var content = "<a href='Table2-Details.html?hand=" + e.entries[0].dataPoint.label + "'>" + e.entries[0].dataPoint.label + "</a><br/>";
+						  for(var i = 0; i < e.entries.length; i++) {
+							//content += "<span style='color:" + e.entries[i].dataSeries.color +";'>" + e.entries[i].dataSeries.name + "</span>: " + "<strong>" + e.entries[i].dataPoint.y + "</strong>"
+							content += "<span style='color:" + e.entries[i].dataSeries.color +";'>" + e.entries[i].dataSeries.name + "</span>: " + e.entries[i].dataPoint.y;
+							content += "<br/>";
+						  }
+						  return content;
+						}
+				},
+				legend: {
+					cursor: "pointer",
+					itemclick: toggleDataSeriesTable2
+				},
+			});
+			chartTable2.options.data = mainTable2GraphData;
+			chartTable2.render();
+
+				
+			function toggleDataSeriesTable2(e) {
+				if (typeof (e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
+					e.dataSeries.visible = false;
+				} else {
+					e.dataSeries.visible = true;
+				}
+				chartTable2.render();
+			}
+
+		}
+	</script>
+</head>
+
+<body>
+	<div style="position:relative">
+		<div style="width:1120px;">
+			<div class="grid-header" style="width:100%">
+				<label id="titlePla"></label>
+			</div>
+			<div class="container">
+				<div id="myGridPla" style="width:100%"></div>
+			</div>
+		</div>
+		<div style="width:1320px;">
+			<div class="grid-header" style="width:100%">
+				<label id="titleTab"></label>
+			</div>
+			<div class="container">
+				<div id="myGridTab" style="width:100%"></div>
+			</div>
+		</div>
+		<div style="width:660px;">
+			<div class="grid-header" style="width:100%">
+				<label>Luck Master Flash (LMF) - luckiest 70 consecutive hands, minimum 4 players</label>
+			</div>
+			<div class="container">
+				<div id="myStreak" style="width:100%"></div>
+			</div>
+		</div>
+		<div style="width:400px;">
+			<div class="grid-header" style="width:100%">
+				<label>Nemesis-Hero (wins or losses $5+)</label>
+			</div>
+			<div class="container">
+				<div id="myGridNH" style="width:100%"></div>
+			</div>
+		</div>
+        <div style="width:1040px;">
+            <div class="grid-header" style="width:100%">
+                <label id="titleHC">Per Player big hole card - numbers only accurate if you show them!</label>
+            </div>
+            <div class="container">
+                <div id="myGridHC" style="width:100%"></div>
+            </div>
+        </div>
+
+
+		<div class="grid-header" style="width:100%">
+			<label>Table: Table1</label>
+		</div>
+		<div id="chartContainerTable1" style="height: 370px; width: 100%;"></div>
+
+		<div class="grid-header" style="width:100%">
+			<label>Table: Table2</label>
+		</div>
+		<div id="chartContainerTable2" style="height: 370px; width: 100%;"></div>
+</body>
+<script>
+    document.getElementById('titlePla').innerHTML = titlePla;
+    document.getElementById('titleTab').innerHTML = titleTab;
+</script>
+</html>
+
+<script type="text/javascript" src="MainGrids.js"></script>
