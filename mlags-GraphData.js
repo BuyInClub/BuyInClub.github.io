@@ -1,0 +1,48 @@
+﻿var PFR = [
+{ label: "Jan 4th 2022", y: 0},
+{ label: "Jan 11th 2022", y: 0},
+{ label: "Jan 18th 2022", y: 0},
+{ label: "Feb 8th 2022", y: 0},
+{ label: "Feb 15th 2022", y: 0},
+{ label: "Mar 15th 2022", y: 0},
+{ label: "Apr 5th 2022", y: 0},
+{ label: "Apr 12th 2022", y: 1},
+{ label: "Apr 19th 2022", y: 0},
+{ label: "Apr 26th 2022", y: 0},
+]
+var VPIP = [
+{ label: "Jan 4th 2022", y: 55},
+{ label: "Jan 11th 2022", y: 42},
+{ label: "Jan 18th 2022", y: 44},
+{ label: "Feb 8th 2022", y: 40},
+{ label: "Feb 15th 2022", y: 40},
+{ label: "Mar 15th 2022", y: 40},
+{ label: "Apr 5th 2022", y: 69},
+{ label: "Apr 12th 2022", y: 61},
+{ label: "Apr 19th 2022", y: 39},
+{ label: "Apr 26th 2022", y: 52},
+]
+var Agg = [
+{ label: "Jan 4th 2022", y: 15},
+{ label: "Jan 11th 2022", y: 25},
+{ label: "Jan 18th 2022", y: 23},
+{ label: "Feb 8th 2022", y: 21},
+{ label: "Feb 15th 2022", y: 15},
+{ label: "Mar 15th 2022", y: 10},
+{ label: "Apr 5th 2022", y: 18},
+{ label: "Apr 12th 2022", y: 23},
+{ label: "Apr 19th 2022", y: 26},
+{ label: "Apr 26th 2022", y: 29},
+]
+var wonLost = [
+{ label: "Jan 4th 2022", y: -20.0},
+{ label: "Jan 11th 2022", y: -17.62},
+{ label: "Jan 18th 2022", y: -20.0},
+{ label: "Feb 8th 2022", y: -40.0},
+{ label: "Feb 15th 2022", y: -20.0},
+{ label: "Mar 15th 2022", y: -29.73},
+{ label: "Apr 5th 2022", y: -20.00},
+{ label: "Apr 12th 2022", y: -40.0},
+{ label: "Apr 19th 2022", y: 8.89},
+{ label: "Apr 26th 2022", y: -30},
+]
