@@ -1,0 +1,90 @@
+﻿<html xmlns="https://www.w3.org/TR/REC-html40">
+
+<head>
+    <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+    <meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+    <meta http-equiv="Pragma" content="no-cache" />
+    <meta http-equiv="Expires" content="0" />
+
+    <title>Cumulative High Hole Cards Page</title>
+    <link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/slick.grid.css">
+    <link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/slick-default-theme.css">
+    <link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/css/smoothness/jquery-ui.css">
+    <link rel="stylesheet" href="gridstyles.css" type="text/css" />
+    <link href="rebuystyles.css" rel="stylesheet" type="text/css">
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.0/jquery-ui.min.js"></script>
+    <script src="https://6pac.github.io/SlickGrid/lib/jquery.event.drag-2.3.0.js"></script>
+    <script src="https://6pac.github.io/SlickGrid/slick.core.js"></script>
+    <script src="https://6pac.github.io/SlickGrid/slick.grid.js"></script>
+    <script src="https://6pac.github.io/SlickGrid/slick.dataview.js"></script>
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    <script type="text/javascript" src="indexData.js"></script>
+    <script type="text/javascript" src="bigholecards.js"></script>
+
+</head>
+
+<body>
+    <div style="position:relative">
+        <div style="width:1200px;">
+            <div class="grid-header" style="width:100%">
+                <label id="titleHC">Per Player big hole card - numbers only accurate if you show them!</label>
+            </div>
+            <div class="container">
+                <div id="myGridHC" style="width:100%"></div>
+            </div>
+        </div>
+    </div>    
+</body>
+</html>
+
+<script>
+    var options = {
+        enableCellNavigation: true,
+        enableColumnReorder: true,
+        multiColumnSort: true,
+        autoHeight: true,
+    };
+
+    var gridHC;
+    var columnsHC = [
+        { id: "playerName", name: "Player", field: "playerName", sortable: true },
+        { id: "AAnum", name: "# AA", field: "AAnum", sortable: true, minWidth: 42 },
+        { id: "AAamount", name: "AA amount", field: "AAamount", sortable: true, minWidth: 42, toolTip: "amount won or lost with AA hole cards" },
+        { id: "AAhandfreq", name: "AA freq", field: "AAhandfreq", sortable: true, minWidth: 42, toolTip: "frequency per hand AA is in hole cards" },
+        { id: "AAnumCracked", name: "# AA cracked", field: "AAnumCracked", sortable: true, minWidth: 42, toolTip: "number of times pocket AA cracked" },
+        { id: "AAamountLost", name: "AA lost", field: "AAamountLost", sortable: true, minWidth: 42, toolTip: "amount lost with cracked AA" },
+        { id: "KKnum", name: "# KK", field: "KKnum", sortable: true, minWidth: 42 },
+        { id: "KKamount", name: "KK amount", field: "KKamount", sortable: true, minWidth: 42, toolTip: "amount won or lost with KK hole cards" },
+        { id: "KKhandfreq", name: "KK freq", field: "KKhandfreq", sortable: true, minWidth: 42, toolTip: "frequency per hand KK is in hole cards" },
+        { id: "AKnum", name: "# AK", field: "AKnum", sortable: true, minWidth: 42 },
+        { id: "AKamount", name: "AK amount", field: "AKamount", sortable: true, minWidth: 42, toolTip: "amount won or lost with AK hole cards" },
+        { id: "AKhandfreq", name: "AK freq", field: "AKhandfreq", sortable: true, minWidth: 42, toolTip: "frequency per hand AK is in hole cards" },
+        { id: "TSnum", name: "# 27", field: "TSnum", sortable: true, minWidth: 42 },
+        { id: "TSamount", name: "27 amount", field: "TSamount", sortable: true, minWidth: 42, toolTip: "amount won or lost with 27 hole cards" },
+        { id: "TShandfreq", name: "27 freq", field: "TShandfreq", sortable: true, minWidth: 42, toolTip: "frequency per hand 27 is in hole cards" },
+    ];
+
+    gridHC = new Slick.Grid("#myGridHC", bigholecards, columnsHC, options);
+
+
+    gridHC.onSort.subscribe(function (e, args) {
+        var cols = args.sortCols;
+
+        bigholecards.sort(function (dataRow1, dataRow2) {
+            for (var i = 0, l = cols.length; i < l; i++) {
+                var field = cols[i].sortCol.field;
+                var sign = cols[i].sortAsc ? 1 : -1;
+                var value1 = dataRow1[field], value2 = dataRow2[field];
+                var result = (value1 == value2 ? 0 : (value1 > value2 ? 1 : -1)) * sign;
+                if (result != 0) {
+                    return result;
+                }
+            }
+            return 0;
+        });
+
+        gridHC.invalidate();
+        gridHC.render();
+    });
+</script>

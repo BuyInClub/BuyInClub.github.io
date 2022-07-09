@@ -1,0 +1,149 @@
+﻿<html xmlns="https://www.w3.org/TR/REC-html40">
+
+<head>
+    <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+    <link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/slick.grid.css">
+    <link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/slick-default-theme.css">
+    <link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/css/smoothness/jquery-ui.css">
+    <link rel="stylesheet" href="gridstyles.css" type="text/css" />
+    <link href="rebuystyles.css" rel="stylesheet" type="text/css">
+
+    <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.11.0/jquery-ui.min.js"></script>
+    <script src="https://6pac.github.io/SlickGrid/lib/jquery.event.drag-2.3.0.js"></script>
+    <script src="https://6pac.github.io/SlickGrid/slick.core.js"></script>
+    <script src="https://6pac.github.io/SlickGrid/slick.grid.js"></script>
+    <script src="https://6pac.github.io/SlickGrid/slick.dataview.js"></script>
+    <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+    <script type="text/javascript" src="coolers.js"></script>
+
+</head>
+
+
+<body>
+    <div style="position:relative">
+        <div style="width:560px;">
+            <div class="grid-header" style="width:100%">
+                <label>Cooler Player Summary</label>
+            </div>
+            <div class="container">
+                <div id="myGridCoolerPlay" style="width:100%"></div>
+            </div>
+        </div>
+
+        <div style="width: 760px;">
+            <div class="grid-header" style="width:100%">
+                <label>Cooler (top 5 hand and losing)</label>
+            </div>
+            <div class="container">
+                <div id="myGridCooler" style="width:100%"></div>
+            </div>
+        </div>
+    </div>
+    <br>
+    <p style="font-size:12pt; color:#fff; margin-bottom: 0em;">
+        Some information on how coolers are calculated:
+    </p>
+    <ul class="a">
+        <li>Flop and after, once you have a top 5 hand and then are always behind</li>
+        <li>Preflop, the only hands counted are AA over KK; AA over QQ; and KK over QQ</li>
+        <li>Only 2 players can be in at the end of the hand</li>
+        <li>The step is where you had the second best hand</li>
+        <li>Rank is how good your hand is at the step.  For exampe if your rank was 2, you would have second best possible hand.</li>
+        <li>Score is caclulated by ((6-rank)*25)+(((abs(numLost)+numWon) / 2)</li>
+    </ul>
+
+</body>
+
+</html>
+
+<script>
+    var options = {
+        enableCellNavigation: true,
+        enableColumnReorder: true,
+        multiColumnSort: true,
+        autoHeight: true,
+    };
+    // Player summarry of Bad Beats
+    var gridCoolerPlay;
+    var columnsCoolerPlay = [
+        { id: "name", name: "Name", field: "name", sortable: true, minWidth: 50 },
+        { id: "numLost", name: "# Lost", field: "numLost", sortable: true, minWidth: 42 },
+        { id: "lostAmount", name: "Amt Lost", field: "lostAmount", sortable: true, minWidth: 42 },
+        { id: "numWon", name: "# Won", field: "numWon", sortable: true, minWidth: 42 },
+        { id: "wonAmount", name: "Amt Won", field: "wonAmount", sortable: true, minWidth: 42 },
+        { id: "wonLost", name: "Total", field: "wonLost", sortable: true, minWidth: 42 },
+        { id: "score", name: "Score", field: "score", sortable: true, minWidth: 42 },
+    ];
+
+    gridCoolerPlay = new Slick.Grid("#myGridCoolerPlay", playerSummaryList, columnsCoolerPlay, options);
+
+    gridCoolerPlay.onSort.subscribe(function (e, args) {
+        var cols = args.sortCols;
+
+        playerSummaryList.sort(function (dataRow1, dataRow2) {
+            for (var i = 0, l = cols.length; i < l; i++) {
+                var field = cols[i].sortCol.field;
+                var sign = cols[i].sortAsc ? 1 : -1;
+                var value1 = dataRow1[field], value2 = dataRow2[field];
+                var result = (value1 == value2 ? 0 : (value1 > value2 ? 1 : -1)) * sign;
+                if (result != 0) {
+                    return result;
+                }
+            }
+            return 0;
+        });
+
+        gridCoolerPlay.invalidate();
+        gridCoolerPlay.render();
+    });
+
+
+    // Cooler table
+    var gridCooler;
+    var columnsCooler = [
+        { id: "session", name: "Session", field: "session", sortable: true, minWidth: 120 },
+        { id: "rank", name: "Rank", field: "rank", sortable: true, minWidth: 42 },
+        { id: "coolerLoser", name: "Loser", field: "coolerLoser", sortable: true, formatter: addLinkToCooler, minWidth: 50 },
+        { id: "lostAmount", name: "Amt Lost", field: "lostAmount", sortable: true, minWidth: 42 },
+        { id: "coolerWinner", name: "Winner", field: "coolerWinner", sortable: true, minWidth: 50 },
+        { id: "wonAmount", name: "Amt Won", field: "wonAmount", sortable: true, minWidth: 42 },
+        { id: "step", name: "Step", field: "step", sortable: true, minWidth: 42 },
+        { id: "amount", name: "Pot Amt", field: "amount", sortable: true, minWidth: 42 },
+        { id: "score", name: "Score", field: "score", sortable: true, minWidth: 42 },
+    ];
+
+    function addLinkToCooler(row, cell, value, columnDef, dataContext) {
+        var rtn;
+        if (dataContext.link === "") {
+            rtn = value;
+        }
+        else {
+            rtn = "<a href='" + dataContext.link + "'>" + value + "</a>";
+        }
+        return rtn;
+    }
+
+    gridCooler = new Slick.Grid("#myGridCooler", coolerList, columnsCooler, options);
+
+
+    gridCooler.onSort.subscribe(function (e, args) {
+        var cols = args.sortCols;
+
+        coolerList.sort(function (dataRow1, dataRow2) {
+            for (var i = 0, l = cols.length; i < l; i++) {
+                var field = cols[i].sortCol.field;
+                var sign = cols[i].sortAsc ? 1 : -1;
+                var value1 = dataRow1[field], value2 = dataRow2[field];
+                var result = (value1 == value2 ? 0 : (value1 > value2 ? 1 : -1)) * sign;
+                if (result != 0) {
+                    return result;
+                }
+            }
+            return 0;
+        });
+
+        gridCooler.invalidate();
+        gridCooler.render();
+    });
+</script>
