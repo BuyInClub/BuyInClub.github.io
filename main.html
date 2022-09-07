@@ -91,56 +91,6 @@
 				chartTable1.render();
 			}
 
-			// start of loop
-			var chartTable2 = new CanvasJS.Chart("chartContainerTable2", {
-				animationEnabled: true,
-				zoomEnabled: true,
-				theme: "light2",
-				animationEnabled: true,
-				axisX: {
-					labelFontSize: 10,
-					labelFontFamily: "arial",
-				},
-				axisY: {
-					title: "Winnings",
-					titleFontSize: 12,
-					titleFontFamily: "arial",
-					labelFontSize: 10,
-					labelFontFamily: "arial",
-					interval: 20
-				},
-				toolTip: {
-					shared: "true",
-					contentFormatter: function(e) {
-						  //var content;
-						  //var content = "<a href='Table2-Details.html?hand=" + e.entries[0].dataPoint.x + "'>" + e.entries[0].dataPoint.x + "</a><br/>";
-						  var content = "<a href='Table2-Details.html?hand=" + e.entries[0].dataPoint.label + "'>" + e.entries[0].dataPoint.label + "</a><br/>";
-						  for(var i = 0; i < e.entries.length; i++) {
-							//content += "<span style='color:" + e.entries[i].dataSeries.color +";'>" + e.entries[i].dataSeries.name + "</span>: " + "<strong>" + e.entries[i].dataPoint.y + "</strong>"
-							content += "<span style='color:" + e.entries[i].dataSeries.color +";'>" + e.entries[i].dataSeries.name + "</span>: " + e.entries[i].dataPoint.y;
-							content += "<br/>";
-						  }
-						  return content;
-						}
-				},
-				legend: {
-					cursor: "pointer",
-					itemclick: toggleDataSeriesTable2
-				},
-			});
-			chartTable2.options.data = mainTable2GraphData;
-			chartTable2.render();
-
-				
-			function toggleDataSeriesTable2(e) {
-				if (typeof (e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
-					e.dataSeries.visible = false;
-				} else {
-					e.dataSeries.visible = true;
-				}
-				chartTable2.render();
-			}
-
 		}
 	</script>
 </head>
