@@ -152,5 +152,5 @@ var wonLost = [
 { label: "Oct 14th 2022", y: 61.84},
 { label: "Oct 22nd 2022", y: -160.00},
 { label: "Oct 28th 2022", y: 257.46},
-{ label: "Nov 4th 2022", y: -160},
+{ label: "Nov 4th 2022", y: -160.0},
 ]
