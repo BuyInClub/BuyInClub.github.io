@@ -88,11 +88,12 @@ var columnsPla = [
   {id: "numBigWinner", name: "Big Winner", field: "numBigWinner", sortable: true, toolTip: "# of times big winner for a session", minWidth:42},
   {id: "numSessions", name: "# Sessions", field: "numSessions", sortable: true, minWidth:42},
   {id: "numHands", name: "# Hands", field: "numHands", sortable: true, minWidth: 42 },
+  {id: "luckScore", name: "Lucky", field: "luckScore", sortable: true, toolTip: "how lucky are you", minWidth: 42 },
   {id: "showedHoleCardsForUncalledPercent", name: "SHC for UW", field: "showedHoleCardsForUncalledPercent", sortable: true, toolTip: "% of showed hole cards for uncalled pot", minWidth:42},
   {id: "VPIP", name: "VPIP", field: "VPIP", sortable: true, toolTip: "% of calls and raises preflop", minWidth:42},
   {id: "PFR", name: "PFR", field: "PFR", sortable: true, toolTip: "% of raises preflop", minWidth:42},
   {id: "preflopAggressive", name: "PFR/VPIP", field: "preflopAggressive", sortable: true, toolTip: "", minWidth:42},
-  { id: "aggFact", name: "Agg%", field: "aggFact", sortable: true, toolTip: "Postflop - ((Bets + All Raises) / (Bets + All Raises + Calls + Checks - CheckRaises))", minWidth:42},
+  {id: "aggFact", name: "Agg%", field: "aggFact", sortable: true, toolTip: "Postflop - ((Bets + All Raises) / (Bets + All Raises + Calls + Checks - CheckRaises))", minWidth:42},
   
 ];
 
