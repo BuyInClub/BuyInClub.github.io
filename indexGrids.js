@@ -12,6 +12,16 @@ var columnsLB = [
     { id: "position", name: "Place", field: "position" },
     { id: "player", name: "Player", field: "player" },
     { id: "amountBehind", name: "Amt Behind", field: "amountBehind" },
+    { id: "playerHeadsUp", name: "HU Player", field: "playerHeadsUp" },
+    { id: "amountBehindHeadsUp", name: "Amt Behind", field: "amountBehindHeadsUp" },
+    { id: "playerLowPlayers", name: "L Player", field: "playerLowPlayers" },
+    { id: "amountBehindLowPlayers", name: "Amt Behind", field: "amountBehindLowPlayers" },
+    { id: "playerMedPlayers", name: "M Player", field: "playerMedPlayers" },
+    { id: "amountBehindMedPlayers", name: "Amt Behind", field: "amountBehindMedPlayers" },
+    { id: "playerHighPlayers", name: "H Player", field: "playerHighPlayers" },
+    { id: "amountBehindHighPlayers", name: "Amt Behind", field: "amountBehindHighPlayers" },
+
+
 ];
 
 gridLB = new Slick.Grid("#gridLB", lbList, columnsLB, options);
@@ -35,6 +45,54 @@ gridLB.onSort.subscribe(function (e, args) {
 
     gridLB.invalidate();
     gridLB.render();
+});
+
+//
+
+var gridEB;
+var columnsEB = [
+    { id: "position", name: "Place", field: "position" },
+
+    { id: "player", name: "Player", field: "player" },
+    { id: "blindsPerHundred", name: "Efficiency", field: "blindsPerHundred" },
+
+    { id: "playerHeadsUp", name: "HU Player", field: "playerHeadsUp" },
+    { id: "blindsPerHundredHeadsUp", name: "Efficiency", field: "blindsPerHundredHeadsUp" },
+
+
+    { id: "playerLowPlayers", name: "L Player", field: "playerLowPlayers" },
+    { id: "blindsPerHundredLowPlayers", name: "Efficiency", field: "blindsPerHundredLowPlayers" },
+
+    { id: "playerMedPlayers", name: "M Player", field: "playerMedPlayers" },
+    { id: "blindsPerHundredMedPlayers", name: "Efficiency", field: "blindsPerHundredMedPlayers" },
+
+    { id: "playerHighPlayers", name: "H Player", field: "playerHighPlayers" },
+    { id: "blindsPerHundredHighPlayers", name: "Efficiency", field: "blindsPerHundredHighPlayers" },
+
+
+];
+
+gridEB = new Slick.Grid("#gridEB", ebList, columnsEB, options);
+
+
+gridEB.onSort.subscribe(function (e, args) {
+    var cols = args.sortCols;
+
+    ebList.sort(function (dataRow1, dataRow2) {
+        for (var i = 0, l = cols.length; i < l; i++) {
+            var field = cols[i].sortCol.field;
+            var sign = cols[i].sortAsc ? 1 : -1;
+            var value1 = dataRow1[field], value2 = dataRow2[field];
+            var result = (value1 == value2 ? 0 : (value1 > value2 ? 1 : -1)) * sign;
+            if (result != 0) {
+                return result;
+            }
+        }
+        return 0;
+    });
+
+    gridEB.invalidate();
+    gridEB.render();
 });
 
 

@@ -130,14 +130,28 @@
             </div>
         </div>
 
-        <div style="width:240px;">
+        <div style="width:880px;">
             <div class="grid-header" style="width:100%">
-                <label>Leader Board</label>
+                <label>Money Leader Board (HU:headsup, L:3-4 players, M:5-7 players, H:8-10 players)</label>
             </div>
             <div class="container">
                 <div id="gridLB" style="width:100%"></div>
             </div>
         </div>
+
+        <div style="width:880px;">
+            <div class="grid-header" style="width:100%">
+                <label>Efficiency Board (HU:headsup, L:3-4 players, M:5-7 players, H:8-10 players)</label>
+            </div>
+            <div class="container">
+                <div id="gridEB" style="width:100%"></div>
+            </div>
+        </div>
+        <p style="font-size:10pt; color:#fff; margin-bottom: 0em;">
+            Efficiency calculation is the # of big blinds won per hundred hands.  The big blind is always assumed to be 50 cents.  To be on the leader board you need to play a minimum # of hands and be in the positive for winnings..
+            The minimum # of hands is the # week in the year * 150 for any # of players at table.  For a specifc range of players at the table it is the # week in the year * 20.
+        </p>
+
 
         <div style="width:790px;">
             <div class="grid-header" style="width:100%">
@@ -151,24 +165,24 @@
         <div style="clear:both; margin-top:20px;">
             <table style="width: 1100px; border-collapse:collapse">
                 <colgroup>
-                <col style="width: 300px">
+                    <col style="width: 300px">
                 </colgroup>
                 <tbody>
                     <tr>
-                        <td >        
+                        <td>
                             <p style="font-size:medium;">
                                 Archive of Awards and Signifcant Events
                             </p>
                         </td>
-                      </tr>
-    
-                  <tr>
-                    <td style="height:1px">        
-                        <p>
-                            <a href="2021RebuyClubPokerAwards.pdf" style="font-size:medium; padding:0; margin:0; color:#deb66e;">2021 Rebuy Club Poker Awards</a>
-                        </p>
-                    </td>
-                  </tr>
+                    </tr>
+
+                    <tr>
+                        <td style="height:1px">
+                            <p>
+                                <a href="2021RebuyClubPokerAwards.pdf" style="font-size:medium; padding:0; margin:0; color:#deb66e;">2021 Rebuy Club Poker Awards</a>
+                            </p>
+                        </td>
+                    </tr>
                     <tr>
                         <td style="height:1px">
                             <p>
@@ -180,21 +194,21 @@
                     <tr>
                         <td>
                             <p style="font-size:medium;">
-                                We are lucky enough to have a player in the rebuy club who has the ability to use words effectively, 
-                                to bring a story to life and transport readers into the world of the very hand, tournament, player or session.  
+                                We are lucky enough to have a player in the rebuy club who has the ability to use words effectively,
+                                to bring a story to life and transport readers into the world of the very hand, tournament, player or session.
                                 His name is Greg Lankeneau.  His very best emails are below for you to enjoy and read.  They always bring a smile
-                                to my face when I look at them.  
+                                to my face when I look at them.
                             </p>
                         </td>
                     </tr>
 
-                  <tr>
-                    <td style="height:1px">        
-                        <p>
-                            <a href="EpicTournamentLoss2022.pdf" style="font-size:medium; padding:0; margin:0; color:#deb66e;">2022 Epic Tournament Loss</a>
-                        </p>
-                    </td>
-                  </tr>
+                    <tr>
+                        <td style="height:1px">
+                            <p>
+                                <a href="EpicTournamentLoss2022.pdf" style="font-size:medium; padding:0; margin:0; color:#deb66e;">2022 Epic Tournament Loss</a>
+                            </p>
+                        </td>
+                    </tr>
                     <tr>
                         <td style="height:1px">
                             <p>
@@ -206,13 +220,15 @@
 
                 </tbody>
             </table>
-            </div>
-        
+        </div>
+
         <br>
-        <p style="font-size:12pt; color:#fff; margin-bottom: 0em;" >
-            Changes to the web site in 2022:  
+        <p style="font-size:12pt; color:#fff; margin-bottom: 0em;">
+            Changes to the web site in 2022:
         </p>
         <ul class="a">
+            <li>11-23-22 - Add # of big blinds won/lost per 100 hands based on number of players at table</li>
+            <li>11-20-22 - Top 3 winneres of won/lost based on number of players at table</li>
             <li>11-8-22 - lowered hero/nemesis minimum to $2 from $5</li>
             <li>11-7-22 - added lucky score (wretched hand points + cooler points) / # hands * 100</li>
             <li>10-4-22 - Added straddle as an action</li>
@@ -238,14 +254,12 @@
             <li>1-9-22 - Track 2-7 hole cards in the big hand grids, session and cumulative (requested ny Jeff)</li>
             <li>1-9-22 - Added River Rats, tracks who hit a winning hand on the river with 8 outs or less</li>
         </ul>
-        <p style="font-size:12pt; color:#fff; margin-bottom: 0em;" >
+        <p style="font-size:12pt; color:#fff; margin-bottom: 0em;">
             Things to come:
         </p>
         <ul class="a">
             <li>fortitude-foolishness with less than 5 players, request from Rob</li>
-            <li>Add # of big blinds won/lost per 100 hands</li>
-            <li>Breakdown of won/lost based on number of players</li>
-            <li>Proposed: do not count heads-up play</li>
+            <li>Breakdown of won/lost based on deep stack</li>
             <li>Bug: fix missing blind calculation, run April 12th, Mike and JimO are off - bug is in PokerNow, monitor</li>
             <li>Internal: startup.json have defaults</li>
             <li>Bug: Fix table charts to be dynamic based on the number of tables</li>
