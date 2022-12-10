@@ -14,11 +14,11 @@ var columnsLB = [
     { id: "amountBehind", name: "Amt Behind", field: "amountBehind" },
     { id: "playerHeadsUp", name: "HU Player", field: "playerHeadsUp" },
     { id: "amountBehindHeadsUp", name: "Amt Behind", field: "amountBehindHeadsUp" },
-    { id: "playerLowPlayers", name: "L Player", field: "playerLowPlayers" },
+    { id: "playerLowPlayers", name: "S Player", field: "playerLowPlayers" },
     { id: "amountBehindLowPlayers", name: "Amt Behind", field: "amountBehindLowPlayers" },
     { id: "playerMedPlayers", name: "M Player", field: "playerMedPlayers" },
     { id: "amountBehindMedPlayers", name: "Amt Behind", field: "amountBehindMedPlayers" },
-    { id: "playerHighPlayers", name: "H Player", field: "playerHighPlayers" },
+    { id: "playerHighPlayers", name: "L Player", field: "playerHighPlayers" },
     { id: "amountBehindHighPlayers", name: "Amt Behind", field: "amountBehindHighPlayers" },
 
 
@@ -60,13 +60,13 @@ var columnsEB = [
     { id: "blindsPerHundredHeadsUp", name: "Efficiency", field: "blindsPerHundredHeadsUp" },
 
 
-    { id: "playerLowPlayers", name: "L Player", field: "playerLowPlayers" },
+    { id: "playerLowPlayers", name: "S Player", field: "playerLowPlayers" },
     { id: "blindsPerHundredLowPlayers", name: "Efficiency", field: "blindsPerHundredLowPlayers" },
 
     { id: "playerMedPlayers", name: "M Player", field: "playerMedPlayers" },
     { id: "blindsPerHundredMedPlayers", name: "Efficiency", field: "blindsPerHundredMedPlayers" },
 
-    { id: "playerHighPlayers", name: "H Player", field: "playerHighPlayers" },
+    { id: "playerHighPlayers", name: "L Player", field: "playerHighPlayers" },
     { id: "blindsPerHundredHighPlayers", name: "Efficiency", field: "blindsPerHundredHighPlayers" },
 
 
