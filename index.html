@@ -50,15 +50,23 @@
         <col style="width: 500px">
         </colgroup>
         <tbody>
-          <tr>
-            <td style="height:1px">        
-                <p>
-                    <a href="highhands.html" style="font-size:large; padding:0; margin:0; color:#deb66e;">History of 4 of a Kind or Better Hands</a>
-                </p>
-            </td>
-            <!-- for use later if we want image next to the links -->
-            <td rowspan="6"><!--<img src="images_pc/poker1.png" alt=""/>--></td>
-          </tr>
+            <tr>
+                <td style="height:1px">
+                    <p>
+                        <a href="highhands.html" style="font-size:large; padding:0; margin:0; color:#deb66e;">History of 4 of a Kind or Better Hands</a>
+                    </p>
+                </td>
+                <!-- for use later if we want image next to the links -->
+                <td rowspan="6"><!--<img src="images_pc/poker1.png" alt=""/>--></td>
+            </tr>
+            <tr>
+                <td>
+                    <p style="font-size:large">
+                        <a href="setminers.html" style="font-size:large;  padding:0; margin:0; color:#deb66e;">Set Miners</a>
+                    </p>
+                </td>
+            </tr>
+
             <tr>
                 <td>
                     <p style="font-size:large">
@@ -66,34 +74,34 @@
                     </p>
                 </td>
             </tr>
-          <tr>
-            <td style="height:1px">        
-                <p>
-                    <a href="records.html" style="font-size:large; padding:0; margin:0;  color:#deb66e;">Session Records</a>
-                </p>
-            </td>
-          </tr>
-          <tr>
-            <td style="height:1px">        
-                <p>
-                    <a href="nemesishero.html" style="font-size:large;  padding:0; margin:0; color:#deb66e;">Cumulative Nemesis-Hero</a>
-                </p>
-            </td>
-          </tr>
-          <tr>
-            <td style="height:1px">        
-                <p style="font-size:large">
-                    <a href="allins.html" style="font-size:large; padding:0; margin:0;  color:#deb66e;">History of All-Ins</a>
-                </p>
-            </td>
-          </tr>
-          <tr>
-            <td>        
-                <p style="font-size:large">
-                    <a href="holecards.html" style="font-size:large;  padding:0; margin:0; color:#deb66e;">Cumulative High Hole Cards</a>
-                </p>
-            </td>
-          </tr>
+            <tr>
+                <td style="height:1px">
+                    <p>
+                        <a href="records.html" style="font-size:large; padding:0; margin:0;  color:#deb66e;">Session Records</a>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td style="height:1px">
+                    <p>
+                        <a href="nemesishero.html" style="font-size:large;  padding:0; margin:0; color:#deb66e;">Cumulative Nemesis-Hero</a>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td style="height:1px">
+                    <p style="font-size:large">
+                        <a href="allins.html" style="font-size:large; padding:0; margin:0;  color:#deb66e;">History of All-Ins</a>
+                    </p>
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <p style="font-size:large">
+                        <a href="holecards.html" style="font-size:large;  padding:0; margin:0; color:#deb66e;">Cumulative High Hole Cards</a>
+                    </p>
+                </td>
+            </tr>
             <tr>
                 <td style="height:1px">
                     <p>
@@ -227,8 +235,10 @@
             Changes to the web site in 2022:
         </p>
         <ul class="a">
+            <li>12-25-22 - Added command line to generate and post statistics</li>
+            <li>12-25-22 - Added set miners table</li>
             <li>11-23-22 - Add # of big blinds won/lost per 100 hands based on number of players at table</li>
-            <li>11-20-22 - Top 3 winneres of won/lost based on number of players at table</li>
+            <li>11-20-22 - Top 3 winners of won/lost based on number of players at table</li>
             <li>11-8-22 - lowered hero/nemesis minimum to $2 from $5</li>
             <li>11-7-22 - added lucky score (wretched hand points + cooler points) / # hands * 100</li>
             <li>10-4-22 - Added straddle as an action</li>
@@ -258,11 +268,10 @@
             Things to come:
         </p>
         <ul class="a">
-            <li>add set miners table </li>
+            <li>Add ranges in appropriate tables like # outs in all-in table</li>
             <li>fortitude-foolishness with less than 5 players, request from Rob</li>
             <li>Breakdown of won/lost based on deep stack</li>
             <li>Bug: fix missing blind calculation, run April 12th, Mike and JimO are off - bug is in PokerNow, monitor</li>
-            <li>Internal: startup.json have defaults</li>
             <li>Bug: Fix table charts to be dynamic based on the number of tables</li>
             <li>Change LMF to use WH data and add coolers</li>
             <li>Switch to <a href="https://ag-grid.com/javascript-data-grid/grouping-opening-groups/">AG-Grid</a> for grids</li>

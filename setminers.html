@@ -1,0 +1,138 @@
+﻿<html xmlns="https://www.w3.org/TR/REC-html40">
+
+<head>
+    <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
+    <link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/slick.grid.css">
+    <link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/slick-default-theme.css">
+    <link rel="stylesheet" type="text/css" href="https://6pac.github.io/SlickGrid/css/smoothness/jquery-ui.css">
+    <link rel="stylesheet" href="gridstyles.css" type="text/css" />
+    <link href="rebuystyles.css" rel="stylesheet" type="text/css">
+    <script src=https://6pac.github.io/SlickGrid/lib/firebugx.js></script>
+    <script src=https://6pac.github.io/SlickGrid/lib/jquery-3.1.0.js></script>
+    <script src=https://cdn.jsdelivr.net/npm/flatpickr></script>
+    <script src=https://cdn.jsdelivr.net/npm/sortablejs/Sortable.min.js></script>
+    <script src=https://6pac.github.io/SlickGrid/dist/slick.core.min.js></script>
+    <script src=https://6pac.github.io/SlickGrid/dist/slick.interactions.min.js></script>
+    <script src=https://6pac.github.io/SlickGrid/dist/slick.formatters.min.js></script>
+    <script src=https://6pac.github.io/SlickGrid/dist/slick.editors.min.js></script>
+    <script src=https://6pac.github.io/SlickGrid/dist/plugins/slick.rowselectionmodel.min.js></script>
+    <script src=https://6pac.github.io/SlickGrid/dist/slick.grid.min.js></script>
+    <script src=https://6pac.github.io/SlickGrid/dist/slick.dataview.min.js></script>
+    <script src=https://6pac.github.io/SlickGrid/dist/controls/slick.pager.min.js></script>
+    <script src=https://6pac.github.io/SlickGrid/dist/controls/slick.columnpicker.min.js></script>
+    <script type="text/javascript" src="sets.js"></script>
+
+</head>
+
+
+<body>
+    <div style="position:relative">
+        <div style="width:400px;">
+            <div class="grid-header" style="width:100%">
+                <label>Set Miners Player Summary</label>
+            </div>
+            <div class="container">
+                <div id="myGridSMPlay" style="width:100%"></div>
+            </div>
+        </div>
+
+        <div style="width:540px;">
+            <div class="grid-header" style="width:100%">
+                <label>Set Miners</label>
+            </div>
+            <div class="container">
+                <div id="myGridSM" style="width:100%"></div>
+            </div>
+        </div>
+    </div>
+
+</body>
+
+</html>
+
+<script>
+    var options = {
+        enableCellNavigation: true,
+        enableColumnReorder: true,
+        multiColumnSort: true,
+        autoHeight: true,
+    };
+
+    // Set miners players summary
+    var gridSMPlay;
+    var columnsSMPlay = [
+        { id: "player", name: "Name", field: "player", sortable: true, minWidth: 50 },
+        { id: "numofSets", name: "#", field: "numOfSets", sortable: true, minWidth: 42 },
+        { id: "wonAmount", name: "Amt Won", field: "wonAmount", sortable: true, minWidth: 42 },
+        { id: "lostAmount", name: "Amt Lost", field: "lostAmount", sortable: true, minWidth: 42 },
+        { id: "wonLost", name: "Total", field: "wonLost", sortable: true, minWidth: 42 },
+    ];
+
+    gridSMPlay = new Slick.Grid("#myGridSMPlay", playerSummaryList, columnsSMPlay, options);
+
+    gridSMPlay.onSort.subscribe(function (e, args) {
+        var cols = args.sortCols;
+
+        playerSummaryList.sort(function (dataRow1, dataRow2) {
+            for (var i = 0, l = cols.length; i < l; i++) {
+                var field = cols[i].sortCol.field;
+                var sign = cols[i].sortAsc ? 1 : -1;
+                var value1 = dataRow1[field], value2 = dataRow2[field];
+                var result = (value1 == value2 ? 0 : (value1 > value2 ? 1 : -1)) * sign;
+                if (result != 0) {
+                    return result;
+                }
+            }
+            return 0;
+        });
+
+        gridSMPlay.invalidate();
+        gridSMPlay.render();
+    });
+
+
+    // Set Miners table
+    var gridSM;
+    var columnsSM = [
+        { id: "session", name: "Session", field: "session", sortable: true, minWidth: 120 },
+        { id: "player", name: "Player", field: "player", sortable: true, formatter: addLinkToSM, minWidth: 50 },
+        { id: "wonAmount", name: "Amt Won", field: "wonAmount", sortable: true, minWidth: 42 },
+        { id: "lostAmount", name: "Amt Lost", field: "lostAmount", sortable: true, minWidth: 42 },
+        { id: "biggestLoser", name: "Big Loser", field: "biggestLoser", sortable: true, minWidth: 42 },
+        { id: "biggestLoserAmount", name: "Big Loser Amt", field: "biggestLoserAmount", sortable: true, minWidth: 100 },
+    ];
+
+    function addLinkToSM(row, cell, value, columnDef, dataContext) {
+        var rtn;
+        if (dataContext.link === "") {
+            rtn = value;
+        }
+        else {
+            rtn = "<a href='" + dataContext.link + "'>" + value + "</a>";
+        }
+        return rtn;
+    }
+
+    gridSM = new Slick.Grid("#myGridSM", setList, columnsSM, options);
+
+
+    gridSM.onSort.subscribe(function (e, args) {
+        var cols = args.sortCols;
+
+        setList.sort(function (dataRow1, dataRow2) {
+            for (var i = 0, l = cols.length; i < l; i++) {
+                var field = cols[i].sortCol.field;
+                var sign = cols[i].sortAsc ? 1 : -1;
+                var value1 = dataRow1[field], value2 = dataRow2[field];
+                var result = (value1 == value2 ? 0 : (value1 > value2 ? 1 : -1)) * sign;
+                if (result != 0) {
+                    return result;
+                }
+            }
+            return 0;
+        });
+
+        gridSM.invalidate();
+        gridSM.render();
+    });
+</script>
