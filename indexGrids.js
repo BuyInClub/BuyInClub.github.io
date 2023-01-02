@@ -112,8 +112,10 @@ var columnsSess = [
   {id: "numTables", name: "# Tables", field: "numTables", sortable: true, minWidth:42},
   { id: "numHundredPlusHands", name: "# of $100+ Hands", field: "numHundredPlusHands", sortable: true, minWidth: 42 },
   { id: "stdDev", name: "Avg StdDev", field: "stdDev", sortable: true, toolTip: "Average Standard Deviation for each player won/lost per hand", minWidth: 42 },
-  { id: "numWretchedHands", name: "# of WHs", field: "numWretchedHands", sortable: true, toolTip: "Number of wretched hands", minWidth: 42 },
-  { id: "lastHand", name: "Last Hand (EST)", field: "lastHand", sortable: true, toolTip: "time last hand was played", minWidth: 60 },
+    { id: "numWretchedHands", name: "# of WHs", field: "numWretchedHands", sortable: true, toolTip: "Number of wretched hands", minWidth: 42 },
+    { id: "minPlayed", name: "Minutes", field: "minPlayed", sortable: true, toolTip: "total minutes", minWidth: 42 },
+  { id: "firstHand", name: "First Hand (EST)", field: "firstHand", sortable: true, toolTip: "time first hand was played", minWidth: 120 },
+  { id: "lastHand", name: "Last Hand (EST)", field: "lastHand", sortable: true, toolTip: "time last hand was played", minWidth: 120 },
 ];
 
 gridSess = new Slick.Grid("#gridSessions", sessList, columnsSess, options);

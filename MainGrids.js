@@ -100,7 +100,9 @@ var columnsPla = [
   { id: "numFoldedWH", name: "# Daves", field: "numFoldedWH", sortable: true, toolTip: "Hand you folded preflop that would of won minimum of $5", minWidth: 42 },
   { id: "volFromAvg", name: "Volatility", field: "volFromAvg", sortable: true, toolTip: "% of player StdDev from Avg", minWidth: 42 },
   {id: "time", name: "Time (ms)", field: "time", sortable: true, toolTip: "time (ms) on average to take an action", minWidth: 42 },
-  { id: "lastHand", name: "Last Hand (EST)", field: "lastHand", sortable: true, toolTip: "time last hand was played", minWidth: 60 },
+  { id: "minPlayed", name: "Minutes Played", field: "minPlayed", sortable: true, toolTip: "total minutes played", minWidth: 60 },
+  { id: "firstHand", name: "First Hand (EST)", field: "firstHand", sortable: true, toolTip: "time first hand was played", minWidth: 120 },
+  { id: "lastHand", name: "Last Hand (EST)", field: "lastHand", sortable: true, toolTip: "time last hand was played", minWidth: 120 },
   
 ];
 

@@ -27,7 +27,7 @@
 
 <body>
     <div style="position:relative">
-        <div style="width:400px;">
+        <div style="width:560px;">
             <div class="grid-header" style="width:100%">
                 <label>Set Miners Player Summary</label>
             </div>
@@ -62,10 +62,12 @@
     var gridSMPlay;
     var columnsSMPlay = [
         { id: "player", name: "Name", field: "player", sortable: true, minWidth: 50 },
-        { id: "numofSets", name: "#", field: "numOfSets", sortable: true, minWidth: 42 },
+        { id: "numofSets", name: "# of Sets", field: "numOfSets", sortable: true, minWidth: 42 },
         { id: "wonAmount", name: "Amt Won", field: "wonAmount", sortable: true, minWidth: 42 },
         { id: "lostAmount", name: "Amt Lost", field: "lostAmount", sortable: true, minWidth: 42 },
         { id: "wonLost", name: "Total", field: "wonLost", sortable: true, minWidth: 42 },
+        { id: "numWrecked", name: "# Wrecked", field: "numWrecked", sortable: true, minWidth: 42 },
+        { id: "amtWrecked", name: "Amt Wrecked", field: "amtWrecked", sortable: true, minWidth: 60 },
     ];
 
     gridSMPlay = new Slick.Grid("#myGridSMPlay", playerSummaryList, columnsSMPlay, options);
