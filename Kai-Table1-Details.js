@@ -2624,6 +2624,1860 @@ id: 872,indent: 1,parent: 870,handNum: "",wonOrLost: "",wonNetOrLost: "",startAm
 id: 873,indent: 0,parent: null,handNum: "348",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "60.44",endAmt: "60.44",finalHand: "",position: "Dealer (7 of 7)",positionName: "Dealer",totalPlayers: "7",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
 },
 {
-id: 874,indent: 1,parent: 873,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "Reraise",lastActionPlayer: "Chris Moy",lastActionAmount: "3.50",boardCards: "",
+id: 874,indent: 1,parent: 873,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "Reraise",lastActionPlayer: "Chris Moy",lastActionAmount: "3.50",boardCards: "[10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>]",
+},
+{
+id: 875,indent: 0,parent: null,handNum: "349",wonOrLost: "-2.18",wonNetOrLost: "-2.18",startAmt: "60.44",endAmt: "58.26",finalHand: "",position: "Cutoff (5 of 6)",positionName: "Cutoff",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 876,indent: 1,parent: 875,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.50",potSizeToWin: "1.75",amountToPot: "28",numPlayers: "6",numAllIns: "0",positionToLastAction: "3",lastAction: "BigBlind",lastActionPlayer: "Dan C",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 877,indent: 1,parent: 875,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Call",amount: "1.68",potSizeToWin: "3.93",amountToPot: "42",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "1.68",boardCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 878,indent: 1,parent: 875,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Fold",amount: "0.00",potSizeToWin: "9.81",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "4.20",boardCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 9<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 879,indent: 0,parent: null,handNum: "350",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "58.26",endAmt: "57.76",finalHand: "",position: "MP1 (4 of 6)",positionName: "MP1",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 880,indent: 1,parent: 879,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 881,indent: 1,parent: 879,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 882,indent: 1,parent: 879,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Fold",amount: "0.00",potSizeToWin: "4.83",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Dan C",lastActionAmount: "2.33",boardCards: "6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 3<span style = 'font-size:125%; color: blue; '>&spades;</span>, [K<span style = 'font-size:125%; color: blue; '>&diams;</span>]",
+},
+{
+id: 883,indent: 0,parent: null,handNum: "351",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "57.76",endAmt: "57.76",finalHand: "Full House, 2's over 6's",position: "UTG1 (3 of 6)",positionName: "UTG1",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 884,indent: 1,parent: 883,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "6",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "[2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 3<span style = 'font-size:125%; color: blue; '>&diams;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>]",
+},
+{
+id: 885,indent: 0,parent: null,handNum: "352",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "57.76",endAmt: "57.26",finalHand: "",position: "BB (2 of 6)",positionName: "BB",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 886,indent: 1,parent: 885,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 887,indent: 1,parent: 885,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 888,indent: 1,parent: 885,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 889,indent: 1,parent: 885,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "5.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Dan C",lastActionAmount: "2.50",boardCards: "[A<span style = 'font-size:125%; color: blue; '>&spades;</span>]",
+},
+{
+id: 890,indent: 0,parent: null,handNum: "353",wonOrLost: "-0.25",wonNetOrLost: "-0.25",startAmt: "57.26",endAmt: "57.01",finalHand: "",position: "SB (1 of 6)",positionName: "SB",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 891,indent: 1,parent: 890,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 892,indent: 1,parent: 890,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "2.00",boardCards: "[J<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>]",
+},
+{
+id: 893,indent: 0,parent: null,handNum: "354",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "57.01",endAmt: "57.01",finalHand: "",position: "Dealer (6 of 6)",positionName: "Dealer",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 894,indent: 1,parent: 893,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "2",lastAction: "Raise",lastActionPlayer: "Dan C",lastActionAmount: "2.00",boardCards: "[7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>]",
+},
+{
+id: 895,indent: 0,parent: null,handNum: "355",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "57.01",endAmt: "57.01",finalHand: "",position: "Cutoff (5 of 6)",positionName: "Cutoff",totalPlayers: "6",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 896,indent: 1,parent: 895,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Dan C",lastActionAmount: "0.50",boardCards: "[Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>]",
+},
+{
+id: 897,indent: 0,parent: null,handNum: "356",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "57.01",endAmt: "57.01",finalHand: "Straight, 8 High",position: "MP1 (4 of 6)",positionName: "MP1",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 898,indent: 1,parent: 897,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "6",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "[7<span style = 'font-size:125%; color: blue; '>&diams;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 3<span style = 'font-size:125%; color: blue; '>&diams;</span>]",
+},
+{
+id: 899,indent: 0,parent: null,handNum: "357",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "57.01",endAmt: "57.01",finalHand: "",position: "UTG1 (3 of 6)",positionName: "UTG1",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 900,indent: 1,parent: 899,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "6",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 901,indent: 0,parent: null,handNum: "358",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "57.01",endAmt: "56.51",finalHand: "",position: "BB (2 of 6)",positionName: "BB",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 902,indent: 1,parent: 901,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 903,indent: 1,parent: 901,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Alex W",lastActionAmount: "2.00",boardCards: "",
+},
+{
+id: 904,indent: 0,parent: null,handNum: "359",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "56.51",endAmt: "56.01",finalHand: "",position: "SB (1 of 6)",positionName: "SB",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 905,indent: 1,parent: 904,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 906,indent: 1,parent: 904,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "1.75",amountToPot: "14",numPlayers: "4",numAllIns: "0",positionToLastAction: "3",lastAction: "BigBlind",lastActionPlayer: "Jeff",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 907,indent: 1,parent: 904,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Jeff",lastActionAmount: "2.00",boardCards: "",
+},
+{
+id: 908,indent: 0,parent: null,handNum: "360",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "56.01",endAmt: "56.01",finalHand: "",position: "Dealer (6 of 6)",positionName: "Dealer",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 909,indent: 1,parent: 908,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "3",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "[J<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&spades;</span>]",
+},
+{
+id: 910,indent: 0,parent: null,handNum: "361",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "56.01",endAmt: "56.01",finalHand: "Two Pair, 10's & 3's",position: "Cutoff (5 of 6)",positionName: "Cutoff",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 911,indent: 1,parent: 910,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",numPlayers: "6",numAllIns: "0",positionToLastAction: "3",lastAction: "BigBlind",lastActionPlayer: "Dan C",lastActionAmount: "0.50",boardCards: "[7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 3<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>]",
+},
+{
+id: 912,indent: 0,parent: null,handNum: "362",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "56.01",endAmt: "56.01",finalHand: "",position: "MP1 (4 of 6)",positionName: "MP1",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 913,indent: 1,parent: 912,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "[J<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>]",
+},
+{
+id: 914,indent: 0,parent: null,handNum: "363",wonOrLost: "11.00",wonNetOrLost: "6.50",startAmt: "56.01",endAmt: "62.51",finalHand: "",position: "UTG1 (3 of 6)",positionName: "UTG1",totalPlayers: "6",holeCards: "8<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "3",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 915,indent: 1,parent: 914,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",numPlayers: "6",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 916,indent: 1,parent: 914,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "2.75",potSizeToWin: "5.50",amountToPot: "50",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 917,indent: 1,parent: 914,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Bet",amount: "8.25",potSizeToWin: "11.00",amountToPot: "75",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 918,indent: 0,parent: null,handNum: "364",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "62.51",endAmt: "62.01",finalHand: "",position: "BB (2 of 6)",positionName: "BB",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 919,indent: 1,parent: 918,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 920,indent: 1,parent: 918,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "2.00",boardCards: "[6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>]",
+},
+{
+id: 921,indent: 0,parent: null,handNum: "365",wonOrLost: "-0.25",wonNetOrLost: "-0.25",startAmt: "62.01",endAmt: "61.76",finalHand: "",position: "SB (1 of 6)",positionName: "SB",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 922,indent: 1,parent: 921,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 923,indent: 1,parent: 921,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Jeff",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 924,indent: 0,parent: null,handNum: "366",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "61.76",endAmt: "61.76",finalHand: "",position: "Dealer (6 of 6)",positionName: "Dealer",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 925,indent: 1,parent: 924,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "2.00",boardCards: "[3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&hearts;</span>]",
+},
+{
+id: 926,indent: 0,parent: null,handNum: "367",wonOrLost: "2.25",wonNetOrLost: "1.25",startAmt: "61.76",endAmt: "63.01",finalHand: "",position: "Cutoff (5 of 6)",positionName: "Cutoff",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 927,indent: 1,parent: 926,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.00",potSizeToWin: "0.75",amountToPot: "133",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Dan C",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 928,indent: 1,parent: 926,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "2.25",potSizeToWin: "2.25",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "8<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 929,indent: 0,parent: null,handNum: "368",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "63.01",endAmt: "63.01",finalHand: "",position: "MP1 (4 of 6)",positionName: "MP1",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 930,indent: 1,parent: 929,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "[7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>]",
+},
+{
+id: 931,indent: 0,parent: null,handNum: "369",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "63.01",endAmt: "63.01",finalHand: "Two Pair, K's & 2's",position: "UTG1 (3 of 6)",positionName: "UTG1",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 932,indent: 1,parent: 931,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "6",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "[K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>]",
+},
+{
+id: 933,indent: 0,parent: null,handNum: "370",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "63.01",endAmt: "62.51",finalHand: "Straight, 10 High",position: "BB (2 of 6)",positionName: "BB",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 934,indent: 1,parent: 933,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 935,indent: 1,parent: 933,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "2.00",boardCards: "[2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 8<span style = 'font-size:125%; color: blue; '>&spades;</span>]",
+},
+{
+id: 936,indent: 0,parent: null,handNum: "371",wonOrLost: "-0.25",wonNetOrLost: "-0.25",startAmt: "62.51",endAmt: "62.26",finalHand: "",position: "SB (1 of 6)",positionName: "SB",totalPlayers: "6",holeCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 937,indent: 1,parent: 936,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 938,indent: 1,parent: 936,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "2",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "2.00",boardCards: "[6<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 3<span style = 'font-size:125%; color: blue; '>&clubs;</span>]",
+},
+{
+id: 939,indent: 0,parent: null,handNum: "372",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "62.26",endAmt: "62.26",finalHand: "",position: "Dealer (6 of 6)",positionName: "Dealer",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 940,indent: 1,parent: 939,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "[K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&spades;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>]",
+},
+{
+id: 941,indent: 0,parent: null,handNum: "373",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "62.26",endAmt: "62.26",finalHand: "Two Pair, 8's & 5's",position: "Cutoff (5 of 6)",positionName: "Cutoff",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 942,indent: 1,parent: 941,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "2.00",boardCards: "[10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>]",
+},
+{
+id: 943,indent: 0,parent: null,handNum: "374",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "62.26",endAmt: "62.26",finalHand: "",position: "MP1 (4 of 6)",positionName: "MP1",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 944,indent: 1,parent: 943,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 945,indent: 0,parent: null,handNum: "375",wonOrLost: "-3.00",wonNetOrLost: "-3.00",startAmt: "62.26",endAmt: "59.26",finalHand: "",position: "UTG1 (3 of 6)",positionName: "UTG1",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 946,indent: 1,parent: 945,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.00",potSizeToWin: "0.75",amountToPot: "133",numPlayers: "6",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 947,indent: 1,parent: 945,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "2.00",potSizeToWin: "4.75",amountToPot: "42",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Reraise",lastActionPlayer: "Alex W",lastActionAmount: "3.00",boardCards: "",
+},
+{
+id: 948,indent: 1,parent: 945,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "6.75",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 949,indent: 1,parent: 945,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "11.81",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "5.06",boardCards: "",
+},
+{
+id: 950,indent: 0,parent: null,handNum: "376",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "59.26",endAmt: "58.76",finalHand: "",position: "BB (2 of 6)",positionName: "BB",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 951,indent: 1,parent: 950,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 952,indent: 1,parent: 950,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Alex W",lastActionAmount: "3.00",boardCards: "",
+},
+{
+id: 953,indent: 0,parent: null,handNum: "377",wonOrLost: "-2.50",wonNetOrLost: "-2.50",startAmt: "58.76",endAmt: "56.26",finalHand: "Two Pair, 8's & 7's",position: "SB (1 of 6)",positionName: "SB",totalPlayers: "6",holeCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 954,indent: 1,parent: 953,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 955,indent: 1,parent: 953,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "1.75",amountToPot: "14",numPlayers: "4",numAllIns: "0",positionToLastAction: "3",lastAction: "BigBlind",lastActionPlayer: "Jeff",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 956,indent: 1,parent: 953,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 957,indent: 1,parent: 953,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Call",amount: "2.00",potSizeToWin: "4.00",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Jeff",lastActionAmount: "2.00",boardCards: "",
+},
+{
+id: 958,indent: 1,parent: 953,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 959,indent: 1,parent: 953,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Check",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 4<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 960,indent: 0,parent: null,handNum: "378",wonOrLost: "-1.75",wonNetOrLost: "-1.75",startAmt: "56.26",endAmt: "54.51",finalHand: "",position: "Dealer (6 of 6)",positionName: "Dealer",totalPlayers: "6",holeCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "7",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 961,indent: 1,parent: 960,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "1.75",potSizeToWin: "2.50",amountToPot: "70",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Dan C",lastActionAmount: "1.75",boardCards: "",
+},
+{
+id: 962,indent: 1,parent: 960,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "8.75",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Dan C",lastActionAmount: "3.00",boardCards: "9<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 963,indent: 0,parent: null,handNum: "379",wonOrLost: "-3.75",wonNetOrLost: "-3.75",startAmt: "54.51",endAmt: "50.76",finalHand: "",position: "Cutoff (5 of 6)",positionName: "Cutoff",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 964,indent: 1,parent: 963,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Dan C",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 965,indent: 1,parent: 963,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "2.00",potSizeToWin: "4.00",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 966,indent: 1,parent: 963,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Fold",amount: "0.00",potSizeToWin: "10.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "2.00",boardCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 967,indent: 0,parent: null,handNum: "380",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "50.76",endAmt: "50.76",finalHand: "",position: "MP1 (4 of 6)",positionName: "MP1",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 968,indent: 1,parent: 967,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",numPlayers: "6",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Greg",lastActionAmount: "2.50",boardCards: "",
+},
+{
+id: 969,indent: 0,parent: null,handNum: "381",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "50.76",endAmt: "50.76",finalHand: "",position: "UTG1 (3 of 6)",positionName: "UTG1",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 970,indent: 1,parent: 969,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "6",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "[K<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>]",
+},
+{
+id: 971,indent: 0,parent: null,handNum: "382",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "50.76",endAmt: "50.26",finalHand: "",position: "BB (2 of 6)",positionName: "BB",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 972,indent: 1,parent: 971,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 973,indent: 1,parent: 971,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "2.00",boardCards: "[9<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&hearts;</span>]",
+},
+{
+id: 974,indent: 0,parent: null,handNum: "383",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "50.26",endAmt: "49.76",finalHand: "",position: "SB (1 of 6)",positionName: "SB",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 975,indent: 1,parent: 974,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 976,indent: 1,parent: 974,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Jeff",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 977,indent: 1,parent: 974,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&diams;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 978,indent: 1,parent: 974,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "Bet",lastActionPlayer: "Jeff",lastActionAmount: "1.50",boardCards: "[Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>]",
+},
+{
+id: 979,indent: 0,parent: null,handNum: "384",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "49.76",endAmt: "49.76",finalHand: "Two Pair, Q's & 9's",position: "Dealer (6 of 6)",positionName: "Dealer",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 980,indent: 1,parent: 979,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Dan C",lastActionAmount: "1.00",boardCards: "[10<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>]",
+},
+{
+id: 981,indent: 0,parent: null,handNum: "385",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "49.76",endAmt: "49.76",finalHand: "",position: "Cutoff (5 of 6)",positionName: "Cutoff",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 982,indent: 1,parent: 981,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Dan C",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 983,indent: 0,parent: null,handNum: "386",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "49.76",endAmt: "49.76",finalHand: "",position: "MP1 (4 of 6)",positionName: "MP1",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 984,indent: 1,parent: 983,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "[9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, J<span style = 'font-size:125%; color: blue; '>&clubs;</span>]",
+},
+{
+id: 985,indent: 0,parent: null,handNum: "387",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "49.76",endAmt: "49.76",finalHand: "",position: "UTG1 (3 of 6)",positionName: "UTG1",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 986,indent: 1,parent: 985,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "6",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 987,indent: 0,parent: null,handNum: "388",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "99.76",endAmt: "99.26",finalHand: "Pair, 10's",position: "BB (2 of 6)",positionName: "BB",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 988,indent: 1,parent: 987,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 989,indent: 1,parent: 987,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "3.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "Raise",lastActionPlayer: "Dan C",lastActionAmount: "1.50",boardCards: "[6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, 10<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>]",
+},
+{
+id: 990,indent: 0,parent: null,handNum: "389",wonOrLost: "-0.25",wonNetOrLost: "-0.25",startAmt: "99.26",endAmt: "99.01",finalHand: "Full House, 6's over K's",position: "SB (1 of 6)",positionName: "SB",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 991,indent: 1,parent: 990,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 992,indent: 1,parent: 990,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "2.00",boardCards: "[3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>]",
+},
+{
+id: 993,indent: 0,parent: null,handNum: "390",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "99.01",endAmt: "99.01",finalHand: "",position: "Dealer (6 of 6)",positionName: "Dealer",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 994,indent: 1,parent: 993,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Greg",lastActionAmount: "2.50",boardCards: "",
+},
+{
+id: 995,indent: 0,parent: null,handNum: "391",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "99.01",endAmt: "99.01",finalHand: "",position: "Cutoff (5 of 6)",positionName: "Cutoff",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 996,indent: 1,parent: 995,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Dan C",lastActionAmount: "0.50",boardCards: "[2<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>]",
+},
+{
+id: 997,indent: 0,parent: null,handNum: "392",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "99.01",endAmt: "99.01",finalHand: "Two Pair, J's & 4's",position: "MP1 (4 of 6)",positionName: "MP1",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 998,indent: 1,parent: 997,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "[J<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&spades;</span>, 3<span style = 'font-size:125%; color: blue; '>&spades;</span>, J<span style = 'font-size:125%; color: blue; '>&clubs;</span>]",
+},
+{
+id: 999,indent: 0,parent: null,handNum: "393",wonOrLost: "-1.00",wonNetOrLost: "-1.00",startAmt: "99.01",endAmt: "98.01",finalHand: "",position: "UTG1 (3 of 6)",positionName: "UTG1",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1000,indent: 1,parent: 999,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.00",potSizeToWin: "0.75",amountToPot: "133",numPlayers: "6",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1001,indent: 1,parent: 999,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "5.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Reraise",lastActionPlayer: "Jeff",lastActionAmount: "3.75",boardCards: "",
+},
+{
+id: 1002,indent: 0,parent: null,handNum: "394",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "98.01",endAmt: "97.51",finalHand: "",position: "BB (2 of 6)",positionName: "BB",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1003,indent: 1,parent: 1002,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1004,indent: 1,parent: 1002,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "5.25",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "2",lastAction: "Raise",lastActionPlayer: "Dan C",lastActionAmount: "2.00",boardCards: "[2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>]",
+},
+{
+id: 1005,indent: 0,parent: null,handNum: "395",wonOrLost: "-6.50",wonNetOrLost: "-6.50",startAmt: "97.51",endAmt: "91.01",finalHand: "",position: "SB (1 of 6)",positionName: "SB",totalPlayers: "6",holeCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1006,indent: 1,parent: 1005,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "6",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1007,indent: 1,parent: 1005,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "2.75",potSizeToWin: "1.75",amountToPot: "157",numPlayers: "4",numAllIns: "0",positionToLastAction: "3",lastAction: "BigBlind",lastActionPlayer: "Jeff",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1008,indent: 1,parent: 1005,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "3.50",potSizeToWin: "7.00",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "J<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1009,indent: 1,parent: 1005,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "14.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "J<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1010,indent: 1,parent: 1005,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Fold",amount: "0.00",potSizeToWin: "24.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Jeff",lastActionAmount: "10.50",boardCards: "",
+},
+{
+id: 1011,indent: 0,parent: null,handNum: "396",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "91.01",endAmt: "91.01",finalHand: "",position: "Dealer (6 of 6)",positionName: "Dealer",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1012,indent: 1,parent: 1011,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "2",lastAction: "Raise",lastActionPlayer: "Dan C",lastActionAmount: "1.75",boardCards: "[A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>]",
+},
+{
+id: 1013,indent: 0,parent: null,handNum: "397",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "91.01",endAmt: "90.51",finalHand: "",position: "Dealer (5 of 5)",positionName: "Dealer",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1014,indent: 1,parent: 1013,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Dan C",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1015,indent: 1,parent: 1013,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "J<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1016,indent: 1,parent: 1013,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "1.50",boardCards: "J<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1017,indent: 0,parent: null,handNum: "398",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "90.51",endAmt: "90.51",finalHand: "",position: "Cutoff (4 of 5)",positionName: "Cutoff",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1018,indent: 1,parent: 1017,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "[5<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>]",
+},
+{
+id: 1019,indent: 0,parent: null,handNum: "399",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "90.51",endAmt: "90.51",finalHand: "",position: "UTG1 (3 of 5)",positionName: "UTG1",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1020,indent: 1,parent: 1019,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "[7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>]",
+},
+{
+id: 1021,indent: 0,parent: null,handNum: "400",wonOrLost: "9.31",wonNetOrLost: "4.78",startAmt: "90.51",endAmt: "95.29",finalHand: "",position: "BB (2 of 5)",positionName: "BB",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1022,indent: 1,parent: 1021,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1023,indent: 1,parent: 1021,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "1.50",potSizeToWin: "2.75",amountToPot: "54",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Dan C",lastActionAmount: "2.00",boardCards: "",
+},
+{
+id: 1024,indent: 1,parent: 1021,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1025,indent: 1,parent: 1021,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Call",amount: "2.53",potSizeToWin: "6.78",amountToPot: "37",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Dan C",lastActionAmount: "2.53",boardCards: "",
+},
+{
+id: 1026,indent: 1,parent: 1021,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "9.31",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1027,indent: 1,parent: 1021,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Bet",amount: "4.65",potSizeToWin: "9.31",amountToPot: "49",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1028,indent: 0,parent: null,handNum: "401",wonOrLost: "-0.25",wonNetOrLost: "-0.25",startAmt: "95.29",endAmt: "95.04",finalHand: "",position: "SB (1 of 5)",positionName: "SB",totalPlayers: "5",holeCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1029,indent: 1,parent: 1028,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1030,indent: 1,parent: 1028,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Dan C",lastActionAmount: "2.25",boardCards: "[K<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>]",
+},
+{
+id: 1031,indent: 0,parent: null,handNum: "402",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "95.04",endAmt: "95.04",finalHand: "",position: "Dealer (5 of 5)",positionName: "Dealer",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1032,indent: 1,parent: 1031,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Dan C",lastActionAmount: "0.50",boardCards: "[7<span style = 'font-size:125%; color: blue; '>&diams;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>]",
+},
+{
+id: 1033,indent: 0,parent: null,handNum: "403",wonOrLost: "1.25",wonNetOrLost: "0.75",startAmt: "95.04",endAmt: "95.79",finalHand: "",position: "Cutoff (4 of 5)",positionName: "Cutoff",totalPlayers: "5",holeCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "3",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1034,indent: 1,parent: 1033,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1035,indent: 0,parent: null,handNum: "404",wonOrLost: "3.00",wonNetOrLost: "2.00",startAmt: "95.79",endAmt: "97.79",finalHand: "",position: "UTG1 (3 of 5)",positionName: "UTG1",totalPlayers: "5",holeCards: "K<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>",holeCardsTier: "3",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1036,indent: 1,parent: 1035,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.00",potSizeToWin: "0.75",amountToPot: "133",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1037,indent: 1,parent: 1035,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "2.25",potSizeToWin: "3.00",amountToPot: "75",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1038,indent: 0,parent: null,handNum: "405",wonOrLost: "3.00",wonNetOrLost: "2.00",startAmt: "97.79",endAmt: "99.79",finalHand: "Two Pair, Q's & 2's",position: "BB (2 of 5)",positionName: "BB",totalPlayers: "5",holeCards: "K<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1039,indent: 1,parent: 1038,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1040,indent: 1,parent: 1038,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1041,indent: 1,parent: 1038,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1042,indent: 1,parent: 1038,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Bet",amount: "0.50",potSizeToWin: "1.50",amountToPot: "33",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1043,indent: 1,parent: 1038,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1044,indent: 0,parent: null,handNum: "406",wonOrLost: "-2.00",wonNetOrLost: "-2.00",startAmt: "99.79",endAmt: "97.79",finalHand: "",position: "SB (1 of 5)",positionName: "SB",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1045,indent: 1,parent: 1044,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1046,indent: 1,parent: 1044,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "1.75",potSizeToWin: "2.75",amountToPot: "63",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Dan C",lastActionAmount: "2.00",boardCards: "",
+},
+{
+id: 1047,indent: 1,parent: 1044,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "K<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1048,indent: 1,parent: 1044,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "K<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1049,indent: 1,parent: 1044,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Fold",amount: "0.00",potSizeToWin: "7.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Dan C",lastActionAmount: "3.00",boardCards: "",
+},
+{
+id: 1050,indent: 0,parent: null,handNum: "407",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "97.79",endAmt: "97.79",finalHand: "",position: "Dealer (5 of 5)",positionName: "Dealer",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1051,indent: 1,parent: 1050,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "2.00",boardCards: "",
+},
+{
+id: 1052,indent: 0,parent: null,handNum: "408",wonOrLost: "-2.00",wonNetOrLost: "-2.00",startAmt: "97.79",endAmt: "95.79",finalHand: "",position: "MP1 (4 of 6)",positionName: "MP1",totalPlayers: "6",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1053,indent: 1,parent: 1052,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.50",potSizeToWin: "2.00",amountToPot: "25",numPlayers: "6",numAllIns: "0",positionToLastAction: "3",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1054,indent: 1,parent: 1052,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "1.50",potSizeToWin: "7.75",amountToPot: "19",numPlayers: "6",numAllIns: "0",positionToLastAction: "4",lastAction: "Raise",lastActionPlayer: "Dan C",lastActionAmount: "1.75",boardCards: "",
+},
+{
+id: 1055,indent: 1,parent: 1052,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "18.50",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Greg",lastActionAmount: "9.25",boardCards: "7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1056,indent: 0,parent: null,handNum: "409",wonOrLost: "-2.00",wonNetOrLost: "-2.00",startAmt: "95.79",endAmt: "93.79",finalHand: "",position: "UTG1 (3 of 6)",positionName: "UTG1",totalPlayers: "6",holeCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1057,indent: 1,parent: 1056,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",numPlayers: "6",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1058,indent: 1,parent: 1056,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "14.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Reraise",lastActionPlayer: "Chris Moy",lastActionAmount: "9.75",boardCards: "",
+},
+{
+id: 1059,indent: 0,parent: null,handNum: "410",wonOrLost: "3.00",wonNetOrLost: "1.50",startAmt: "93.79",endAmt: "95.29",finalHand: "",position: "BB (2 of 5)",positionName: "BB",totalPlayers: "5",holeCards: "J<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>",holeCardsTier: "3",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1060,indent: 1,parent: 1059,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1061,indent: 1,parent: 1059,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Greg",lastActionAmount: "1.25",boardCards: "",
+},
+{
+id: 1062,indent: 1,parent: 1059,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1063,indent: 1,parent: 1059,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Bet",amount: "1.50",potSizeToWin: "3.00",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1064,indent: 0,parent: null,handNum: "411",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "95.29",endAmt: "94.79",finalHand: "",position: "SB (1 of 5)",positionName: "SB",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1065,indent: 1,parent: 1064,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1066,indent: 1,parent: 1064,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "2.25",amountToPot: "11",numPlayers: "5",numAllIns: "0",positionToLastAction: "4",lastAction: "BigBlind",lastActionPlayer: "Jeff",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1067,indent: 1,parent: 1064,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "8<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1068,indent: 1,parent: 1064,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "6.24",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "Bet",lastActionPlayer: "Jeff",lastActionAmount: "1.87",boardCards: "[A<span style = 'font-size:125%; color: blue; '>&diams;</span>]",
+},
+{
+id: 1069,indent: 0,parent: null,handNum: "412",wonOrLost: "-9.12",wonNetOrLost: "-9.12",startAmt: "94.79",endAmt: "85.67",finalHand: "Flush, Kc High",position: "Dealer (5 of 5)",positionName: "Dealer",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1070,indent: 1,parent: 1069,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.00",potSizeToWin: "1.25",amountToPot: "80",numPlayers: "4",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1071,indent: 1,parent: 1069,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "3.25",potSizeToWin: "3.25",amountToPot: "100",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1072,indent: 1,parent: 1069,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "9.75",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 3<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1073,indent: 1,parent: 1069,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Call",amount: "4.87",potSizeToWin: "14.62",amountToPot: "33",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "4.87",boardCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1074,indent: 0,parent: null,handNum: "413",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "85.67",endAmt: "85.67",finalHand: "",position: "Cutoff (4 of 5)",positionName: "Cutoff",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1075,indent: 1,parent: 1074,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1076,indent: 0,parent: null,handNum: "414",wonOrLost: "-1.00",wonNetOrLost: "-1.00",startAmt: "85.67",endAmt: "84.67",finalHand: "",position: "UTG1 (3 of 5)",positionName: "UTG1",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1077,indent: 1,parent: 1076,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.00",potSizeToWin: "0.75",amountToPot: "133",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1078,indent: 1,parent: 1076,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Reraise",lastActionPlayer: "Greg",lastActionAmount: "3.25",boardCards: "",
+},
+{
+id: 1079,indent: 0,parent: null,handNum: "415",wonOrLost: "2.50",wonNetOrLost: "1.25",startAmt: "84.67",endAmt: "85.92",finalHand: "",position: "BB (2 of 5)",positionName: "BB",totalPlayers: "5",holeCards: "9<span style = 'font-size:125%; color: blue; '>&spades;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1080,indent: 1,parent: 1079,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1081,indent: 1,parent: 1079,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1082,indent: 1,parent: 1079,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Call",amount: "0.75",potSizeToWin: "1.75",amountToPot: "42",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Greg",lastActionAmount: "0.75",boardCards: "9<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1083,indent: 1,parent: 1079,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Bet",amount: "1.25",potSizeToWin: "2.50",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "9<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1084,indent: 0,parent: null,handNum: "416",wonOrLost: "-2.00",wonNetOrLost: "-2.00",startAmt: "85.92",endAmt: "83.92",finalHand: "",position: "SB (1 of 5)",positionName: "SB",totalPlayers: "5",holeCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1085,indent: 1,parent: 1084,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1086,indent: 1,parent: 1084,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Jeff",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1087,indent: 1,parent: 1084,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "1.50",potSizeToWin: "4.50",amountToPot: "33",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "Raise",lastActionPlayer: "Jeff",lastActionAmount: "1.50",boardCards: "",
+},
+{
+id: 1088,indent: 1,parent: 1084,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 10<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1089,indent: 1,parent: 1084,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "10.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Jeff",lastActionAmount: "4.50",boardCards: "",
+},
+{
+id: 1090,indent: 0,parent: null,handNum: "417",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "83.92",endAmt: "83.42",finalHand: "",position: "Dealer (5 of 5)",positionName: "Dealer",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1091,indent: 1,parent: 1090,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",numPlayers: "4",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1092,indent: 1,parent: 1090,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "5.00",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "3.25",boardCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1093,indent: 0,parent: null,handNum: "418",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "83.42",endAmt: "82.92",finalHand: "Flush, Kd High",position: "Cutoff (4 of 5)",positionName: "Cutoff",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1094,indent: 1,parent: 1093,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1095,indent: 1,parent: 1093,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "1.50",boardCards: "K<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>, [7<span style = 'font-size:125%; color: blue; '>&diams;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>]",
+},
+{
+id: 1096,indent: 0,parent: null,handNum: "419",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "82.92",endAmt: "82.92",finalHand: "",position: "UTG1 (3 of 5)",positionName: "UTG1",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1097,indent: 1,parent: 1096,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "[7<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>]",
+},
+{
+id: 1098,indent: 0,parent: null,handNum: "420",wonOrLost: "-16.03",wonNetOrLost: "-16.03",startAmt: "82.92",endAmt: "66.89",finalHand: "Full House, Q's over 6's",position: "BB (2 of 5)",positionName: "BB",totalPlayers: "5",holeCards: "K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&spades;</span>",holeCardsTier: "1",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1099,indent: 1,parent: 1098,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1100,indent: 1,parent: 1098,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "1.00",potSizeToWin: "2.25",amountToPot: "44",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "1.50",boardCards: "",
+},
+{
+id: 1101,indent: 1,parent: 1098,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1102,indent: 1,parent: 1098,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Call",amount: "2.43",potSizeToWin: "5.68",amountToPot: "42",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "2.43",boardCards: "",
+},
+{
+id: 1103,indent: 1,parent: 1098,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "8.11",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1104,indent: 1,parent: 1098,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Bet",amount: "4.05",potSizeToWin: "8.11",amountToPot: "49",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1105,indent: 1,parent: 1098,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Call",amount: "8.05",potSizeToWin: "24.26",amountToPot: "33",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "12.10",boardCards: "",
+},
+{
+id: 1106,indent: 0,parent: null,handNum: "421",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "66.89",endAmt: "66.39",finalHand: "",position: "SB (1 of 5)",positionName: "SB",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1107,indent: 1,parent: 1106,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1108,indent: 1,parent: 1106,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "1.75",amountToPot: "14",numPlayers: "4",numAllIns: "0",positionToLastAction: "3",lastAction: "BigBlind",lastActionPlayer: "Jeff",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1109,indent: 1,parent: 1106,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1110,indent: 1,parent: 1106,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1111,indent: 1,parent: 1106,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "2.00",boardCards: "",
+},
+{
+id: 1112,indent: 0,parent: null,handNum: "422",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "66.39",endAmt: "66.39",finalHand: "",position: "Dealer (5 of 5)",positionName: "Dealer",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1113,indent: 1,parent: 1112,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Greg",lastActionAmount: "2.00",boardCards: "",
+},
+{
+id: 1114,indent: 0,parent: null,handNum: "423",wonOrLost: "4.25",wonNetOrLost: "2.50",startAmt: "66.39",endAmt: "68.89",finalHand: "",position: "Cutoff (4 of 5)",positionName: "Cutoff",totalPlayers: "5",holeCards: "9<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>",holeCardsTier: "2",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1115,indent: 1,parent: 1114,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1116,indent: 1,parent: 1114,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "4.25",potSizeToWin: "4.25",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "2<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1117,indent: 0,parent: null,handNum: "424",wonOrLost: "12.50",wonNetOrLost: "7.00",startAmt: "68.89",endAmt: "75.89",finalHand: "",position: "UTG1 (3 of 5)",positionName: "UTG1",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1118,indent: 1,parent: 1117,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1119,indent: 1,parent: 1117,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "3<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1120,indent: 1,parent: 1117,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "3<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1121,indent: 1,parent: 1117,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Bet",amount: "2.50",potSizeToWin: "2.50",amountToPot: "100",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "3<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 10<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1122,indent: 1,parent: 1117,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Reraise",amount: "15.00",potSizeToWin: "10.00",amountToPot: "150",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Alex W",lastActionAmount: "5.00",boardCards: "",
+},
+{
+id: 1123,indent: 0,parent: null,handNum: "425",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "75.89",endAmt: "75.39",finalHand: "",position: "BB (2 of 5)",positionName: "BB",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1124,indent: 1,parent: 1123,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1125,indent: 1,parent: 1123,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Greg",lastActionAmount: "1.75",boardCards: "",
+},
+{
+id: 1126,indent: 0,parent: null,handNum: "426",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "75.39",endAmt: "74.89",finalHand: "",position: "SB (1 of 5)",positionName: "SB",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1127,indent: 1,parent: 1126,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1128,indent: 1,parent: 1126,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Jeff",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1129,indent: 1,parent: 1126,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 3<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1130,indent: 1,parent: 1126,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "2.50",boardCards: "",
+},
+{
+id: 1131,indent: 0,parent: null,handNum: "427",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "74.89",endAmt: "74.89",finalHand: "",position: "Dealer (5 of 5)",positionName: "Dealer",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1132,indent: 1,parent: 1131,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Greg",lastActionAmount: "2.50",boardCards: "",
+},
+{
+id: 1133,indent: 0,parent: null,handNum: "428",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "74.89",endAmt: "74.89",finalHand: "Pair, Q's",position: "Cutoff (4 of 5)",positionName: "Cutoff",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1134,indent: 1,parent: 1133,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Greg",lastActionAmount: "2.25",boardCards: "[5<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>]",
+},
+{
+id: 1135,indent: 0,parent: null,handNum: "429",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "74.89",endAmt: "74.89",finalHand: "Two Pair, 4's & 3's",position: "UTG1 (3 of 5)",positionName: "UTG1",totalPlayers: "5",holeCards: "3<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1136,indent: 1,parent: 1135,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "[4<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 3<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 10<span style = 'font-size:125%; color: blue; '>&clubs;</span>]",
+},
+{
+id: 1137,indent: 0,parent: null,handNum: "430",wonOrLost: "-1.00",wonNetOrLost: "-1.00",startAmt: "74.89",endAmt: "73.89",finalHand: "",position: "BB (2 of 5)",positionName: "BB",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1138,indent: 1,parent: 1137,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1139,indent: 1,parent: 1137,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.50",potSizeToWin: "1.75",amountToPot: "28",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "1.00",boardCards: "",
+},
+{
+id: 1140,indent: 1,parent: 1137,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1141,indent: 1,parent: 1137,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "3.93",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "1.68",boardCards: "",
+},
+{
+id: 1142,indent: 0,parent: null,handNum: "431",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "73.89",endAmt: "73.39",finalHand: "",position: "SB (1 of 5)",positionName: "SB",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1143,indent: 1,parent: 1142,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1144,indent: 1,parent: 1142,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Jeff",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1145,indent: 1,parent: 1142,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Jeff",lastActionAmount: "1.50",boardCards: "",
+},
+{
+id: 1146,indent: 0,parent: null,handNum: "432",wonOrLost: "-15.37",wonNetOrLost: "-15.37",startAmt: "73.39",endAmt: "58.02",finalHand: "Three of a Kind, 2's",position: "Dealer (5 of 5)",positionName: "Dealer",totalPlayers: "5",holeCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1147,indent: 1,parent: 1146,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "2.25",potSizeToWin: "1.25",amountToPot: "180",numPlayers: "4",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1148,indent: 1,parent: 1146,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "5.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1149,indent: 1,parent: 1146,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Call",amount: "5.25",potSizeToWin: "10.50",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "5.25",boardCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1150,indent: 1,parent: 1146,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Call",amount: "7.87",potSizeToWin: "23.62",amountToPot: "33",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "7.87",boardCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1151,indent: 0,parent: null,handNum: "433",wonOrLost: "1.25",wonNetOrLost: "0.75",startAmt: "58.02",endAmt: "58.77",finalHand: "",position: "Cutoff (4 of 5)",positionName: "Cutoff",totalPlayers: "5",holeCards: "7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "4",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1152,indent: 1,parent: 1151,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1153,indent: 0,parent: null,handNum: "434",wonOrLost: "-12.62",wonNetOrLost: "-12.62",startAmt: "58.77",endAmt: "46.15",finalHand: "Three of a Kind, 4's",position: "UTG1 (3 of 5)",positionName: "UTG1",totalPlayers: "5",holeCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "1",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1154,indent: 1,parent: 1153,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",numPlayers: "5",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1155,indent: 1,parent: 1153,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "1.00",potSizeToWin: "3.75",amountToPot: "26",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1156,indent: 1,parent: 1153,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Call",amount: "2.75",potSizeToWin: "8.50",amountToPot: "32",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "CheckRaise",lastActionPlayer: "Greg",lastActionAmount: "3.75",boardCards: "",
+},
+{
+id: 1157,indent: 1,parent: 1153,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Call",amount: "7.12",potSizeToWin: "18.37",amountToPot: "38",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Greg",lastActionAmount: "7.12",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1158,indent: 1,parent: 1153,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Check",amount: "0.00",potSizeToWin: "25.49",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1159,indent: 0,parent: null,handNum: "435",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "46.15",endAmt: "45.65",finalHand: "",position: "BB (2 of 5)",positionName: "BB",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1160,indent: 1,parent: 1159,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1161,indent: 1,parent: 1159,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1162,indent: 1,parent: 1159,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "8<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1163,indent: 1,parent: 1159,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "1.00",boardCards: "",
+},
+{
+id: 1164,indent: 0,parent: null,handNum: "436",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "45.65",endAmt: "45.15",finalHand: "",position: "SB (1 of 5)",positionName: "SB",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1165,indent: 1,parent: 1164,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1166,indent: 1,parent: 1164,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Jeff",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1167,indent: 1,parent: 1164,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1168,indent: 1,parent: 1164,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "1.50",boardCards: "",
+},
+{
+id: 1169,indent: 0,parent: null,handNum: "437",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "45.15",endAmt: "44.65",finalHand: "",position: "Dealer (5 of 5)",positionName: "Dealer",totalPlayers: "5",holeCards: "5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1170,indent: 1,parent: 1169,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",numPlayers: "4",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1171,indent: 1,parent: 1169,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "Raise",lastActionPlayer: "Jeff",lastActionAmount: "2.25",boardCards: "[10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>]",
+},
+{
+id: 1172,indent: 0,parent: null,handNum: "438",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "44.65",endAmt: "44.65",finalHand: "",position: "Cutoff (4 of 5)",positionName: "Cutoff",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1173,indent: 1,parent: 1172,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1174,indent: 0,parent: null,handNum: "439",wonOrLost: "-1.00",wonNetOrLost: "-1.00",startAmt: "44.65",endAmt: "43.65",finalHand: "",position: "UTG1 (3 of 4)",positionName: "UTG1",totalPlayers: "4",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1175,indent: 1,parent: 1174,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.00",potSizeToWin: "0.75",amountToPot: "133",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1176,indent: 1,parent: 1174,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "8<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1177,indent: 1,parent: 1174,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Fold",amount: "0.00",potSizeToWin: "3.93",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Greg",lastActionAmount: "1.68",boardCards: "8<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1178,indent: 0,parent: null,handNum: "440",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "43.65",endAmt: "43.15",finalHand: "",position: "BB (2 of 4)",positionName: "BB",totalPlayers: "4",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1179,indent: 1,parent: 1178,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1180,indent: 1,parent: 1178,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1181,indent: 1,parent: 1178,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "6<span style = 'font-size:125%; color: blue; '>&spades;</span>, J<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1182,indent: 1,parent: 1178,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "3.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "1.50",boardCards: "",
+},
+{
+id: 1183,indent: 0,parent: null,handNum: "441",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "43.15",endAmt: "42.65",finalHand: "",position: "SB (1 of 5)",positionName: "SB",totalPlayers: "5",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1184,indent: 1,parent: 1183,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "5",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1185,indent: 1,parent: 1183,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Jeff",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1186,indent: 1,parent: 1183,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "3<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1187,indent: 1,parent: 1183,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "1.00",boardCards: "",
+},
+{
+id: 1188,indent: 0,parent: null,handNum: "442",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "42.65",endAmt: "42.65",finalHand: "",position: "Dealer (4 of 4)",positionName: "Dealer",totalPlayers: "4",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1189,indent: 1,parent: 1188,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1190,indent: 0,parent: null,handNum: "443",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "42.65",endAmt: "42.65",finalHand: "",position: "Dealer (4 of 4)",positionName: "Dealer",totalPlayers: "4",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1191,indent: 1,parent: 1190,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Greg",lastActionAmount: "2.00",boardCards: "",
+},
+{
+id: 1192,indent: 0,parent: null,handNum: "444",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "42.65",endAmt: "42.65",finalHand: "",position: "UTG1 (3 of 4)",positionName: "UTG1",totalPlayers: "4",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1193,indent: 1,parent: 1192,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "4",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Greg",lastActionAmount: "0.50",boardCards: "[Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, J<span style = 'font-size:125%; color: blue; '>&spades;</span>, J<span style = 'font-size:125%; color: blue; '>&clubs;</span>]",
+},
+{
+id: 1194,indent: 0,parent: null,handNum: "445",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "42.65",endAmt: "42.15",finalHand: "",position: "BB (2 of 4)",positionName: "BB",totalPlayers: "4",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1195,indent: 1,parent: 1194,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "4",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1196,indent: 1,parent: 1194,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1197,indent: 1,parent: 1194,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1198,indent: 1,parent: 1194,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "1.50",boardCards: "",
+},
+{
+id: 1199,indent: 0,parent: null,handNum: "446",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "42.15",endAmt: "41.65",finalHand: "",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1200,indent: 1,parent: 1199,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1201,indent: 1,parent: 1199,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1202,indent: 1,parent: 1199,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1203,indent: 1,parent: 1199,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1204,indent: 1,parent: 1199,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Fold",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1205,indent: 0,parent: null,handNum: "447",wonOrLost: "3.00",wonNetOrLost: "1.50",startAmt: "41.65",endAmt: "43.15",finalHand: "",position: "BB (1 of 2)",positionName: "BB",totalPlayers: "2",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1206,indent: 1,parent: 1205,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1207,indent: 1,parent: 1205,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1208,indent: 1,parent: 1205,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "3.00",potSizeToWin: "3.00",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "3<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 10<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1209,indent: 0,parent: null,handNum: "448",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "43.15",endAmt: "42.65",finalHand: "",position: "Dealer_SB (2 of 2)",positionName: "Dealer_SB",totalPlayers: "2",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1210,indent: 1,parent: 1209,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1211,indent: 1,parent: 1209,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1212,indent: 1,parent: 1209,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "5<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1213,indent: 1,parent: 1209,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "5<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1214,indent: 1,parent: 1209,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "5<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1215,indent: 1,parent: 1209,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Fold",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "1.00",boardCards: "",
+},
+{
+id: 1216,indent: 0,parent: null,handNum: "449",wonOrLost: "1.00",wonNetOrLost: "0.50",startAmt: "42.65",endAmt: "43.15",finalHand: "",position: "BB (1 of 2)",positionName: "BB",totalPlayers: "2",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1217,indent: 1,parent: 1216,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1218,indent: 1,parent: 1216,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1219,indent: 0,parent: null,handNum: "450",wonOrLost: "0.50",wonNetOrLost: "0.25",startAmt: "43.15",endAmt: "43.40",finalHand: "",position: "Dealer_SB (2 of 2)",positionName: "Dealer_SB",totalPlayers: "2",holeCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1220,indent: 1,parent: 1219,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1221,indent: 0,parent: null,handNum: "451",wonOrLost: "16.00",wonNetOrLost: "8.00",startAmt: "43.40",endAmt: "51.40",finalHand: "Two Pair, J's & 4's",position: "BB (1 of 2)",positionName: "BB",totalPlayers: "2",holeCards: "8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, J<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "9",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1222,indent: 1,parent: 1221,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1223,indent: 1,parent: 1221,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1224,indent: 1,parent: 1221,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "3.00",potSizeToWin: "3.00",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "4<span style = 'font-size:125%; color: blue; '>&hearts;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1225,indent: 1,parent: 1221,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "9.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "4<span style = 'font-size:125%; color: blue; '>&hearts;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1226,indent: 1,parent: 1221,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Call",amount: "3.50",potSizeToWin: "12.50",amountToPot: "28",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "3.50",boardCards: "4<span style = 'font-size:125%; color: blue; '>&hearts;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1227,indent: 0,parent: null,handNum: "452",wonOrLost: "-9.00",wonNetOrLost: "-9.00",startAmt: "51.40",endAmt: "42.40",finalHand: "Three of a Kind, K's",position: "Dealer_SB (2 of 2)",positionName: "Dealer_SB",totalPlayers: "2",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1228,indent: 1,parent: 1227,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1229,indent: 1,parent: 1227,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1230,indent: 1,parent: 1227,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "1.00",potSizeToWin: "1.00",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "K<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1231,indent: 1,parent: 1227,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Bet",amount: "3.00",potSizeToWin: "3.00",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "K<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1232,indent: 1,parent: 1227,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Check",amount: "0.00",potSizeToWin: "9.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "K<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 3<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1233,indent: 1,parent: 1227,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Call",amount: "4.50",potSizeToWin: "13.50",amountToPot: "33",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "4.50",boardCards: "",
+},
+{
+id: 1234,indent: 0,parent: null,handNum: "453",wonOrLost: "1.00",wonNetOrLost: "0.50",startAmt: "42.40",endAmt: "42.90",finalHand: "",position: "BB (1 of 2)",positionName: "BB",totalPlayers: "2",holeCards: "8<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>",holeCardsTier: "3",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1235,indent: 1,parent: 1234,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1236,indent: 1,parent: 1234,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1237,indent: 0,parent: null,handNum: "454",wonOrLost: "-1.12",wonNetOrLost: "-1.12",startAmt: "42.90",endAmt: "41.78",finalHand: "",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1238,indent: 1,parent: 1237,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1239,indent: 1,parent: 1237,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1240,indent: 1,parent: 1237,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "5<span style = 'font-size:125%; color: blue; '>&diams;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1241,indent: 1,parent: 1237,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Call",amount: "0.62",potSizeToWin: "2.12",amountToPot: "29",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "0.62",boardCards: "5<span style = 'font-size:125%; color: blue; '>&diams;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 4<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1242,indent: 1,parent: 1237,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Fold",amount: "0.00",potSizeToWin: "3.98",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "1.24",boardCards: "5<span style = 'font-size:125%; color: blue; '>&diams;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 4<span style = 'font-size:125%; color: blue; '>&diams;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1243,indent: 0,parent: null,handNum: "455",wonOrLost: "-6.00",wonNetOrLost: "-6.00",startAmt: "41.78",endAmt: "35.78",finalHand: "Three of a Kind, 9's",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1244,indent: 1,parent: 1243,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1245,indent: 1,parent: 1243,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1246,indent: 1,parent: 1243,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "9<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1247,indent: 1,parent: 1243,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Bet",amount: "0.50",potSizeToWin: "1.50",amountToPot: "33",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "9<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1248,indent: 1,parent: 1243,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Bet",amount: "2.50",potSizeToWin: "2.50",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "9<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1249,indent: 1,parent: 1243,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Call",amount: "2.50",potSizeToWin: "10.00",amountToPot: "25",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Alex W",lastActionAmount: "5.00",boardCards: "",
+},
+{
+id: 1250,indent: 0,parent: null,handNum: "456",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "35.78",endAmt: "35.78",finalHand: "Pair, Q's",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1251,indent: 1,parent: 1250,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "[Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>]",
+},
+{
+id: 1252,indent: 0,parent: null,handNum: "457",wonOrLost: "1.50",wonNetOrLost: "1.00",startAmt: "35.78",endAmt: "36.78",finalHand: "",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>",holeCardsTier: "4",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1253,indent: 1,parent: 1252,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1254,indent: 1,parent: 1252,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1255,indent: 0,parent: null,handNum: "458",wonOrLost: "4.50",wonNetOrLost: "3.00",startAmt: "36.78",endAmt: "39.78",finalHand: "Two Pair, 7's & 4's",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "10<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1256,indent: 1,parent: 1255,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1257,indent: 1,parent: 1255,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1258,indent: 1,parent: 1255,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "0.50",potSizeToWin: "1.50",amountToPot: "33",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "4<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1259,indent: 1,parent: 1255,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Call",amount: "0.50",potSizeToWin: "4.00",amountToPot: "12",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "Raise",lastActionPlayer: "Alex W",lastActionAmount: "1.00",boardCards: "",
+},
+{
+id: 1260,indent: 1,parent: 1255,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "4<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1261,indent: 1,parent: 1255,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "4<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, J<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1262,indent: 0,parent: null,handNum: "459",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "39.78",endAmt: "39.78",finalHand: "",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1263,indent: 1,parent: 1262,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1264,indent: 0,parent: null,handNum: "460",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "39.78",endAmt: "39.28",finalHand: "",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1265,indent: 1,parent: 1264,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1266,indent: 1,parent: 1264,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "1.75",boardCards: "",
+},
+{
+id: 1267,indent: 0,parent: null,handNum: "461",wonOrLost: "-1.50",wonNetOrLost: "-1.50",startAmt: "39.28",endAmt: "37.78",finalHand: "",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1268,indent: 1,parent: 1267,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1269,indent: 1,parent: 1267,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1270,indent: 1,parent: 1267,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "1.00",potSizeToWin: "1.00",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1271,indent: 1,parent: 1267,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1272,indent: 1,parent: 1267,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Fold",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "3.00",boardCards: "",
+},
+{
+id: 1273,indent: 0,parent: null,handNum: "462",wonOrLost: "6.00",wonNetOrLost: "4.00",startAmt: "37.78",endAmt: "41.78",finalHand: "",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1274,indent: 1,parent: 1273,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1275,indent: 1,parent: 1273,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Call",amount: "1.50",potSizeToWin: "3.00",amountToPot: "50",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "1.50",boardCards: "7<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1276,indent: 1,parent: 1273,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Bet",amount: "4.50",potSizeToWin: "6.00",amountToPot: "75",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "7<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1277,indent: 0,parent: null,handNum: "463",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "41.78",endAmt: "41.28",finalHand: "",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1278,indent: 1,parent: 1277,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1279,indent: 1,parent: 1277,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1280,indent: 1,parent: 1277,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "1.00",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 4<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1281,indent: 0,parent: null,handNum: "464",wonOrLost: "-0.25",wonNetOrLost: "-0.25",startAmt: "41.28",endAmt: "41.03",finalHand: "",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1282,indent: 1,parent: 1281,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1283,indent: 1,parent: 1281,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1284,indent: 0,parent: null,handNum: "465",wonOrLost: "-1.75",wonNetOrLost: "-1.75",startAmt: "41.03",endAmt: "39.28",finalHand: "",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1285,indent: 1,parent: 1284,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1286,indent: 1,parent: 1284,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "6.56",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "2.81",boardCards: "10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1287,indent: 0,parent: null,handNum: "466",wonOrLost: "-1.50",wonNetOrLost: "-1.50",startAmt: "39.28",endAmt: "37.78",finalHand: "",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1288,indent: 1,parent: 1287,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1289,indent: 1,parent: 1287,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "1.25",boardCards: "",
+},
+{
+id: 1290,indent: 1,parent: 1287,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "5.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "2.25",boardCards: "2<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&hearts;</span>, J<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1291,indent: 0,parent: null,handNum: "467",wonOrLost: "-1.50",wonNetOrLost: "-1.50",startAmt: "37.78",endAmt: "36.28",finalHand: "",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1292,indent: 1,parent: 1291,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1293,indent: 1,parent: 1291,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "1.25",potSizeToWin: "2.25",amountToPot: "55",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "1.50",boardCards: "",
+},
+{
+id: 1294,indent: 1,parent: 1291,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "3.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1295,indent: 1,parent: 1291,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "6.12",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "2.62",boardCards: "",
+},
+{
+id: 1296,indent: 0,parent: null,handNum: "468",wonOrLost: "-1.75",wonNetOrLost: "-1.75",startAmt: "36.28",endAmt: "34.53",finalHand: "",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",holeCardsTier: "4",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1297,indent: 1,parent: 1296,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1298,indent: 1,parent: 1296,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "6.56",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "2.81",boardCards: "4<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1299,indent: 0,parent: null,handNum: "469",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "34.53",endAmt: "34.03",finalHand: "",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1300,indent: 1,parent: 1299,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1301,indent: 1,parent: 1299,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "1.75",boardCards: "",
+},
+{
+id: 1302,indent: 0,parent: null,handNum: "470",wonOrLost: "-1.50",wonNetOrLost: "-1.50",startAmt: "34.03",endAmt: "32.53",finalHand: "",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1303,indent: 1,parent: 1302,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1304,indent: 1,parent: 1302,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1305,indent: 1,parent: 1302,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "2<span style = 'font-size:125%; color: blue; '>&diams;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1306,indent: 1,parent: 1302,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "1.50",boardCards: "",
+},
+{
+id: 1307,indent: 0,parent: null,handNum: "471",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "32.53",endAmt: "32.53",finalHand: "",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&diams;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1308,indent: 1,parent: 1307,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "[3<span style = 'font-size:125%; color: blue; '>&diams;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>]",
+},
+{
+id: 1309,indent: 0,parent: null,handNum: "472",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "32.53",endAmt: "32.03",finalHand: "",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1310,indent: 1,parent: 1309,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1311,indent: 1,parent: 1309,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "1.75",boardCards: "",
+},
+{
+id: 1312,indent: 0,parent: null,handNum: "473",wonOrLost: "1.00",wonNetOrLost: "0.50",startAmt: "32.03",endAmt: "32.53",finalHand: "",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "4<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "9",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1313,indent: 1,parent: 1312,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1314,indent: 1,parent: 1312,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1315,indent: 0,parent: null,handNum: "474",wonOrLost: "1.25",wonNetOrLost: "0.75",startAmt: "32.53",endAmt: "33.28",finalHand: "",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "K<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",holeCardsTier: "4",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1316,indent: 1,parent: 1315,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1317,indent: 0,parent: null,handNum: "475",wonOrLost: "0.50",wonNetOrLost: "0.25",startAmt: "33.28",endAmt: "33.53",finalHand: "",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "J<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1318,indent: 1,parent: 1317,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1319,indent: 0,parent: null,handNum: "476",wonOrLost: "-4.50",wonNetOrLost: "-4.50",startAmt: "33.53",endAmt: "29.03",finalHand: "",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1320,indent: 1,parent: 1319,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1321,indent: 1,parent: 1319,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1322,indent: 1,parent: 1319,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "3.00",potSizeToWin: "3.00",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "7<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1323,indent: 1,parent: 1319,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "9.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "7<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1324,indent: 1,parent: 1319,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Fold",amount: "0.00",potSizeToWin: "15.75",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "6.75",boardCards: "",
+},
+{
+id: 1325,indent: 0,parent: null,handNum: "477",wonOrLost: "6.00",wonNetOrLost: "4.00",startAmt: "29.03",endAmt: "33.03",finalHand: "",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "3<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&spades;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1326,indent: 1,parent: 1325,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1327,indent: 1,parent: 1325,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1328,indent: 1,parent: 1325,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Call",amount: "1.50",potSizeToWin: "3.00",amountToPot: "50",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "1.50",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1329,indent: 1,parent: 1325,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Bet",amount: "6.00",potSizeToWin: "6.00",amountToPot: "100",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1330,indent: 0,parent: null,handNum: "478",wonOrLost: "4.50",wonNetOrLost: "2.50",startAmt: "33.03",endAmt: "35.53",finalHand: "",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1331,indent: 1,parent: 1330,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1332,indent: 1,parent: 1330,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1333,indent: 1,parent: 1330,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "4.50",potSizeToWin: "4.50",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1334,indent: 0,parent: null,handNum: "479",wonOrLost: "-1.00",wonNetOrLost: "-1.00",startAmt: "35.53",endAmt: "34.53",finalHand: "",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1335,indent: 1,parent: 1334,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1336,indent: 1,parent: 1334,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1337,indent: 1,parent: 1334,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "0.50",potSizeToWin: "1.00",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1338,indent: 1,parent: 1334,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Alex W",lastActionAmount: "1.50",boardCards: "",
+},
+{
+id: 1339,indent: 0,parent: null,handNum: "480",wonOrLost: "-1.00",wonNetOrLost: "-1.00",startAmt: "34.53",endAmt: "33.53",finalHand: "",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1340,indent: 1,parent: 1339,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1341,indent: 1,parent: 1339,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Call",amount: "0.50",potSizeToWin: "2.00",amountToPot: "25",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1342,indent: 1,parent: 1339,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1343,indent: 1,parent: 1339,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Fold",amount: "0.00",potSizeToWin: "8.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "5.00",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1344,indent: 0,parent: null,handNum: "481",wonOrLost: "1.25",wonNetOrLost: "0.75",startAmt: "33.53",endAmt: "34.28",finalHand: "",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1345,indent: 1,parent: 1344,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1346,indent: 1,parent: 1344,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.25",potSizeToWin: "1.25",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1347,indent: 0,parent: null,handNum: "482",wonOrLost: "1.00",wonNetOrLost: "0.50",startAmt: "34.28",endAmt: "34.78",finalHand: "",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "J<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>",holeCardsTier: "4",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1348,indent: 1,parent: 1347,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1349,indent: 1,parent: 1347,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1350,indent: 0,parent: null,handNum: "483",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "34.78",endAmt: "34.78",finalHand: "A High",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1351,indent: 1,parent: 1350,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "[9<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 3<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>]",
+},
+{
+id: 1352,indent: 0,parent: null,handNum: "484",wonOrLost: "34.78",wonNetOrLost: "0.00",startAmt: "34.78",endAmt: "34.78",finalHand: "Full House, A's over 7's (SP:2)",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "5",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1353,indent: 1,parent: 1352,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1354,indent: 1,parent: 1352,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "1.50",potSizeToWin: "2.50",amountToPot: "60",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "1.75",boardCards: "",
+},
+{
+id: 1355,indent: 1,parent: 1352,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "K<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1356,indent: 1,parent: 1352,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Call",amount: "2.00",potSizeToWin: "6.00",amountToPot: "33",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "2.00",boardCards: "K<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1357,indent: 1,parent: 1352,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "RaiseAllIn",amount: "30.78",potSizeToWin: "12.00",amountToPot: "256",numPlayers: "2",numAllIns: "1",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "4.00",boardCards: "K<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1358,indent: 0,parent: null,handNum: "485",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "34.78",endAmt: "34.28",finalHand: "",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1359,indent: 1,parent: 1358,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1360,indent: 1,parent: 1358,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1361,indent: 1,parent: 1358,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "7<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1362,indent: 1,parent: 1358,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "5.00",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "3.50",boardCards: "",
+},
+{
+id: 1363,indent: 0,parent: null,handNum: "486",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "34.28",endAmt: "34.28",finalHand: "",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1364,indent: 1,parent: 1363,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "[2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&clubs;</span>]",
+},
+{
+id: 1365,indent: 0,parent: null,handNum: "487",wonOrLost: "0.50",wonNetOrLost: "0.25",startAmt: "34.28",endAmt: "34.53",finalHand: "",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1366,indent: 1,parent: 1365,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1367,indent: 0,parent: null,handNum: "488",wonOrLost: "-0.25",wonNetOrLost: "-0.25",startAmt: "34.53",endAmt: "34.28",finalHand: "",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1368,indent: 1,parent: 1367,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1369,indent: 1,parent: 1367,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1370,indent: 0,parent: null,handNum: "489",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "34.28",endAmt: "34.28",finalHand: "",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1371,indent: 1,parent: 1370,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "[8<span style = 'font-size:125%; color: blue; '>&spades;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 3<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>]",
+},
+{
+id: 1372,indent: 0,parent: null,handNum: "490",wonOrLost: "68.81",wonNetOrLost: "34.53",startAmt: "34.28",endAmt: "68.81",finalHand: "Flush, Ac High",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "9",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1373,indent: 1,parent: 1372,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1374,indent: 1,parent: 1372,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1375,indent: 1,parent: 1372,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1376,indent: 1,parent: 1372,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Bet",amount: "1.25",potSizeToWin: "1.25",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1377,indent: 1,parent: 1372,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Bet",amount: "4.92",potSizeToWin: "3.75",amountToPot: "131",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1378,indent: 1,parent: 1372,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "ReraiseAllIn",amount: "27.61",potSizeToWin: "18.51",amountToPot: "149",numPlayers: "2",numAllIns: "1",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Alex W",lastActionAmount: "9.84",boardCards: "",
+},
+{
+id: 1379,indent: 0,parent: null,handNum: "491",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "68.81",endAmt: "68.31",finalHand: "",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1380,indent: 1,parent: 1379,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1381,indent: 1,parent: 1379,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1382,indent: 1,parent: 1379,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Alex W",lastActionAmount: "1.50",boardCards: "",
+},
+{
+id: 1383,indent: 0,parent: null,handNum: "492",wonOrLost: "22.44",wonNetOrLost: "0.12",startAmt: "68.31",endAmt: "68.43",finalHand: "Pair, A's (SP:2)",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>",holeCardsTier: "4",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1384,indent: 1,parent: 1383,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1385,indent: 1,parent: 1383,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "1.87",potSizeToWin: "3.75",amountToPot: "49",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1386,indent: 1,parent: 1383,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Call",amount: "1.87",potSizeToWin: "9.36",amountToPot: "19",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "CheckRaise",lastActionPlayer: "Chris Moy",lastActionAmount: "3.74",boardCards: "",
+},
+{
+id: 1387,indent: 1,parent: 1383,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Call",amount: "5.61",potSizeToWin: "16.84",amountToPot: "33",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "5.61",boardCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1388,indent: 1,parent: 1383,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Call",amount: "11.22",potSizeToWin: "33.67",amountToPot: "33",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "11.22",boardCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1389,indent: 0,parent: null,handNum: "493",wonOrLost: "1.50",wonNetOrLost: "1.00",startAmt: "68.43",endAmt: "69.43",finalHand: "",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1390,indent: 1,parent: 1389,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1391,indent: 1,parent: 1389,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1392,indent: 0,parent: null,handNum: "494",wonOrLost: "11.24",wonNetOrLost: "5.87",startAmt: "69.43",endAmt: "75.30",finalHand: "Full House, 10's over A's",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "10<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1393,indent: 1,parent: 1392,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1394,indent: 1,parent: 1392,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",numPlayers: "3",numAllIns: "0",positionToLastAction: "2",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1395,indent: 1,parent: 1392,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "10<span style = 'font-size:125%; color: blue; '>&diams;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1396,indent: 1,parent: 1392,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Bet",amount: "0.50",potSizeToWin: "1.50",amountToPot: "33",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "10<span style = 'font-size:125%; color: blue; '>&diams;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1397,indent: 1,parent: 1392,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Call",amount: "1.00",potSizeToWin: "3.50",amountToPot: "28",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "1.50",boardCards: "",
+},
+{
+id: 1398,indent: 1,parent: 1392,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "10<span style = 'font-size:125%; color: blue; '>&diams;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1399,indent: 1,parent: 1392,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Call",amount: "3.37",potSizeToWin: "7.87",amountToPot: "42",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "3.37",boardCards: "",
+},
+{
+id: 1400,indent: 0,parent: null,handNum: "495",wonOrLost: "-1.75",wonNetOrLost: "-1.75",startAmt: "75.30",endAmt: "73.55",finalHand: "",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1401,indent: 1,parent: 1400,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1402,indent: 1,parent: 1400,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 3<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1403,indent: 1,parent: 1400,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Fold",amount: "0.00",potSizeToWin: "6.56",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "2.81",boardCards: "6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 3<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1404,indent: 0,parent: null,handNum: "496",wonOrLost: "0.50",wonNetOrLost: "0.00",startAmt: "73.55",endAmt: "73.55",finalHand: "Two Pair, K's & Q's (SP:2)",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1405,indent: 1,parent: 1404,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1406,indent: 1,parent: 1404,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1407,indent: 1,parent: 1404,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&spades;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1408,indent: 1,parent: 1404,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&spades;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1409,indent: 1,parent: 1404,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&spades;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1410,indent: 0,parent: null,handNum: "497",wonOrLost: "-14.00",wonNetOrLost: "-14.00",startAmt: "73.55",endAmt: "59.55",finalHand: "",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1411,indent: 1,parent: 1410,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1412,indent: 1,parent: 1410,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "1.75",potSizeToWin: "2.75",amountToPot: "63",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "2.00",boardCards: "",
+},
+{
+id: 1413,indent: 1,parent: 1410,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1414,indent: 1,parent: 1410,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "CheckRaise",amount: "12.00",potSizeToWin: "9.00",amountToPot: "133",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "4.50",boardCards: "",
+},
+{
+id: 1415,indent: 1,parent: 1410,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "28.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 10<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1416,indent: 1,parent: 1410,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Fold",amount: "0.00",potSizeToWin: "42.75",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "14.25",boardCards: "",
+},
+{
+id: 1417,indent: 0,parent: null,handNum: "498",wonOrLost: "9.37",wonNetOrLost: "4.81",startAmt: "59.55",endAmt: "64.36",finalHand: "",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1418,indent: 1,parent: 1417,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1419,indent: 1,parent: 1417,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Call",amount: "2.81",potSizeToWin: "6.56",amountToPot: "42",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "2.81",boardCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1420,indent: 1,parent: 1417,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Bet",amount: "4.68",potSizeToWin: "9.37",amountToPot: "49",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1421,indent: 0,parent: null,handNum: "499",wonOrLost: "-1.50",wonNetOrLost: "-1.50",startAmt: "64.36",endAmt: "62.86",finalHand: "",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1422,indent: 1,parent: 1421,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1423,indent: 1,parent: 1421,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "1.25",boardCards: "",
+},
+{
+id: 1424,indent: 1,parent: 1421,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "5.25",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Chris Moy",lastActionAmount: "2.25",boardCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1425,indent: 0,parent: null,handNum: "500",wonOrLost: "4.50",wonNetOrLost: "2.50",startAmt: "62.86",endAmt: "65.36",finalHand: "",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>",holeCardsTier: "1",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1426,indent: 1,parent: 1425,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1427,indent: 1,parent: 1425,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Reraise",amount: "5.75",potSizeToWin: "2.75",amountToPot: "209",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "2.00",boardCards: "",
+},
+{
+id: 1428,indent: 0,parent: null,handNum: "501",wonOrLost: "0.00",wonNetOrLost: "0.00",startAmt: "65.36",endAmt: "65.36",finalHand: "",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1429,indent: 1,parent: 1428,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1430,indent: 0,parent: null,handNum: "502",wonOrLost: "-0.50",wonNetOrLost: "-0.50",startAmt: "65.36",endAmt: "64.86",finalHand: "",position: "BB (2 of 3)",positionName: "BB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1431,indent: 1,parent: 1430,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1432,indent: 1,parent: 1430,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "1.75",boardCards: "",
+},
+{
+id: 1433,indent: 0,parent: null,handNum: "503",wonOrLost: "-0.25",wonNetOrLost: "-0.25",startAmt: "64.86",endAmt: "64.61",finalHand: "",position: "SB (1 of 3)",positionName: "SB",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1434,indent: 1,parent: 1433,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "3",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1435,indent: 1,parent: 1433,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Chris Moy",lastActionAmount: "2.00",boardCards: "",
+},
+{
+id: 1436,indent: 0,parent: null,handNum: "504",wonOrLost: "-6.25",wonNetOrLost: "-6.25",startAmt: "64.61",endAmt: "58.36",finalHand: "Two Pair, K's & Q's",position: "Dealer_UTG (3 of 3)",positionName: "Dealer_UTG",totalPlayers: "3",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1437,indent: 1,parent: 1436,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",numPlayers: "3",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Chris Moy",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1438,indent: 1,parent: 1436,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "1.25",potSizeToWin: "5.25",amountToPot: "23",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Reraise",lastActionPlayer: "Alex W",lastActionAmount: "2.75",boardCards: "",
+},
+{
+id: 1439,indent: 1,parent: 1436,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "3.25",potSizeToWin: "6.50",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1440,indent: 1,parent: 1436,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "13.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1441,indent: 1,parent: 1436,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Check",amount: "0.00",potSizeToWin: "13.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1442,indent: 0,parent: null,handNum: "505",wonOrLost: "18.00",wonNetOrLost: "9.00",startAmt: "58.36",endAmt: "67.36",finalHand: "Full House, 2's over A's",position: "Dealer_SB (2 of 2)",positionName: "Dealer_SB",totalPlayers: "2",holeCards: "2<span style = 'font-size:125%; color: blue; '>&diams;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1443,indent: 1,parent: 1442,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1444,indent: 1,parent: 1442,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "1.50",potSizeToWin: "2.50",amountToPot: "60",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Alex W",lastActionAmount: "1.75",boardCards: "",
+},
+{
+id: 1445,indent: 1,parent: 1442,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1446,indent: 1,parent: 1442,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Bet",amount: "1.00",potSizeToWin: "4.00",amountToPot: "25",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1447,indent: 1,parent: 1442,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Bet",amount: "6.00",potSizeToWin: "6.00",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1448,indent: 0,parent: null,handNum: "506",wonOrLost: "1.00",wonNetOrLost: "0.50",startAmt: "67.36",endAmt: "67.86",finalHand: "",position: "BB (1 of 2)",positionName: "BB",totalPlayers: "2",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1449,indent: 1,parent: 1448,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1450,indent: 1,parent: 1448,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1451,indent: 1,parent: 1448,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "1.00",potSizeToWin: "1.00",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1452,indent: 0,parent: null,handNum: "507",wonOrLost: "0.50",wonNetOrLost: "0.25",startAmt: "67.86",endAmt: "68.11",finalHand: "",position: "Dealer_SB (2 of 2)",positionName: "Dealer_SB",totalPlayers: "2",holeCards: "3<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1453,indent: 1,parent: 1452,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1454,indent: 0,parent: null,handNum: "508",wonOrLost: "27.00",wonNetOrLost: "13.50",startAmt: "68.11",endAmt: "81.61",finalHand: "",position: "BB (1 of 2)",positionName: "BB",totalPlayers: "2",holeCards: "7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1455,indent: 1,parent: 1454,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1456,indent: 1,parent: 1454,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1457,indent: 1,parent: 1454,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "3.00",potSizeToWin: "3.00",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1458,indent: 1,parent: 1454,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "9.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1459,indent: 1,parent: 1454,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Raise",amount: "39.28",potSizeToWin: "18.00",amountToPot: "218",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "9.00",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1460,indent: 0,parent: null,handNum: "509",wonOrLost: "0.50",wonNetOrLost: "0.25",startAmt: "81.61",endAmt: "81.86",finalHand: "",position: "Dealer_SB (2 of 2)",positionName: "Dealer_SB",totalPlayers: "2",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1461,indent: 1,parent: 1460,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1462,indent: 0,parent: null,handNum: "510",wonOrLost: "3.00",wonNetOrLost: "1.50",startAmt: "81.86",endAmt: "83.36",finalHand: "",position: "BB (1 of 2)",positionName: "BB",totalPlayers: "2",holeCards: "7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>",holeCardsTier: "9",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1463,indent: 1,parent: 1462,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1464,indent: 1,parent: 1462,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1465,indent: 1,parent: 1462,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Raise",amount: "4.00",potSizeToWin: "2.00",amountToPot: "200",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "1.00",boardCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>",
+},
+{
+id: 1466,indent: 0,parent: null,handNum: "511",wonOrLost: "1.00",wonNetOrLost: "0.50",startAmt: "83.36",endAmt: "83.86",finalHand: "",position: "Dealer_SB (2 of 2)",positionName: "Dealer_SB",totalPlayers: "2",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1467,indent: 1,parent: 1466,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1468,indent: 1,parent: 1466,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "0.50",potSizeToWin: "1.00",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1469,indent: 0,parent: null,handNum: "512",wonOrLost: "-1.00",wonNetOrLost: "-1.00",startAmt: "83.86",endAmt: "82.86",finalHand: "",position: "BB (1 of 2)",positionName: "BB",totalPlayers: "2",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1470,indent: 1,parent: 1469,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1471,indent: 1,parent: 1469,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "0.75",potSizeToWin: "0.75",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1472,indent: 1,parent: 1469,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Bet",lastActionPlayer: "Alex W",lastActionAmount: "1.00",boardCards: "6<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1473,indent: 0,parent: null,handNum: "513",wonOrLost: "4.00",wonNetOrLost: "2.00",startAmt: "82.86",endAmt: "84.86",finalHand: "Pair, 8's",position: "Dealer_SB (2 of 2)",positionName: "Dealer_SB",totalPlayers: "2",holeCards: "10<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "5",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1474,indent: 1,parent: 1473,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1475,indent: 1,parent: 1473,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "1.50",potSizeToWin: "2.50",amountToPot: "60",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "Raise",lastActionPlayer: "Alex W",lastActionAmount: "1.75",boardCards: "",
+},
+{
+id: 1476,indent: 1,parent: 1473,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "8<span style = 'font-size:125%; color: blue; '>&diams;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1477,indent: 1,parent: 1473,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "8<span style = 'font-size:125%; color: blue; '>&diams;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1478,indent: 1,parent: 1473,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "8<span style = 'font-size:125%; color: blue; '>&diams;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
+},
+{
+id: 1479,indent: 0,parent: null,handNum: "514",wonOrLost: "1.00",wonNetOrLost: "0.50",startAmt: "84.86",endAmt: "85.36",finalHand: "Pair, 10's",position: "BB (1 of 2)",positionName: "BB",totalPlayers: "2",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "10",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1480,indent: 1,parent: 1479,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1481,indent: 1,parent: 1479,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1482,indent: 1,parent: 1479,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",
+},
+{
+id: 1483,indent: 1,parent: 1479,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Turn",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 10<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1484,indent: 1,parent: 1479,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "River",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 10<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1485,indent: 0,parent: null,handNum: "515",wonOrLost: "3.00",wonNetOrLost: "1.50",startAmt: "85.36",endAmt: "86.86",finalHand: "",position: "Dealer_SB (2 of 2)",positionName: "Dealer_SB",totalPlayers: "2",holeCards: "8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",holeCardsTier: "9",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1486,indent: 1,parent: 1485,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1487,indent: 1,parent: 1485,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Raise",amount: "1.00",potSizeToWin: "1.00",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "BigBlind",lastActionPlayer: "Kai",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1488,indent: 1,parent: 1485,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "3.00",potSizeToWin: "3.00",amountToPot: "100",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>",
+},
+{
+id: 1489,indent: 0,parent: null,handNum: "516",wonOrLost: "1.00",wonNetOrLost: "0.50",startAmt: "86.86",endAmt: "87.36",finalHand: "",position: "BB (1 of 2)",positionName: "BB",totalPlayers: "2",holeCards: "",holeCardsTier: "",step: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",numPlayers: "",numAllIns: "",positionToLastAction: "",lastAction: "",lastActionPlayer: "",lastActionAmount: "",boardCards: "",
+},
+{
+id: 1490,indent: 1,parent: 1489,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "",
+},
+{
+id: 1491,indent: 1,parent: 1489,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Preflop",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",numPlayers: "2",numAllIns: "0",positionToLastAction: "1",lastAction: "BigBlind",lastActionPlayer: "Alex W",lastActionAmount: "0.50",boardCards: "",
+},
+{
+id: 1492,indent: 1,parent: 1489,handNum: "",wonOrLost: "",wonNetOrLost: "",startAmt: "",endAmt: "",finalHand: "",position: "",positionName: "",totalPlayers: "",holeCards: "",holeCardsTier: "",step: "Flop",action: "Bet",amount: "0.50",potSizeToWin: "1.00",amountToPot: "50",numPlayers: "2",numAllIns: "0",positionToLastAction: "0",lastAction: "",lastActionPlayer: "",lastActionAmount: "0.00",boardCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>",
 },
 ];

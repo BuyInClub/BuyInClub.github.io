@@ -2,11 +2,11 @@
 { label: "Jan 6th 2023", y: 5},
 ]
 var VPIP = [
-{ label: "Jan 6th 2023", y: 48},
+{ label: "Jan 6th 2023", y: 46},
 ]
 var Agg = [
-{ label: "Jan 6th 2023", y: 31},
+{ label: "Jan 6th 2023", y: 29},
 ]
 var wonLost = [
-{ label: "Jan 6th 2023", y: -179.37},
+{ label: "Jan 6th 2023", y: -215.47},
 ]

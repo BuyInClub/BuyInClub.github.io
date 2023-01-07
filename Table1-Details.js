@@ -16766,36 +16766,6105 @@ id: 5586,indent: 1,parent: 5576,handNum: "",numPlayers: "",numAllIns: "",finalSt
 id: 5587,indent: 1,parent: 5576,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
 },
 {
-id: 5588,indent: 1,parent: 5576,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+id: 5588,indent: 0,parent: null,handNum: "348",numPlayers: "7",numAllIns: "1",finalStep: "Turn",winner: "Dan C",won: "48.41",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
 },
 {
-id: 5589,indent: 1,parent: 5576,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+id: 5589,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
 },
 {
-id: 5590,indent: 1,parent: 5576,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dave",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+id: 5590,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
 },
 {
-id: 5591,indent: 1,parent: 5576,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",
+id: 5591,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dave",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
 },
 {
-id: 5592,indent: 1,parent: 5576,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Reraise",amount: "3.50",potSizeToWin: "2.75",amountToPot: "127",
+id: 5592,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "9<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",
 },
 {
-id: 5593,indent: 1,parent: 5576,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
+id: 5593,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Reraise",amount: "3.50",potSizeToWin: "2.75",amountToPot: "127",
 },
 {
-id: 5594,indent: 1,parent: 5576,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
+id: 5594,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
 },
 {
-id: 5595,indent: 1,parent: 5576,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
+id: 5595,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
 },
 {
-id: 5596,indent: 1,parent: 5576,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
+id: 5596,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
 },
 {
-id: 5597,indent: 1,parent: 5576,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "6.25",amountToPot: "24",
+id: 5597,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
 },
 {
-id: 5598,indent: 1,parent: 5576,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+id: 5598,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "6.25",amountToPot: "24",
+},
+{
+id: 5599,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "7.75",amountToPot: "0",
+},
+{
+id: 5600,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "5.81",potSizeToWin: "7.75",amountToPot: "74",
+},
+{
+id: 5601,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "5.81",potSizeToWin: "13.56",amountToPot: "42",
+},
+{
+id: 5602,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "J<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "19.37",amountToPot: "0",
+},
+{
+id: 5603,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "14.52",potSizeToWin: "19.37",amountToPot: "74",
+},
+{
+id: 5604,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "CheckRaiseAllIn",amount: "65.53",potSizeToWin: "33.89",amountToPot: "193",
+},
+{
+id: 5605,indent: 1,parent: 5588,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "99.42",amountToPot: "0",
+},
+{
+id: 5606,indent: 0,parent: null,handNum: "349",numPlayers: "6",numAllIns: "0",finalStep: "Turn",winner: "Chris Moy",won: "5.61",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5607,indent: 1,parent: 5606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5608,indent: 1,parent: 5606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5609,indent: 1,parent: 5606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 5610,indent: 1,parent: 5606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",
+},
+{
+id: 5611,indent: 1,parent: 5606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.75",amountToPot: "28",
+},
+{
+id: 5612,indent: 1,parent: 5606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",
+},
+{
+id: 5613,indent: 1,parent: 5606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",
+},
+{
+id: 5614,indent: 1,parent: 5606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",
+},
+{
+id: 5615,indent: 1,parent: 5606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",
+},
+{
+id: 5616,indent: 1,parent: 5606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "1.68",potSizeToWin: "2.25",amountToPot: "74",
+},
+{
+id: 5617,indent: 1,parent: 5606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.93",amountToPot: "0",
+},
+{
+id: 5618,indent: 1,parent: 5606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.68",potSizeToWin: "3.93",amountToPot: "42",
+},
+{
+id: 5619,indent: 1,parent: 5606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.61",amountToPot: "0",
+},
+{
+id: 5620,indent: 1,parent: 5606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "9<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "4.20",potSizeToWin: "5.61",amountToPot: "74",
+},
+{
+id: 5621,indent: 1,parent: 5606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "9.81",amountToPot: "0",
+},
+{
+id: 5622,indent: 0,parent: null,handNum: "350",numPlayers: "6",numAllIns: "0",finalStep: "River",winner: "Alex W",won: "12.82",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5623,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5624,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5625,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5626,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 5627,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",
+},
+{
+id: 5628,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.75",amountToPot: "28",
+},
+{
+id: 5629,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "2.25",amountToPot: "11",
+},
+{
+id: 5630,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5631,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5632,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5633,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5634,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5635,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5636,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "3<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Dan C",holeCards: "",action: "Bet",amount: "2.33",potSizeToWin: "2.50",amountToPot: "93",
+},
+{
+id: 5637,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.83",amountToPot: "0",
+},
+{
+id: 5638,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.83",amountToPot: "0",
+},
+{
+id: 5639,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.83",amountToPot: "0",
+},
+{
+id: 5640,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Raise",amount: "5.16",potSizeToWin: "4.83",amountToPot: "106",
+},
+{
+id: 5641,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "2.83",potSizeToWin: "9.99",amountToPot: "28",
+},
+{
+id: 5642,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "K<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "12.82",amountToPot: "0",
+},
+{
+id: 5643,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Bet",amount: "9.61",potSizeToWin: "12.82",amountToPot: "74",
+},
+{
+id: 5644,indent: 1,parent: 5622,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "22.43",amountToPot: "0",
+},
+{
+id: 5645,indent: 0,parent: null,handNum: "351",numPlayers: "6",numAllIns: "1",finalStep: "River",winner: "Alex W",won: "137.33",finalHand: "Full House, 2's over 6's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5646,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5647,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5648,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5649,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5650,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 5651,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Raise",amount: "2.00",potSizeToWin: "1.25",amountToPot: "160",
+},
+{
+id: 5652,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 5653,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "3.25",amountToPot: "46",
+},
+{
+id: 5654,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "4.75",amountToPot: "31",
+},
+{
+id: 5655,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
+},
+{
+id: 5656,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Bet",amount: "3.12",potSizeToWin: "6.25",amountToPot: "49",
+},
+{
+id: 5657,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Raise",amount: "8.00",potSizeToWin: "9.37",amountToPot: "85",
+},
+{
+id: 5658,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "17.37",amountToPot: "0",
+},
+{
+id: 5659,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Reraise",amount: "9.76",potSizeToWin: "17.37",amountToPot: "56",
+},
+{
+id: 5660,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Reraise",amount: "9.76",potSizeToWin: "27.13",amountToPot: "35",
+},
+{
+id: 5661,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "ReraiseAllIn",amount: "52.66",potSizeToWin: "36.89",amountToPot: "142",
+},
+{
+id: 5662,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "47.78",potSizeToWin: "89.55",amountToPot: "53",
+},
+{
+id: 5663,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5664,indent: 1,parent: 5645,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "6<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5665,indent: 0,parent: null,handNum: "352",numPlayers: "6",numAllIns: "0",finalStep: "Turn",winner: "Dan C",won: "10.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5666,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5667,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5668,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 5669,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",
+},
+{
+id: 5670,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.75",amountToPot: "28",
+},
+{
+id: 5671,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",
+},
+{
+id: 5672,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "2.25",amountToPot: "11",
+},
+{
+id: 5673,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5674,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5675,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5676,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5677,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5678,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Bet",amount: "2.50",potSizeToWin: "2.50",amountToPot: "100",
+},
+{
+id: 5679,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.00",amountToPot: "0",
+},
+{
+id: 5680,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.00",amountToPot: "0",
+},
+{
+id: 5681,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "2.50",potSizeToWin: "5.00",amountToPot: "50",
+},
+{
+id: 5682,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "2.50",potSizeToWin: "7.50",amountToPot: "33",
+},
+{
+id: 5683,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "10.00",amountToPot: "0",
+},
+{
+id: 5684,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "10.00",amountToPot: "0",
+},
+{
+id: 5685,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "Bet",amount: "7.50",potSizeToWin: "10.00",amountToPot: "75",
+},
+{
+id: 5686,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "17.50",amountToPot: "0",
+},
+{
+id: 5687,indent: 1,parent: 5665,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "17.50",amountToPot: "0",
+},
+{
+id: 5688,indent: 0,parent: null,handNum: "353",numPlayers: "6",numAllIns: "0",finalStep: "River",winner: "Chris Moy",won: "16.87",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5689,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5690,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5691,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 5692,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",
+},
+{
+id: 5693,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Raise",amount: "2.00",potSizeToWin: "1.75",amountToPot: "114",
+},
+{
+id: 5694,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 5695,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 5696,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "3.75",amountToPot: "40",
+},
+{
+id: 5697,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.25",amountToPot: "0",
+},
+{
+id: 5698,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "5.25",amountToPot: "28",
+},
+{
+id: 5699,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "J<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.75",amountToPot: "0",
+},
+{
+id: 5700,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.75",amountToPot: "0",
+},
+{
+id: 5701,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.75",amountToPot: "0",
+},
+{
+id: 5702,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "K<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.75",amountToPot: "0",
+},
+{
+id: 5703,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.75",amountToPot: "0",
+},
+{
+id: 5704,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.75",amountToPot: "0",
+},
+{
+id: 5705,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Jeff",holeCards: "",action: "Bet",amount: "5.06",potSizeToWin: "6.75",amountToPot: "74",
+},
+{
+id: 5706,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "11.81",amountToPot: "0",
+},
+{
+id: 5707,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "10.12",potSizeToWin: "11.81",amountToPot: "85",
+},
+{
+id: 5708,indent: 1,parent: 5688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "21.93",amountToPot: "0",
+},
+{
+id: 5709,indent: 0,parent: null,handNum: "354",numPlayers: "6",numAllIns: "0",finalStep: "Flop",winner: "Chris Moy",won: "12.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5710,indent: 1,parent: 5709,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5711,indent: 1,parent: 5709,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5712,indent: 1,parent: 5709,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "6<span style = 'font-size:125%; color: blue; '>&diams;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",
+},
+{
+id: 5713,indent: 1,parent: 5709,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Call",amount: "2.00",potSizeToWin: "2.75",amountToPot: "72",
+},
+{
+id: 5714,indent: 1,parent: 5709,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 5715,indent: 1,parent: 5709,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 5716,indent: 1,parent: 5709,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "1.75",potSizeToWin: "4.75",amountToPot: "36",
+},
+{
+id: 5717,indent: 1,parent: 5709,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "6.50",amountToPot: "23",
+},
+{
+id: 5718,indent: 1,parent: 5709,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "8.00",amountToPot: "0",
+},
+{
+id: 5719,indent: 1,parent: 5709,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "8.00",amountToPot: "0",
+},
+{
+id: 5720,indent: 1,parent: 5709,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Bet",amount: "2.00",potSizeToWin: "8.00",amountToPot: "25",
+},
+{
+id: 5721,indent: 1,parent: 5709,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "8.00",potSizeToWin: "10.00",amountToPot: "80",
+},
+{
+id: 5722,indent: 1,parent: 5709,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "18.00",amountToPot: "0",
+},
+{
+id: 5723,indent: 1,parent: 5709,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "18.00",amountToPot: "0",
+},
+{
+id: 5724,indent: 1,parent: 5709,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "18.00",amountToPot: "0",
+},
+{
+id: 5725,indent: 0,parent: null,handNum: "355",numPlayers: "6",numAllIns: "0",finalStep: "Flop",winner: "Jeff",won: "4.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5726,indent: 1,parent: 5725,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5727,indent: 1,parent: 5725,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5728,indent: 1,parent: 5725,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5729,indent: 1,parent: 5725,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5730,indent: 1,parent: 5725,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5731,indent: 1,parent: 5725,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 5732,indent: 1,parent: 5725,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 5733,indent: 1,parent: 5725,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Raise",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 5734,indent: 1,parent: 5725,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "3.00",amountToPot: "50",
+},
+{
+id: 5735,indent: 1,parent: 5725,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 5736,indent: 1,parent: 5725,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 5737,indent: 1,parent: 5725,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Bet",amount: "2.25",potSizeToWin: "4.50",amountToPot: "50",
+},
+{
+id: 5738,indent: 1,parent: 5725,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.75",amountToPot: "0",
+},
+{
+id: 5739,indent: 0,parent: null,handNum: "356",numPlayers: "6",numAllIns: "0",finalStep: "River",winner: "Dan C",won: "28.11",finalHand: "Straight, 8 High",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5740,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5741,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5742,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 5743,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 5744,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",
+},
+{
+id: 5745,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Call",amount: "0.50",potSizeToWin: "1.75",amountToPot: "28",
+},
+{
+id: 5746,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "2.25",amountToPot: "11",
+},
+{
+id: 5747,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5748,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "7<span style = 'font-size:125%; color: blue; '>&diams;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5749,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5750,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5751,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5752,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Bet",amount: "1.87",potSizeToWin: "2.50",amountToPot: "74",
+},
+{
+id: 5753,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "1.87",potSizeToWin: "4.37",amountToPot: "42",
+},
+{
+id: 5754,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.87",potSizeToWin: "6.24",amountToPot: "29",
+},
+{
+id: 5755,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "8.11",amountToPot: "0",
+},
+{
+id: 5756,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "8.11",amountToPot: "0",
+},
+{
+id: 5757,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Dan C",holeCards: "",action: "Bet",amount: "5.00",potSizeToWin: "8.11",amountToPot: "61",
+},
+{
+id: 5758,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "13.11",amountToPot: "0",
+},
+{
+id: 5759,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "5.00",potSizeToWin: "13.11",amountToPot: "38",
+},
+{
+id: 5760,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Dan C",holeCards: "",action: "Bet",amount: "5.00",potSizeToWin: "18.11",amountToPot: "27",
+},
+{
+id: 5761,indent: 1,parent: 5739,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "5.00",potSizeToWin: "23.11",amountToPot: "21",
+},
+{
+id: 5762,indent: 0,parent: null,handNum: "357",numPlayers: "6",numAllIns: "0",finalStep: "Preflop",winner: "Jeff",won: "1.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5763,indent: 1,parent: 5762,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5764,indent: 1,parent: 5762,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5765,indent: 1,parent: 5762,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5766,indent: 1,parent: 5762,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "Raise",amount: "2.25",potSizeToWin: "0.75",amountToPot: "300",
+},
+{
+id: 5767,indent: 1,parent: 5762,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 5768,indent: 1,parent: 5762,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 5769,indent: 1,parent: 5762,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 5770,indent: 1,parent: 5762,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 5771,indent: 0,parent: null,handNum: "358",numPlayers: "6",numAllIns: "0",finalStep: "Preflop",winner: "Alex W",won: "1.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5772,indent: 1,parent: 5771,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5773,indent: 1,parent: 5771,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5774,indent: 1,parent: 5771,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5775,indent: 1,parent: 5771,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "9<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",
+},
+{
+id: 5776,indent: 1,parent: 5771,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 5777,indent: 1,parent: 5771,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 5778,indent: 1,parent: 5771,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 5779,indent: 1,parent: 5771,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 5780,indent: 0,parent: null,handNum: "359",numPlayers: "6",numAllIns: "0",finalStep: "Preflop",winner: "Jeff",won: "2.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5781,indent: 1,parent: 5780,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5782,indent: 1,parent: 5780,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5783,indent: 1,parent: 5780,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, J<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 5784,indent: 1,parent: 5780,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 5785,indent: 1,parent: 5780,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",
+},
+{
+id: 5786,indent: 1,parent: 5780,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 5787,indent: 1,parent: 5780,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.75",amountToPot: "14",
+},
+{
+id: 5788,indent: 1,parent: 5780,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Raise",amount: "2.00",potSizeToWin: "2.00",amountToPot: "100",
+},
+{
+id: 5789,indent: 1,parent: 5780,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 5790,indent: 1,parent: 5780,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 5791,indent: 1,parent: 5780,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 5792,indent: 0,parent: null,handNum: "360",numPlayers: "6",numAllIns: "0",finalStep: "Turn",winner: "Dan C",won: "10.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5793,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5794,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5795,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 5796,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",
+},
+{
+id: 5797,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 5798,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 5799,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.75",amountToPot: "14",
+},
+{
+id: 5800,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 5801,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "J<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 5802,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 5803,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 5804,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "4.00",potSizeToWin: "2.00",amountToPot: "200",
+},
+{
+id: 5805,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 5806,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 5807,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "4.00",potSizeToWin: "6.00",amountToPot: "66",
+},
+{
+id: 5808,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "8<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Dan C",holeCards: "",action: "Bet",amount: "6.00",potSizeToWin: "10.00",amountToPot: "60",
+},
+{
+id: 5809,indent: 1,parent: 5792,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "16.00",amountToPot: "0",
+},
+{
+id: 5810,indent: 0,parent: null,handNum: "361",numPlayers: "6",numAllIns: "0",finalStep: "River",winner: "Chris Moy",won: "17.50",finalHand: "Two Pair, 10's & 3's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5811,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5812,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5813,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 10<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 5814,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",
+},
+{
+id: 5815,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 5816,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.75",amountToPot: "28",
+},
+{
+id: 5817,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "2.25",amountToPot: "11",
+},
+{
+id: 5818,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5819,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5820,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Bet",amount: "2.50",potSizeToWin: "2.50",amountToPot: "100",
+},
+{
+id: 5821,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "2.50",potSizeToWin: "5.00",amountToPot: "50",
+},
+{
+id: 5822,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "7.50",amountToPot: "0",
+},
+{
+id: 5823,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "7.50",amountToPot: "0",
+},
+{
+id: 5824,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "7.50",amountToPot: "0",
+},
+{
+id: 5825,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Dan C",holeCards: "",action: "Bet",amount: "2.50",potSizeToWin: "7.50",amountToPot: "33",
+},
+{
+id: 5826,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "2.50",potSizeToWin: "10.00",amountToPot: "25",
+},
+{
+id: 5827,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Dan C",holeCards: "",action: "Bet",amount: "2.50",potSizeToWin: "12.50",amountToPot: "20",
+},
+{
+id: 5828,indent: 1,parent: 5810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "2.50",potSizeToWin: "15.00",amountToPot: "16",
+},
+{
+id: 5829,indent: 0,parent: null,handNum: "362",numPlayers: "6",numAllIns: "0",finalStep: "Turn",winner: "Dan C",won: "1.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5830,indent: 1,parent: 5829,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5831,indent: 1,parent: 5829,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5832,indent: 1,parent: 5829,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5833,indent: 1,parent: 5829,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5834,indent: 1,parent: 5829,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 5835,indent: 1,parent: 5829,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 5836,indent: 1,parent: 5829,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 5837,indent: 1,parent: 5829,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 5838,indent: 1,parent: 5829,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "J<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 5839,indent: 1,parent: 5829,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 5840,indent: 1,parent: 5829,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 5841,indent: 1,parent: 5829,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "4<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Dan C",holeCards: "",action: "Bet",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 5842,indent: 1,parent: 5829,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 5843,indent: 1,parent: 5829,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 5844,indent: 0,parent: null,handNum: "363",numPlayers: "6",numAllIns: "0",finalStep: "Turn",winner: "Kai",won: "11.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5845,indent: 1,parent: 5844,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5846,indent: 1,parent: 5844,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5847,indent: 1,parent: 5844,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "8<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 5848,indent: 1,parent: 5844,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5849,indent: 1,parent: 5844,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5850,indent: 1,parent: 5844,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "8<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Call",amount: "1.75",potSizeToWin: "2.50",amountToPot: "70",
+},
+{
+id: 5851,indent: 1,parent: 5844,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 5852,indent: 1,parent: 5844,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "1.25",potSizeToWin: "4.25",amountToPot: "29",
+},
+{
+id: 5853,indent: 1,parent: 5844,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "5.50",amountToPot: "0",
+},
+{
+id: 5854,indent: 1,parent: 5844,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "2.75",potSizeToWin: "5.50",amountToPot: "50",
+},
+{
+id: 5855,indent: 1,parent: 5844,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "2.75",potSizeToWin: "8.25",amountToPot: "33",
+},
+{
+id: 5856,indent: 1,parent: 5844,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "11.00",amountToPot: "0",
+},
+{
+id: 5857,indent: 1,parent: 5844,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "8.25",potSizeToWin: "11.00",amountToPot: "75",
+},
+{
+id: 5858,indent: 1,parent: 5844,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "19.25",amountToPot: "0",
+},
+{
+id: 5859,indent: 0,parent: null,handNum: "364",numPlayers: "6",numAllIns: "0",finalStep: "Flop",winner: "Chris Moy",won: "4.75",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5860,indent: 1,parent: 5859,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5861,indent: 1,parent: 5859,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5862,indent: 1,parent: 5859,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5863,indent: 1,parent: 5859,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "9<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 5864,indent: 1,parent: 5859,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 5865,indent: 1,parent: 5859,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "9<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Raise",amount: "2.00",potSizeToWin: "1.25",amountToPot: "160",
+},
+{
+id: 5866,indent: 1,parent: 5859,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 5867,indent: 1,parent: 5859,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 5868,indent: 1,parent: 5859,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "3.25",amountToPot: "46",
+},
+{
+id: 5869,indent: 1,parent: 5859,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 5870,indent: 1,parent: 5859,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "3.56",potSizeToWin: "4.75",amountToPot: "74",
+},
+{
+id: 5871,indent: 1,parent: 5859,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "8.31",amountToPot: "0",
+},
+{
+id: 5872,indent: 0,parent: null,handNum: "365",numPlayers: "6",numAllIns: "0",finalStep: "Preflop",winner: "Jeff",won: "0.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5873,indent: 1,parent: 5872,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5874,indent: 1,parent: 5872,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "10<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5875,indent: 1,parent: 5872,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5876,indent: 1,parent: 5872,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5877,indent: 1,parent: 5872,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5878,indent: 1,parent: 5872,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5879,indent: 1,parent: 5872,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5880,indent: 0,parent: null,handNum: "366",numPlayers: "6",numAllIns: "0",finalStep: "Flop",winner: "Alex W",won: "10.61",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5881,indent: 1,parent: 5880,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5882,indent: 1,parent: 5880,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5883,indent: 1,parent: 5880,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5884,indent: 1,parent: 5880,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",
+},
+{
+id: 5885,indent: 1,parent: 5880,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 5886,indent: 1,parent: 5880,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 5887,indent: 1,parent: 5880,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 5888,indent: 1,parent: 5880,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "2.75",amountToPot: "54",
+},
+{
+id: 5889,indent: 1,parent: 5880,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 5890,indent: 1,parent: 5880,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "3.18",potSizeToWin: "4.25",amountToPot: "74",
+},
+{
+id: 5891,indent: 1,parent: 5880,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "CheckRaise",amount: "6.36",potSizeToWin: "7.43",amountToPot: "85",
+},
+{
+id: 5892,indent: 1,parent: 5880,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "13.79",amountToPot: "0",
+},
+{
+id: 5893,indent: 0,parent: null,handNum: "367",numPlayers: "6",numAllIns: "0",finalStep: "Flop",winner: "Kai",won: "2.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5894,indent: 1,parent: 5893,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5895,indent: 1,parent: 5893,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5896,indent: 1,parent: 5893,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5897,indent: 1,parent: 5893,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5898,indent: 1,parent: 5893,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.00",potSizeToWin: "0.75",amountToPot: "133",
+},
+{
+id: 5899,indent: 1,parent: 5893,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 5900,indent: 1,parent: 5893,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 5901,indent: 1,parent: 5893,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.75",amountToPot: "28",
+},
+{
+id: 5902,indent: 1,parent: 5893,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "8<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",
+},
+{
+id: 5903,indent: 1,parent: 5893,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "2.25",potSizeToWin: "2.25",amountToPot: "100",
+},
+{
+id: 5904,indent: 1,parent: 5893,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 5905,indent: 0,parent: null,handNum: "368",numPlayers: "6",numAllIns: "0",finalStep: "Turn",winner: "Chris Moy",won: "23.73",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5906,indent: 1,parent: 5905,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "3<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5907,indent: 1,parent: 5905,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5908,indent: 1,parent: 5905,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5909,indent: 1,parent: 5905,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5910,indent: 1,parent: 5905,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Raise",amount: "2.25",potSizeToWin: "0.75",amountToPot: "300",
+},
+{
+id: 5911,indent: 1,parent: 5905,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 5912,indent: 1,parent: 5905,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 5913,indent: 1,parent: 5905,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.75",potSizeToWin: "3.00",amountToPot: "58",
+},
+{
+id: 5914,indent: 1,parent: 5905,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 5915,indent: 1,parent: 5905,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Bet",amount: "3.56",potSizeToWin: "4.75",amountToPot: "74",
+},
+{
+id: 5916,indent: 1,parent: 5905,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "CheckRaise",amount: "9.49",potSizeToWin: "8.31",amountToPot: "114",
+},
+{
+id: 5917,indent: 1,parent: 5905,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "5.93",potSizeToWin: "17.80",amountToPot: "33",
+},
+{
+id: 5918,indent: 1,parent: 5905,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "5<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "11.86",potSizeToWin: "23.73",amountToPot: "49",
+},
+{
+id: 5919,indent: 1,parent: 5905,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "35.59",amountToPot: "0",
+},
+{
+id: 5920,indent: 0,parent: null,handNum: "369",numPlayers: "6",numAllIns: "0",finalStep: "River",winner: "Dan C",won: "22.99",finalHand: "Two Pair, K's & 2's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5921,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "9<span style = 'font-size:125%; color: blue; '>&diams;</span>, K<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5922,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5923,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5924,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 5925,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 5926,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Call",amount: "1.75",potSizeToWin: "2.50",amountToPot: "70",
+},
+{
+id: 5927,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "4.25",amountToPot: "35",
+},
+{
+id: 5928,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.75",amountToPot: "0",
+},
+{
+id: 5929,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "5.75",amountToPot: "0",
+},
+{
+id: 5930,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "5.75",amountToPot: "0",
+},
+{
+id: 5931,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "5.75",amountToPot: "0",
+},
+{
+id: 5932,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "2<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "4.31",potSizeToWin: "5.75",amountToPot: "74",
+},
+{
+id: 5933,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "10.06",amountToPot: "0",
+},
+{
+id: 5934,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "Raise",amount: "8.62",potSizeToWin: "10.06",amountToPot: "85",
+},
+{
+id: 5935,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "4.31",potSizeToWin: "18.68",amountToPot: "23",
+},
+{
+id: 5936,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "22.99",amountToPot: "0",
+},
+{
+id: 5937,indent: 1,parent: 5920,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "22.99",amountToPot: "0",
+},
+{
+id: 5938,indent: 0,parent: null,handNum: "370",numPlayers: "6",numAllIns: "0",finalStep: "River",winner: "Chris Moy",won: "18.97",finalHand: "Straight, 10 High",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5939,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5940,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5941,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5942,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 10<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 5943,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 5944,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "Raise",amount: "2.00",potSizeToWin: "1.25",amountToPot: "160",
+},
+{
+id: 5945,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 5946,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 5947,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "3.25",amountToPot: "46",
+},
+{
+id: 5948,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 5949,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "2.37",potSizeToWin: "4.75",amountToPot: "49",
+},
+{
+id: 5950,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "2.37",potSizeToWin: "7.12",amountToPot: "33",
+},
+{
+id: 5951,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "6<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "9.49",amountToPot: "0",
+},
+{
+id: 5952,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "4.74",potSizeToWin: "9.49",amountToPot: "49",
+},
+{
+id: 5953,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "4.74",potSizeToWin: "14.23",amountToPot: "33",
+},
+{
+id: 5954,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "8<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "18.97",amountToPot: "0",
+},
+{
+id: 5955,indent: 1,parent: 5938,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "18.97",amountToPot: "0",
+},
+{
+id: 5956,indent: 0,parent: null,handNum: "371",numPlayers: "6",numAllIns: "0",finalStep: "River",winner: "Greg",won: "37.75",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5957,indent: 1,parent: 5956,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5958,indent: 1,parent: 5956,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5959,indent: 1,parent: 5956,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5960,indent: 1,parent: 5956,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 5961,indent: 1,parent: 5956,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",
+},
+{
+id: 5962,indent: 1,parent: 5956,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Call",amount: "2.00",potSizeToWin: "2.75",amountToPot: "72",
+},
+{
+id: 5963,indent: 1,parent: 5956,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 5964,indent: 1,parent: 5956,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 5965,indent: 1,parent: 5956,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "6<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "4.75",potSizeToWin: "4.75",amountToPot: "100",
+},
+{
+id: 5966,indent: 1,parent: 5956,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Raise",amount: "11.50",potSizeToWin: "9.50",amountToPot: "121",
+},
+{
+id: 5967,indent: 1,parent: 5956,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "6.75",potSizeToWin: "21.00",amountToPot: "32",
+},
+{
+id: 5968,indent: 1,parent: 5956,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "27.75",amountToPot: "0",
+},
+{
+id: 5969,indent: 1,parent: 5956,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "27.75",amountToPot: "0",
+},
+{
+id: 5970,indent: 1,parent: 5956,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "5.00",potSizeToWin: "27.75",amountToPot: "18",
+},
+{
+id: 5971,indent: 1,parent: 5956,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Greg",holeCards: "",action: "Raise",amount: "15.00",potSizeToWin: "32.75",amountToPot: "45",
+},
+{
+id: 5972,indent: 1,parent: 5956,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "47.75",amountToPot: "0",
+},
+{
+id: 5973,indent: 0,parent: null,handNum: "372",numPlayers: "6",numAllIns: "0",finalStep: "Turn",winner: "Dan C",won: "3.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5974,indent: 1,parent: 5973,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5975,indent: 1,parent: 5973,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5976,indent: 1,parent: 5973,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 5977,indent: 1,parent: 5973,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 5978,indent: 1,parent: 5973,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 5979,indent: 1,parent: 5973,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 5980,indent: 1,parent: 5973,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 5981,indent: 1,parent: 5973,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 5982,indent: 1,parent: 5973,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 5983,indent: 1,parent: 5973,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "1.25",amountToPot: "80",
+},
+{
+id: 5984,indent: 1,parent: 5973,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "2.25",amountToPot: "44",
+},
+{
+id: 5985,indent: 1,parent: 5973,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "J<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 5986,indent: 1,parent: 5973,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "Bet",amount: "2.50",potSizeToWin: "3.25",amountToPot: "76",
+},
+{
+id: 5987,indent: 1,parent: 5973,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.75",amountToPot: "0",
+},
+{
+id: 5988,indent: 0,parent: null,handNum: "373",numPlayers: "6",numAllIns: "0",finalStep: "River",winner: "Jeff",won: "12.49",finalHand: "Two Pair, 8's & 5's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 5989,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 5990,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 5991,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",
+},
+{
+id: 5992,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 5993,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 5994,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Call",amount: "2.00",potSizeToWin: "2.75",amountToPot: "72",
+},
+{
+id: 5995,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 5996,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "4.75",amountToPot: "31",
+},
+{
+id: 5997,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
+},
+{
+id: 5998,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
+},
+{
+id: 5999,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
+},
+{
+id: 6000,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "K<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
+},
+{
+id: 6001,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
+},
+{
+id: 6002,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
+},
+{
+id: 6003,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "8<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
+},
+{
+id: 6004,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "3.12",potSizeToWin: "6.25",amountToPot: "49",
+},
+{
+id: 6005,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "3.12",potSizeToWin: "9.37",amountToPot: "33",
+},
+{
+id: 6006,indent: 1,parent: 5988,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "12.49",amountToPot: "0",
+},
+{
+id: 6007,indent: 0,parent: null,handNum: "374",numPlayers: "6",numAllIns: "0",finalStep: "Preflop",winner: "Chris Moy",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6008,indent: 1,parent: 6007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6009,indent: 1,parent: 6007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6010,indent: 1,parent: 6007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6011,indent: 1,parent: 6007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6012,indent: 1,parent: 6007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6013,indent: 1,parent: 6007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6014,indent: 1,parent: 6007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 6015,indent: 1,parent: 6007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "1.50",potSizeToWin: "1.00",amountToPot: "150",
+},
+{
+id: 6016,indent: 1,parent: 6007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6017,indent: 0,parent: null,handNum: "375",numPlayers: "6",numAllIns: "0",finalStep: "Flop",winner: "Alex W",won: "6.75",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6018,indent: 1,parent: 6017,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6019,indent: 1,parent: 6017,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6020,indent: 1,parent: 6017,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.00",potSizeToWin: "0.75",amountToPot: "133",
+},
+{
+id: 6021,indent: 1,parent: 6017,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 6022,indent: 1,parent: 6017,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "K<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Reraise",amount: "3.00",potSizeToWin: "1.75",amountToPot: "171",
+},
+{
+id: 6023,indent: 1,parent: 6017,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Fold",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 6024,indent: 1,parent: 6017,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 6025,indent: 1,parent: 6017,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 6026,indent: 1,parent: 6017,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "2.00",potSizeToWin: "4.75",amountToPot: "42",
+},
+{
+id: 6027,indent: 1,parent: 6017,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.75",amountToPot: "0",
+},
+{
+id: 6028,indent: 1,parent: 6017,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Bet",amount: "5.06",potSizeToWin: "6.75",amountToPot: "74",
+},
+{
+id: 6029,indent: 1,parent: 6017,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "11.81",amountToPot: "0",
+},
+{
+id: 6030,indent: 0,parent: null,handNum: "376",numPlayers: "6",numAllIns: "0",finalStep: "Preflop",winner: "Alex W",won: "1.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6031,indent: 1,parent: 6030,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6032,indent: 1,parent: 6030,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6033,indent: 1,parent: 6030,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6034,indent: 1,parent: 6030,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Raise",amount: "3.00",potSizeToWin: "0.75",amountToPot: "400",
+},
+{
+id: 6035,indent: 1,parent: 6030,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 6036,indent: 1,parent: 6030,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 6037,indent: 1,parent: 6030,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 6038,indent: 1,parent: 6030,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 6039,indent: 0,parent: null,handNum: "377",numPlayers: "6",numAllIns: "0",finalStep: "River",winner: "Jeff",won: "6.00",finalHand: "Two Pair, 8's & 7's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6040,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6041,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "7<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6042,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6043,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6044,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6045,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",
+},
+{
+id: 6046,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.75",amountToPot: "14",
+},
+{
+id: 6047,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6048,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6049,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Bet",amount: "2.00",potSizeToWin: "2.00",amountToPot: "100",
+},
+{
+id: 6050,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 6051,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 6052,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "2.00",potSizeToWin: "4.00",amountToPot: "50",
+},
+{
+id: 6053,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "6<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 6054,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 6055,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "4<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 6056,indent: 1,parent: 6039,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 6057,indent: 0,parent: null,handNum: "378",numPlayers: "6",numAllIns: "0",finalStep: "Flop",winner: "Dan C",won: "5.75",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6058,indent: 1,parent: 6057,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6059,indent: 1,parent: 6057,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6060,indent: 1,parent: 6057,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "J<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 6061,indent: 1,parent: 6057,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6062,indent: 1,parent: 6057,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6063,indent: 1,parent: 6057,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Call",amount: "1.75",potSizeToWin: "2.50",amountToPot: "70",
+},
+{
+id: 6064,indent: 1,parent: 6057,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "4.25",amountToPot: "35",
+},
+{
+id: 6065,indent: 1,parent: 6057,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.75",amountToPot: "0",
+},
+{
+id: 6066,indent: 1,parent: 6057,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "9<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "5.75",amountToPot: "0",
+},
+{
+id: 6067,indent: 1,parent: 6057,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Bet",amount: "3.00",potSizeToWin: "5.75",amountToPot: "52",
+},
+{
+id: 6068,indent: 1,parent: 6057,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "8.75",amountToPot: "0",
+},
+{
+id: 6069,indent: 1,parent: 6057,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "8.75",amountToPot: "0",
+},
+{
+id: 6070,indent: 0,parent: null,handNum: "379",numPlayers: "6",numAllIns: "0",finalStep: "Turn",winner: "Alex W",won: "8.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6071,indent: 1,parent: 6070,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6072,indent: 1,parent: 6070,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6073,indent: 1,parent: 6070,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6074,indent: 1,parent: 6070,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6075,indent: 1,parent: 6070,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 6076,indent: 1,parent: 6070,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6077,indent: 1,parent: 6070,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "2.50",amountToPot: "60",
+},
+{
+id: 6078,indent: 1,parent: 6070,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 6079,indent: 1,parent: 6070,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 6080,indent: 1,parent: 6070,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "2.00",potSizeToWin: "4.00",amountToPot: "50",
+},
+{
+id: 6081,indent: 1,parent: 6070,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "2.00",potSizeToWin: "6.00",amountToPot: "33",
+},
+{
+id: 6082,indent: 1,parent: 6070,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "9<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Alex W",holeCards: "",action: "Bet",amount: "2.00",potSizeToWin: "8.00",amountToPot: "25",
+},
+{
+id: 6083,indent: 1,parent: 6070,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "10.00",amountToPot: "0",
+},
+{
+id: 6084,indent: 0,parent: null,handNum: "380",numPlayers: "6",numAllIns: "0",finalStep: "Preflop",winner: "Greg",won: "1.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6085,indent: 1,parent: 6084,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6086,indent: 1,parent: 6084,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6087,indent: 1,parent: 6084,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Raise",amount: "2.50",potSizeToWin: "0.75",amountToPot: "333",
+},
+{
+id: 6088,indent: 1,parent: 6084,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 6089,indent: 1,parent: 6084,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 6090,indent: 1,parent: 6084,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 6091,indent: 1,parent: 6084,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 6092,indent: 1,parent: 6084,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 6093,indent: 0,parent: null,handNum: "381",numPlayers: "6",numAllIns: "0",finalStep: "River",winner: "Greg",won: "3.75",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6094,indent: 1,parent: 6093,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6095,indent: 1,parent: 6093,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6096,indent: 1,parent: 6093,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6097,indent: 1,parent: 6093,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6098,indent: 1,parent: 6093,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6099,indent: 1,parent: 6093,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6100,indent: 1,parent: 6093,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6101,indent: 1,parent: 6093,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6102,indent: 1,parent: 6093,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "K<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6103,indent: 1,parent: 6093,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Bet",amount: "1.25",potSizeToWin: "1.25",amountToPot: "100",
+},
+{
+id: 6104,indent: 1,parent: 6093,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "1.25",potSizeToWin: "2.50",amountToPot: "50",
+},
+{
+id: 6105,indent: 1,parent: 6093,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "6<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 6106,indent: 1,parent: 6093,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 6107,indent: 1,parent: 6093,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "J<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Greg",holeCards: "",action: "Bet",amount: "1.87",potSizeToWin: "3.75",amountToPot: "49",
+},
+{
+id: 6108,indent: 1,parent: 6093,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.62",amountToPot: "0",
+},
+{
+id: 6109,indent: 0,parent: null,handNum: "382",numPlayers: "6",numAllIns: "0",finalStep: "Flop",winner: "Dan C",won: "4.75",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6110,indent: 1,parent: 6109,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6111,indent: 1,parent: 6109,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6112,indent: 1,parent: 6109,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6113,indent: 1,parent: 6109,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6114,indent: 1,parent: 6109,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6115,indent: 1,parent: 6109,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "2.00",potSizeToWin: "1.25",amountToPot: "160",
+},
+{
+id: 6116,indent: 1,parent: 6109,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 6117,indent: 1,parent: 6109,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 6118,indent: 1,parent: 6109,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "3.25",amountToPot: "46",
+},
+{
+id: 6119,indent: 1,parent: 6109,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "9<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Dan C",holeCards: "",action: "Bet",amount: "1.25",potSizeToWin: "4.75",amountToPot: "26",
+},
+{
+id: 6120,indent: 1,parent: 6109,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 6121,indent: 0,parent: null,handNum: "383",numPlayers: "6",numAllIns: "0",finalStep: "Turn",winner: "Jeff",won: "4.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6122,indent: 1,parent: 6121,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6123,indent: 1,parent: 6121,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6124,indent: 1,parent: 6121,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6125,indent: 1,parent: 6121,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6126,indent: 1,parent: 6121,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6127,indent: 1,parent: 6121,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6128,indent: 1,parent: 6121,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6129,indent: 1,parent: 6121,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6130,indent: 1,parent: 6121,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&diams;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6131,indent: 1,parent: 6121,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Bet",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 6132,indent: 1,parent: 6121,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "3.00",amountToPot: "50",
+},
+{
+id: 6133,indent: 1,parent: 6121,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 6134,indent: 1,parent: 6121,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Jeff",holeCards: "",action: "Bet",amount: "4.50",potSizeToWin: "4.50",amountToPot: "100",
+},
+{
+id: 6135,indent: 1,parent: 6121,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "9.00",amountToPot: "0",
+},
+{
+id: 6136,indent: 0,parent: null,handNum: "384",numPlayers: "6",numAllIns: "0",finalStep: "River",winner: "Dan C",won: "6.25",finalHand: "Two Pair, Q's & 9's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6137,indent: 1,parent: 6136,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6138,indent: 1,parent: 6136,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, J<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6139,indent: 1,parent: 6136,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "9<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Raise",amount: "1.00",potSizeToWin: "0.75",amountToPot: "133",
+},
+{
+id: 6140,indent: 1,parent: 6136,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 6141,indent: 1,parent: 6136,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 6142,indent: 1,parent: 6136,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 6143,indent: 1,parent: 6136,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 6144,indent: 1,parent: 6136,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.75",amountToPot: "28",
+},
+{
+id: 6145,indent: 1,parent: 6136,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "10<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",
+},
+{
+id: 6146,indent: 1,parent: 6136,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",
+},
+{
+id: 6147,indent: 1,parent: 6136,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",
+},
+{
+id: 6148,indent: 1,parent: 6136,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "2.25",amountToPot: "44",
+},
+{
+id: 6149,indent: 1,parent: 6136,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "3.25",amountToPot: "30",
+},
+{
+id: 6150,indent: 1,parent: 6136,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 6151,indent: 1,parent: 6136,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Dan C",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "4.25",amountToPot: "23",
+},
+{
+id: 6152,indent: 1,parent: 6136,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "5.25",amountToPot: "19",
+},
+{
+id: 6153,indent: 0,parent: null,handNum: "385",numPlayers: "6",numAllIns: "0",finalStep: "Preflop",winner: "Dan C",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6154,indent: 1,parent: 6153,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6155,indent: 1,parent: 6153,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "J<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6156,indent: 1,parent: 6153,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6157,indent: 1,parent: 6153,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6158,indent: 1,parent: 6153,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6159,indent: 1,parent: 6153,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6160,indent: 1,parent: 6153,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 6161,indent: 1,parent: 6153,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Raise",amount: "1.00",potSizeToWin: "1.00",amountToPot: "100",
+},
+{
+id: 6162,indent: 1,parent: 6153,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6163,indent: 0,parent: null,handNum: "386",numPlayers: "6",numAllIns: "0",finalStep: "Turn",winner: "Chris Moy",won: "13.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6164,indent: 1,parent: 6163,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6165,indent: 1,parent: 6163,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6166,indent: 1,parent: 6163,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6167,indent: 1,parent: 6163,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6168,indent: 1,parent: 6163,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6169,indent: 1,parent: 6163,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6170,indent: 1,parent: 6163,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6171,indent: 1,parent: 6163,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6172,indent: 1,parent: 6163,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6173,indent: 1,parent: 6163,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 6174,indent: 1,parent: 6163,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6175,indent: 1,parent: 6163,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "CheckRaise",amount: "3.00",potSizeToWin: "3.00",amountToPot: "100",
+},
+{
+id: 6176,indent: 1,parent: 6163,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "6.00",amountToPot: "25",
+},
+{
+id: 6177,indent: 1,parent: 6163,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "J<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Dan C",holeCards: "",action: "Bet",amount: "3.00",potSizeToWin: "7.50",amountToPot: "40",
+},
+{
+id: 6178,indent: 1,parent: 6163,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "6.00",potSizeToWin: "10.50",amountToPot: "57",
+},
+{
+id: 6179,indent: 1,parent: 6163,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "16.50",amountToPot: "0",
+},
+{
+id: 6180,indent: 0,parent: null,handNum: "387",numPlayers: "6",numAllIns: "0",finalStep: "Preflop",winner: "Alex W",won: "1.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6181,indent: 1,parent: 6180,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6182,indent: 1,parent: 6180,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6183,indent: 1,parent: 6180,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6184,indent: 1,parent: 6180,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6185,indent: 1,parent: 6180,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Raise",amount: "2.50",potSizeToWin: "0.75",amountToPot: "333",
+},
+{
+id: 6186,indent: 1,parent: 6180,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 6187,indent: 1,parent: 6180,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 6188,indent: 1,parent: 6180,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 6189,indent: 0,parent: null,handNum: "388",numPlayers: "6",numAllIns: "0",finalStep: "River",winner: "Dan C",won: "13.98",finalHand: "Pair, 10's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6190,indent: 1,parent: 6189,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "7<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6191,indent: 1,parent: 6189,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6192,indent: 1,parent: 6189,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6193,indent: 1,parent: 6189,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6194,indent: 1,parent: 6189,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "10<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Raise",amount: "1.50",potSizeToWin: "0.75",amountToPot: "200",
+},
+{
+id: 6195,indent: 1,parent: 6189,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",
+},
+{
+id: 6196,indent: 1,parent: 6189,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "1.25",potSizeToWin: "2.25",amountToPot: "55",
+},
+{
+id: 6197,indent: 1,parent: 6189,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.50",amountToPot: "0",
+},
+{
+id: 6198,indent: 1,parent: 6189,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.50",amountToPot: "0",
+},
+{
+id: 6199,indent: 1,parent: 6189,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.50",amountToPot: "0",
+},
+{
+id: 6200,indent: 1,parent: 6189,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "10<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Greg",holeCards: "",action: "Bet",amount: "2.62",potSizeToWin: "3.50",amountToPot: "74",
+},
+{
+id: 6201,indent: 1,parent: 6189,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "Raise",amount: "5.24",potSizeToWin: "6.12",amountToPot: "85",
+},
+{
+id: 6202,indent: 1,parent: 6189,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "2.62",potSizeToWin: "11.36",amountToPot: "23",
+},
+{
+id: 6203,indent: 1,parent: 6189,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "J<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "13.98",amountToPot: "0",
+},
+{
+id: 6204,indent: 1,parent: 6189,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "13.98",amountToPot: "0",
+},
+{
+id: 6205,indent: 0,parent: null,handNum: "389",numPlayers: "6",numAllIns: "0",finalStep: "River",winner: "Dan C",won: "29.67",finalHand: "Full House, 6's over K's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6206,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6207,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6208,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6209,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "K<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6210,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "2.00",potSizeToWin: "1.25",amountToPot: "160",
+},
+{
+id: 6211,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 6212,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 6213,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 6214,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "3.25",amountToPot: "46",
+},
+{
+id: 6215,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 6216,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "3.56",potSizeToWin: "4.75",amountToPot: "74",
+},
+{
+id: 6217,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "3.56",potSizeToWin: "8.31",amountToPot: "42",
+},
+{
+id: 6218,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "K<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "11.87",amountToPot: "0",
+},
+{
+id: 6219,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "8.90",potSizeToWin: "11.87",amountToPot: "74",
+},
+{
+id: 6220,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "8.90",potSizeToWin: "20.77",amountToPot: "42",
+},
+{
+id: 6221,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "29.67",amountToPot: "0",
+},
+{
+id: 6222,indent: 1,parent: 6205,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "29.67",amountToPot: "0",
+},
+{
+id: 6223,indent: 0,parent: null,handNum: "390",numPlayers: "6",numAllIns: "0",finalStep: "Preflop",winner: "Greg",won: "1.75",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6224,indent: 1,parent: 6223,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6225,indent: 1,parent: 6223,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6226,indent: 1,parent: 6223,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6227,indent: 1,parent: 6223,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6228,indent: 1,parent: 6223,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Raise",amount: "2.50",potSizeToWin: "1.25",amountToPot: "200",
+},
+{
+id: 6229,indent: 1,parent: 6223,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 6230,indent: 1,parent: 6223,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 6231,indent: 1,parent: 6223,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 6232,indent: 1,parent: 6223,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 6233,indent: 0,parent: null,handNum: "391",numPlayers: "6",numAllIns: "0",finalStep: "River",winner: "Alex W",won: "4.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6234,indent: 1,parent: 6233,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6235,indent: 1,parent: 6233,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6236,indent: 1,parent: 6233,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6237,indent: 1,parent: 6233,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6238,indent: 1,parent: 6233,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6239,indent: 1,parent: 6233,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6240,indent: 1,parent: 6233,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6241,indent: 1,parent: 6233,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6242,indent: 1,parent: 6233,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6243,indent: 1,parent: 6233,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Bet",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 6244,indent: 1,parent: 6233,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6245,indent: 1,parent: 6233,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "3.00",amountToPot: "50",
+},
+{
+id: 6246,indent: 1,parent: 6233,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 6247,indent: 1,parent: 6233,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 6248,indent: 1,parent: 6233,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "10<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Alex W",holeCards: "",action: "Bet",amount: "5.00",potSizeToWin: "4.50",amountToPot: "111",
+},
+{
+id: 6249,indent: 1,parent: 6233,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "9.50",amountToPot: "0",
+},
+{
+id: 6250,indent: 0,parent: null,handNum: "392",numPlayers: "6",numAllIns: "0",finalStep: "River",winner: "Dan C",won: "2.50",finalHand: "Two Pair, J's & 4's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6251,indent: 1,parent: 6250,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6252,indent: 1,parent: 6250,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6253,indent: 1,parent: 6250,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6254,indent: 1,parent: 6250,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6255,indent: 1,parent: 6250,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6256,indent: 1,parent: 6250,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6257,indent: 1,parent: 6250,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6258,indent: 1,parent: 6250,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6259,indent: 1,parent: 6250,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "J<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Dan C",holeCards: "",action: "Bet",amount: "0.50",potSizeToWin: "1.50",amountToPot: "33",
+},
+{
+id: 6260,indent: 1,parent: 6250,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6261,indent: 1,parent: 6250,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "2.00",amountToPot: "25",
+},
+{
+id: 6262,indent: 1,parent: 6250,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "3<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6263,indent: 1,parent: 6250,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6264,indent: 1,parent: 6250,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "J<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6265,indent: 1,parent: 6250,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6266,indent: 0,parent: null,handNum: "393",numPlayers: "6",numAllIns: "0",finalStep: "Preflop",winner: "Jeff",won: "2.75",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6267,indent: 1,parent: 6266,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6268,indent: 1,parent: 6266,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6269,indent: 1,parent: 6266,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.00",potSizeToWin: "0.75",amountToPot: "133",
+},
+{
+id: 6270,indent: 1,parent: 6266,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 10<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Reraise",amount: "3.75",potSizeToWin: "1.75",amountToPot: "214",
+},
+{
+id: 6271,indent: 1,parent: 6266,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Fold",amount: "0.00",potSizeToWin: "5.50",amountToPot: "0",
+},
+{
+id: 6272,indent: 1,parent: 6266,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.50",amountToPot: "0",
+},
+{
+id: 6273,indent: 1,parent: 6266,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.50",amountToPot: "0",
+},
+{
+id: 6274,indent: 1,parent: 6266,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.50",amountToPot: "0",
+},
+{
+id: 6275,indent: 1,parent: 6266,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.50",amountToPot: "0",
+},
+{
+id: 6276,indent: 0,parent: null,handNum: "394",numPlayers: "6",numAllIns: "0",finalStep: "Turn",winner: "Chris Moy",won: "25.97",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6277,indent: 1,parent: 6276,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6278,indent: 1,parent: 6276,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6279,indent: 1,parent: 6276,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6280,indent: 1,parent: 6276,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6281,indent: 1,parent: 6276,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Raise",amount: "2.00",potSizeToWin: "1.25",amountToPot: "160",
+},
+{
+id: 6282,indent: 1,parent: 6276,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "J<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Call",amount: "2.00",potSizeToWin: "3.25",amountToPot: "61",
+},
+{
+id: 6283,indent: 1,parent: 6276,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.25",amountToPot: "0",
+},
+{
+id: 6284,indent: 1,parent: 6276,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.25",amountToPot: "0",
+},
+{
+id: 6285,indent: 1,parent: 6276,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "5.25",amountToPot: "28",
+},
+{
+id: 6286,indent: 1,parent: 6276,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Alex W",holeCards: "",action: "Bet",amount: "3.37",potSizeToWin: "6.75",amountToPot: "49",
+},
+{
+id: 6287,indent: 1,parent: 6276,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "10.12",amountToPot: "0",
+},
+{
+id: 6288,indent: 1,parent: 6276,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "3.37",potSizeToWin: "10.12",amountToPot: "33",
+},
+{
+id: 6289,indent: 1,parent: 6276,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "6<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Alex W",holeCards: "",action: "Bet",amount: "6.24",potSizeToWin: "13.49",amountToPot: "46",
+},
+{
+id: 6290,indent: 1,parent: 6276,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "17.98",potSizeToWin: "19.73",amountToPot: "91",
+},
+{
+id: 6291,indent: 1,parent: 6276,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "37.71",amountToPot: "0",
+},
+{
+id: 6292,indent: 0,parent: null,handNum: "395",numPlayers: "6",numAllIns: "0",finalStep: "Turn",winner: "Jeff",won: "14.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6293,indent: 1,parent: 6292,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6294,indent: 1,parent: 6292,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6295,indent: 1,parent: 6292,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6296,indent: 1,parent: 6292,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6297,indent: 1,parent: 6292,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6298,indent: 1,parent: 6292,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",
+},
+{
+id: 6299,indent: 1,parent: 6292,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "2.75",potSizeToWin: "1.75",amountToPot: "157",
+},
+{
+id: 6300,indent: 1,parent: 6292,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "2.50",potSizeToWin: "4.50",amountToPot: "55",
+},
+{
+id: 6301,indent: 1,parent: 6292,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "7.00",amountToPot: "0",
+},
+{
+id: 6302,indent: 1,parent: 6292,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "7.00",amountToPot: "0",
+},
+{
+id: 6303,indent: 1,parent: 6292,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "J<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "3.50",potSizeToWin: "7.00",amountToPot: "50",
+},
+{
+id: 6304,indent: 1,parent: 6292,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "3.50",potSizeToWin: "10.50",amountToPot: "33",
+},
+{
+id: 6305,indent: 1,parent: 6292,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "14.00",amountToPot: "0",
+},
+{
+id: 6306,indent: 1,parent: 6292,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Jeff",holeCards: "",action: "Bet",amount: "10.50",potSizeToWin: "14.00",amountToPot: "75",
+},
+{
+id: 6307,indent: 1,parent: 6292,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "24.50",amountToPot: "0",
+},
+{
+id: 6308,indent: 0,parent: null,handNum: "396",numPlayers: "6",numAllIns: "0",finalStep: "River",winner: "Dan C",won: "12.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6309,indent: 1,parent: 6308,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6310,indent: 1,parent: 6308,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6311,indent: 1,parent: 6308,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 6312,indent: 1,parent: 6308,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6313,indent: 1,parent: 6308,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "1.75",potSizeToWin: "2.50",amountToPot: "70",
+},
+{
+id: 6314,indent: 1,parent: 6308,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 6315,indent: 1,parent: 6308,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 6316,indent: 1,parent: 6308,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 6317,indent: 1,parent: 6308,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Dan C",holeCards: "",action: "Bet",amount: "1.75",potSizeToWin: "4.25",amountToPot: "41",
+},
+{
+id: 6318,indent: 1,parent: 6308,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Raise",amount: "4.00",potSizeToWin: "6.00",amountToPot: "66",
+},
+{
+id: 6319,indent: 1,parent: 6308,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "2.25",potSizeToWin: "10.00",amountToPot: "22",
+},
+{
+id: 6320,indent: 1,parent: 6308,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "12.25",amountToPot: "0",
+},
+{
+id: 6321,indent: 1,parent: 6308,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "12.25",amountToPot: "0",
+},
+{
+id: 6322,indent: 1,parent: 6308,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "4<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Dan C",holeCards: "",action: "Bet",amount: "6.00",potSizeToWin: "12.25",amountToPot: "48",
+},
+{
+id: 6323,indent: 1,parent: 6308,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "18.25",amountToPot: "0",
+},
+{
+id: 6324,indent: 0,parent: null,handNum: "397",numPlayers: "5",numAllIns: "0",finalStep: "Turn",winner: "Alex W",won: "1.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6325,indent: 1,parent: 6324,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6326,indent: 1,parent: 6324,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6327,indent: 1,parent: 6324,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6328,indent: 1,parent: 6324,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6329,indent: 1,parent: 6324,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6330,indent: 1,parent: 6324,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6331,indent: 1,parent: 6324,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6332,indent: 1,parent: 6324,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "J<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6333,indent: 1,parent: 6324,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6334,indent: 1,parent: 6324,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6335,indent: 1,parent: 6324,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "10<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Alex W",holeCards: "",action: "Bet",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 6336,indent: 1,parent: 6324,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6337,indent: 1,parent: 6324,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6338,indent: 0,parent: null,handNum: "398",numPlayers: "5",numAllIns: "0",finalStep: "River",winner: "Chris Moy",won: "7.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6339,indent: 1,parent: 6338,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6340,indent: 1,parent: 6338,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "3<span style = 'font-size:125%; color: blue; '>&spades;</span>, J<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6341,indent: 1,parent: 6338,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6342,indent: 1,parent: 6338,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6343,indent: 1,parent: 6338,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6344,indent: 1,parent: 6338,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6345,indent: 1,parent: 6338,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6346,indent: 1,parent: 6338,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "5<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6347,indent: 1,parent: 6338,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6348,indent: 1,parent: 6338,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6349,indent: 1,parent: 6338,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Dan C",holeCards: "",action: "Bet",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 6350,indent: 1,parent: 6338,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "3.00",amountToPot: "50",
+},
+{
+id: 6351,indent: 1,parent: 6338,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 6352,indent: 1,parent: 6338,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "6<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Dan C",holeCards: "",action: "Bet",amount: "1.50",potSizeToWin: "4.50",amountToPot: "33",
+},
+{
+id: 6353,indent: 1,parent: 6338,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "5.25",potSizeToWin: "6.00",amountToPot: "87",
+},
+{
+id: 6354,indent: 1,parent: 6338,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "11.25",amountToPot: "0",
+},
+{
+id: 6355,indent: 0,parent: null,handNum: "399",numPlayers: "5",numAllIns: "0",finalStep: "Flop",winner: "Greg",won: "1.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6356,indent: 1,parent: 6355,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6357,indent: 1,parent: 6355,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6358,indent: 1,parent: 6355,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6359,indent: 1,parent: 6355,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6360,indent: 1,parent: 6355,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6361,indent: 1,parent: 6355,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6362,indent: 1,parent: 6355,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6363,indent: 1,parent: 6355,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Greg",holeCards: "",action: "Bet",amount: "0.93",potSizeToWin: "1.25",amountToPot: "74",
+},
+{
+id: 6364,indent: 1,parent: 6355,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.18",amountToPot: "0",
+},
+{
+id: 6365,indent: 0,parent: null,handNum: "400",numPlayers: "5",numAllIns: "0",finalStep: "River",winner: "Kai",won: "9.31",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6366,indent: 1,parent: 6365,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6367,indent: 1,parent: 6365,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6368,indent: 1,parent: 6365,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6369,indent: 1,parent: 6365,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",
+},
+{
+id: 6370,indent: 1,parent: 6365,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 6371,indent: 1,parent: 6365,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 6372,indent: 1,parent: 6365,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "2.75",amountToPot: "54",
+},
+{
+id: 6373,indent: 1,parent: 6365,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 6374,indent: 1,parent: 6365,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Bet",amount: "2.53",potSizeToWin: "4.25",amountToPot: "59",
+},
+{
+id: 6375,indent: 1,parent: 6365,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "2.53",potSizeToWin: "6.78",amountToPot: "37",
+},
+{
+id: 6376,indent: 1,parent: 6365,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "9.31",amountToPot: "0",
+},
+{
+id: 6377,indent: 1,parent: 6365,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "9.31",amountToPot: "0",
+},
+{
+id: 6378,indent: 1,parent: 6365,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "4.65",potSizeToWin: "9.31",amountToPot: "49",
+},
+{
+id: 6379,indent: 1,parent: 6365,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "13.96",amountToPot: "0",
+},
+{
+id: 6380,indent: 0,parent: null,handNum: "401",numPlayers: "5",numAllIns: "0",finalStep: "River",winner: "Alex W",won: "4.75",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6381,indent: 1,parent: 6380,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6382,indent: 1,parent: 6380,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6383,indent: 1,parent: 6380,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Raise",amount: "2.25",potSizeToWin: "0.75",amountToPot: "300",
+},
+{
+id: 6384,indent: 1,parent: 6380,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6385,indent: 1,parent: 6380,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6386,indent: 1,parent: 6380,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6387,indent: 1,parent: 6380,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.75",potSizeToWin: "3.00",amountToPot: "58",
+},
+{
+id: 6388,indent: 1,parent: 6380,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "K<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 6389,indent: 1,parent: 6380,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 6390,indent: 1,parent: 6380,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "8<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 6391,indent: 1,parent: 6380,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 6392,indent: 1,parent: 6380,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "2<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Bet",amount: "1.50",potSizeToWin: "4.75",amountToPot: "31",
+},
+{
+id: 6393,indent: 1,parent: 6380,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.25",amountToPot: "0",
+},
+{
+id: 6394,indent: 0,parent: null,handNum: "402",numPlayers: "5",numAllIns: "0",finalStep: "Flop",winner: "Chris Moy",won: "1.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6395,indent: 1,parent: 6394,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6396,indent: 1,parent: 6394,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6397,indent: 1,parent: 6394,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6398,indent: 1,parent: 6394,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6399,indent: 1,parent: 6394,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6400,indent: 1,parent: 6394,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6401,indent: 1,parent: 6394,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6402,indent: 1,parent: 6394,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "7<span style = 'font-size:125%; color: blue; '>&diams;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6403,indent: 1,parent: 6394,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6404,indent: 1,parent: 6394,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "4.00",potSizeToWin: "1.50",amountToPot: "266",
+},
+{
+id: 6405,indent: 1,parent: 6394,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.50",amountToPot: "0",
+},
+{
+id: 6406,indent: 1,parent: 6394,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.50",amountToPot: "0",
+},
+{
+id: 6407,indent: 0,parent: null,handNum: "403",numPlayers: "5",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "1.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6408,indent: 1,parent: 6407,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6409,indent: 1,parent: 6407,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6410,indent: 1,parent: 6407,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6411,indent: 1,parent: 6407,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 6412,indent: 1,parent: 6407,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6413,indent: 1,parent: 6407,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6414,indent: 1,parent: 6407,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6415,indent: 0,parent: null,handNum: "404",numPlayers: "5",numAllIns: "0",finalStep: "Flop",winner: "Kai",won: "3.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6416,indent: 1,parent: 6415,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6417,indent: 1,parent: 6415,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6418,indent: 1,parent: 6415,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "K<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Raise",amount: "1.00",potSizeToWin: "0.75",amountToPot: "133",
+},
+{
+id: 6419,indent: 1,parent: 6415,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 6420,indent: 1,parent: 6415,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 6421,indent: 1,parent: 6415,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.75",potSizeToWin: "1.75",amountToPot: "42",
+},
+{
+id: 6422,indent: 1,parent: 6415,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "2.50",amountToPot: "20",
+},
+{
+id: 6423,indent: 1,parent: 6415,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6424,indent: 1,parent: 6415,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6425,indent: 1,parent: 6415,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "2.25",potSizeToWin: "3.00",amountToPot: "75",
+},
+{
+id: 6426,indent: 1,parent: 6415,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.25",amountToPot: "0",
+},
+{
+id: 6427,indent: 1,parent: 6415,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.25",amountToPot: "0",
+},
+{
+id: 6428,indent: 0,parent: null,handNum: "405",numPlayers: "5",numAllIns: "0",finalStep: "River",winner: "Kai",won: "3.00",finalHand: "Two Pair, Q's & 2's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6429,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>, 10<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6430,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "K<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6431,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6432,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6433,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6434,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6435,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6436,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6437,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6438,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6439,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6440,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "0.50",potSizeToWin: "1.50",amountToPot: "33",
+},
+{
+id: 6441,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "2.00",amountToPot: "25",
+},
+{
+id: 6442,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "2.50",amountToPot: "20",
+},
+{
+id: 6443,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "7<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6444,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6445,indent: 1,parent: 6428,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6446,indent: 0,parent: null,handNum: "406",numPlayers: "5",numAllIns: "0",finalStep: "Turn",winner: "Dan C",won: "4.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6447,indent: 1,parent: 6446,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6448,indent: 1,parent: 6446,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6449,indent: 1,parent: 6446,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",
+},
+{
+id: 6450,indent: 1,parent: 6446,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 6451,indent: 1,parent: 6446,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 6452,indent: 1,parent: 6446,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.75",potSizeToWin: "2.75",amountToPot: "63",
+},
+{
+id: 6453,indent: 1,parent: 6446,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 6454,indent: 1,parent: 6446,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "K<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 6455,indent: 1,parent: 6446,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 6456,indent: 1,parent: 6446,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "J<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 6457,indent: 1,parent: 6446,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Dan C",holeCards: "",action: "Bet",amount: "3.00",potSizeToWin: "4.50",amountToPot: "66",
+},
+{
+id: 6458,indent: 1,parent: 6446,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "7.50",amountToPot: "0",
+},
+{
+id: 6459,indent: 0,parent: null,handNum: "407",numPlayers: "5",numAllIns: "0",finalStep: "Preflop",winner: "Chris Moy",won: "1.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6460,indent: 1,parent: 6459,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6461,indent: 1,parent: 6459,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6462,indent: 1,parent: 6459,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",
+},
+{
+id: 6463,indent: 1,parent: 6459,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 6464,indent: 1,parent: 6459,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 6465,indent: 1,parent: 6459,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 6466,indent: 1,parent: 6459,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 6467,indent: 0,parent: null,handNum: "408",numPlayers: "6",numAllIns: "0",finalStep: "Flop",winner: "Greg",won: "9.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6468,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6469,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "5<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6470,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "PostsMissingSmallBlind",amount: "0.25",potSizeToWin: "0.75",amountToPot: "",
+},
+{
+id: 6471,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "PostsMissingBigBlind",amount: "0.50",potSizeToWin: "1.00",amountToPot: "",
+},
+{
+id: 6472,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "4<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 4<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "Call",amount: "0.50",potSizeToWin: "1.50",amountToPot: "33",
+},
+{
+id: 6473,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "2.00",amountToPot: "25",
+},
+{
+id: 6474,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6475,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "2.50",amountToPot: "20",
+},
+{
+id: 6476,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Raise",amount: "1.75",potSizeToWin: "3.00",amountToPot: "58",
+},
+{
+id: 6477,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "4.75",amountToPot: "31",
+},
+{
+id: 6478,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "6.25",amountToPot: "24",
+},
+{
+id: 6479,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "7.75",amountToPot: "19",
+},
+{
+id: 6480,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "9.25",amountToPot: "0",
+},
+{
+id: 6481,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "9.25",amountToPot: "0",
+},
+{
+id: 6482,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Dan C",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "9.25",amountToPot: "0",
+},
+{
+id: 6483,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "9.25",amountToPot: "0",
+},
+{
+id: 6484,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Bet",amount: "9.25",potSizeToWin: "9.25",amountToPot: "100",
+},
+{
+id: 6485,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "18.50",amountToPot: "0",
+},
+{
+id: 6486,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "18.50",amountToPot: "0",
+},
+{
+id: 6487,indent: 1,parent: 6467,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "18.50",amountToPot: "0",
+},
+{
+id: 6488,indent: 0,parent: null,handNum: "409",numPlayers: "6",numAllIns: "0",finalStep: "Preflop",winner: "Chris Moy",won: "6.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6489,indent: 1,parent: 6488,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6490,indent: 1,parent: 6488,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6491,indent: 1,parent: 6488,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",
+},
+{
+id: 6492,indent: 1,parent: 6488,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "2.00",potSizeToWin: "2.75",amountToPot: "72",
+},
+{
+id: 6493,indent: 1,parent: 6488,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 6494,indent: 1,parent: 6488,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Dan C",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 6495,indent: 1,parent: 6488,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Reraise",amount: "9.75",potSizeToWin: "4.75",amountToPot: "205",
+},
+{
+id: 6496,indent: 1,parent: 6488,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "14.50",amountToPot: "0",
+},
+{
+id: 6497,indent: 1,parent: 6488,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "14.50",amountToPot: "0",
+},
+{
+id: 6498,indent: 1,parent: 6488,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "14.50",amountToPot: "0",
+},
+{
+id: 6499,indent: 0,parent: null,handNum: "410",numPlayers: "5",numAllIns: "0",finalStep: "Turn",winner: "Kai",won: "3.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6500,indent: 1,parent: 6499,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6501,indent: 1,parent: 6499,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "J<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6502,indent: 1,parent: 6499,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6503,indent: 1,parent: 6499,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6504,indent: 1,parent: 6499,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6505,indent: 1,parent: 6499,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",
+},
+{
+id: 6506,indent: 1,parent: 6499,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",
+},
+{
+id: 6507,indent: 1,parent: 6499,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6508,indent: 1,parent: 6499,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6509,indent: 1,parent: 6499,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "8<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6510,indent: 1,parent: 6499,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "1.50",potSizeToWin: "3.00",amountToPot: "50",
+},
+{
+id: 6511,indent: 1,parent: 6499,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 6512,indent: 0,parent: null,handNum: "411",numPlayers: "5",numAllIns: "0",finalStep: "Turn",winner: "Jeff",won: "6.24",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6513,indent: 1,parent: 6512,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6514,indent: 1,parent: 6512,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6515,indent: 1,parent: 6512,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6516,indent: 1,parent: 6512,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",
+},
+{
+id: 6517,indent: 1,parent: 6512,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.75",amountToPot: "28",
+},
+{
+id: 6518,indent: 1,parent: 6512,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "2.25",amountToPot: "11",
+},
+{
+id: 6519,indent: 1,parent: 6512,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6520,indent: 1,parent: 6512,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "8<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6521,indent: 1,parent: 6512,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Bet",amount: "1.87",potSizeToWin: "2.50",amountToPot: "74",
+},
+{
+id: 6522,indent: 1,parent: 6512,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.87",potSizeToWin: "4.37",amountToPot: "42",
+},
+{
+id: 6523,indent: 1,parent: 6512,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.24",amountToPot: "0",
+},
+{
+id: 6524,indent: 1,parent: 6512,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.24",amountToPot: "0",
+},
+{
+id: 6525,indent: 1,parent: 6512,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.24",amountToPot: "0",
+},
+{
+id: 6526,indent: 1,parent: 6512,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Jeff",holeCards: "",action: "Bet",amount: "3.12",potSizeToWin: "6.24",amountToPot: "50",
+},
+{
+id: 6527,indent: 1,parent: 6512,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "9.36",amountToPot: "0",
+},
+{
+id: 6528,indent: 0,parent: null,handNum: "412",numPlayers: "5",numAllIns: "0",finalStep: "River",winner: "Chris Moy",won: "19.49",finalHand: "Flush, Kc High",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6529,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6530,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6531,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6532,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6533,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.00",potSizeToWin: "1.25",amountToPot: "80",
+},
+{
+id: 6534,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",
+},
+{
+id: 6535,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "2.25",amountToPot: "22",
+},
+{
+id: 6536,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "2.75",amountToPot: "18",
+},
+{
+id: 6537,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 6538,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 6539,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "3.25",potSizeToWin: "3.25",amountToPot: "100",
+},
+{
+id: 6540,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.50",amountToPot: "0",
+},
+{
+id: 6541,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "3.25",potSizeToWin: "6.50",amountToPot: "50",
+},
+{
+id: 6542,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "9.75",amountToPot: "0",
+},
+{
+id: 6543,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "9.75",amountToPot: "0",
+},
+{
+id: 6544,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "9<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "4.87",potSizeToWin: "9.75",amountToPot: "49",
+},
+{
+id: 6545,indent: 1,parent: 6528,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "4.87",potSizeToWin: "14.62",amountToPot: "33",
+},
+{
+id: 6546,indent: 0,parent: null,handNum: "413",numPlayers: "5",numAllIns: "0",finalStep: "Preflop",winner: "Chris Moy",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6547,indent: 1,parent: 6546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6548,indent: 1,parent: 6546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6549,indent: 1,parent: 6546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6550,indent: 1,parent: 6546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6551,indent: 1,parent: 6546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6552,indent: 1,parent: 6546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 6553,indent: 1,parent: 6546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "1.50",potSizeToWin: "1.00",amountToPot: "150",
+},
+{
+id: 6554,indent: 1,parent: 6546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6555,indent: 0,parent: null,handNum: "414",numPlayers: "5",numAllIns: "0",finalStep: "Preflop",winner: "Greg",won: "3.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6556,indent: 1,parent: 6555,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6557,indent: 1,parent: 6555,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6558,indent: 1,parent: 6555,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.00",potSizeToWin: "0.75",amountToPot: "133",
+},
+{
+id: 6559,indent: 1,parent: 6555,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 6560,indent: 1,parent: 6555,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "1.75",amountToPot: "57",
+},
+{
+id: 6561,indent: 1,parent: 6555,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 6562,indent: 1,parent: 6555,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Reraise",amount: "3.25",potSizeToWin: "2.75",amountToPot: "118",
+},
+{
+id: 6563,indent: 1,parent: 6555,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 6564,indent: 1,parent: 6555,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 6565,indent: 0,parent: null,handNum: "415",numPlayers: "5",numAllIns: "0",finalStep: "Turn",winner: "Kai",won: "2.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6566,indent: 1,parent: 6565,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6567,indent: 1,parent: 6565,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "9<span style = 'font-size:125%; color: blue; '>&spades;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6568,indent: 1,parent: 6565,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6569,indent: 1,parent: 6565,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6570,indent: 1,parent: 6565,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6571,indent: 1,parent: 6565,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 6572,indent: 1,parent: 6565,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 6573,indent: 1,parent: 6565,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "9<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Greg",holeCards: "",action: "Bet",amount: "0.75",potSizeToWin: "1.00",amountToPot: "75",
+},
+{
+id: 6574,indent: 1,parent: 6565,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.75",potSizeToWin: "1.75",amountToPot: "42",
+},
+{
+id: 6575,indent: 1,parent: 6565,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "9<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6576,indent: 1,parent: 6565,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "1.25",potSizeToWin: "2.50",amountToPot: "50",
+},
+{
+id: 6577,indent: 1,parent: 6565,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 6578,indent: 0,parent: null,handNum: "416",numPlayers: "5",numAllIns: "0",finalStep: "Flop",winner: "Jeff",won: "6.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6579,indent: 1,parent: 6578,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6580,indent: 1,parent: 6578,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "K<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6581,indent: 1,parent: 6578,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6582,indent: 1,parent: 6578,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6583,indent: 1,parent: 6578,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6584,indent: 1,parent: 6578,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6585,indent: 1,parent: 6578,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Raise",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 6586,indent: 1,parent: 6578,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "3.00",amountToPot: "50",
+},
+{
+id: 6587,indent: 1,parent: 6578,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "4.50",amountToPot: "33",
+},
+{
+id: 6588,indent: 1,parent: 6578,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 10<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 6589,indent: 1,parent: 6578,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Bet",amount: "4.50",potSizeToWin: "6.00",amountToPot: "75",
+},
+{
+id: 6590,indent: 1,parent: 6578,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "10.50",amountToPot: "0",
+},
+{
+id: 6591,indent: 1,parent: 6578,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "10.50",amountToPot: "0",
+},
+{
+id: 6592,indent: 0,parent: null,handNum: "417",numPlayers: "5",numAllIns: "0",finalStep: "Flop",winner: "Chris Moy",won: "1.75",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6593,indent: 1,parent: 6592,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6594,indent: 1,parent: 6592,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6595,indent: 1,parent: 6592,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "10<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6596,indent: 1,parent: 6592,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6597,indent: 1,parent: 6592,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",
+},
+{
+id: 6598,indent: 1,parent: 6592,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 6599,indent: 1,parent: 6592,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 6600,indent: 1,parent: 6592,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 6601,indent: 1,parent: 6592,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "3.25",potSizeToWin: "1.75",amountToPot: "185",
+},
+{
+id: 6602,indent: 1,parent: 6592,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.00",amountToPot: "0",
+},
+{
+id: 6603,indent: 1,parent: 6592,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.00",amountToPot: "0",
+},
+{
+id: 6604,indent: 0,parent: null,handNum: "418",numPlayers: "5",numAllIns: "0",finalStep: "River",winner: "Chris Moy",won: "22.48",finalHand: "Flush, Kd High",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6605,indent: 1,parent: 6604,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6606,indent: 1,parent: 6604,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6607,indent: 1,parent: 6604,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6608,indent: 1,parent: 6604,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6609,indent: 1,parent: 6604,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6610,indent: 1,parent: 6604,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6611,indent: 1,parent: 6604,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6612,indent: 1,parent: 6604,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "K<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6613,indent: 1,parent: 6604,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 6614,indent: 1,parent: 6604,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6615,indent: 1,parent: 6604,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "3.00",amountToPot: "50",
+},
+{
+id: 6616,indent: 1,parent: 6604,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "7<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 6617,indent: 1,parent: 6604,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "3.37",potSizeToWin: "4.50",amountToPot: "74",
+},
+{
+id: 6618,indent: 1,parent: 6604,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "3.37",potSizeToWin: "7.87",amountToPot: "42",
+},
+{
+id: 6619,indent: 1,parent: 6604,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "K<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Bet",amount: "5.62",potSizeToWin: "11.24",amountToPot: "50",
+},
+{
+id: 6620,indent: 1,parent: 6604,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "5.62",potSizeToWin: "16.86",amountToPot: "33",
+},
+{
+id: 6621,indent: 0,parent: null,handNum: "419",numPlayers: "5",numAllIns: "0",finalStep: "Turn",winner: "Chris Moy",won: "1.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6622,indent: 1,parent: 6621,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6623,indent: 1,parent: 6621,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6624,indent: 1,parent: 6621,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6625,indent: 1,parent: 6621,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6626,indent: 1,parent: 6621,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6627,indent: 1,parent: 6621,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6628,indent: 1,parent: 6621,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6629,indent: 1,parent: 6621,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "7<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6630,indent: 1,parent: 6621,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6631,indent: 1,parent: 6621,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6632,indent: 1,parent: 6621,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "4.00",potSizeToWin: "1.50",amountToPot: "266",
+},
+{
+id: 6633,indent: 1,parent: 6621,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.50",amountToPot: "0",
+},
+{
+id: 6634,indent: 1,parent: 6621,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.50",amountToPot: "0",
+},
+{
+id: 6635,indent: 0,parent: null,handNum: "420",numPlayers: "5",numAllIns: "0",finalStep: "River",winner: "Chris Moy",won: "32.31",finalHand: "Full House, Q's over 6's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6636,indent: 1,parent: 6635,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6637,indent: 1,parent: 6635,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6638,indent: 1,parent: 6635,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6639,indent: 1,parent: 6635,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6640,indent: 1,parent: 6635,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Raise",amount: "1.50",potSizeToWin: "0.75",amountToPot: "200",
+},
+{
+id: 6641,indent: 1,parent: 6635,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",
+},
+{
+id: 6642,indent: 1,parent: 6635,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "2.25",amountToPot: "44",
+},
+{
+id: 6643,indent: 1,parent: 6635,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.25",amountToPot: "0",
+},
+{
+id: 6644,indent: 1,parent: 6635,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "2.43",potSizeToWin: "3.25",amountToPot: "74",
+},
+{
+id: 6645,indent: 1,parent: 6635,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "2.43",potSizeToWin: "5.68",amountToPot: "42",
+},
+{
+id: 6646,indent: 1,parent: 6635,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "8.11",amountToPot: "0",
+},
+{
+id: 6647,indent: 1,parent: 6635,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "8.11",amountToPot: "0",
+},
+{
+id: 6648,indent: 1,parent: 6635,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "4.05",potSizeToWin: "8.11",amountToPot: "49",
+},
+{
+id: 6649,indent: 1,parent: 6635,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "12.10",potSizeToWin: "12.16",amountToPot: "99",
+},
+{
+id: 6650,indent: 1,parent: 6635,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "8.05",potSizeToWin: "24.26",amountToPot: "33",
+},
+{
+id: 6651,indent: 0,parent: null,handNum: "421",numPlayers: "5",numAllIns: "0",finalStep: "Turn",winner: "Chris Moy",won: "2.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6652,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6653,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6654,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6655,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",
+},
+{
+id: 6656,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 6657,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.75",amountToPot: "14",
+},
+{
+id: 6658,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6659,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6660,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6661,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6662,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6663,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "7<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6664,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6665,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6666,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "2.00",potSizeToWin: "2.00",amountToPot: "100",
+},
+{
+id: 6667,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 6668,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 6669,indent: 1,parent: 6651,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 6670,indent: 0,parent: null,handNum: "422",numPlayers: "5",numAllIns: "0",finalStep: "Preflop",winner: "Greg",won: "1.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6671,indent: 1,parent: 6670,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6672,indent: 1,parent: 6670,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6673,indent: 1,parent: 6670,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6674,indent: 1,parent: 6670,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",
+},
+{
+id: 6675,indent: 1,parent: 6670,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 6676,indent: 1,parent: 6670,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 6677,indent: 1,parent: 6670,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 6678,indent: 0,parent: null,handNum: "423",numPlayers: "5",numAllIns: "0",finalStep: "Flop",winner: "Kai",won: "4.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6679,indent: 1,parent: 6678,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6680,indent: 1,parent: 6678,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6681,indent: 1,parent: 6678,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6682,indent: 1,parent: 6678,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "9<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 6683,indent: 1,parent: 6678,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "1.75",potSizeToWin: "2.50",amountToPot: "70",
+},
+{
+id: 6684,indent: 1,parent: 6678,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 6685,indent: 1,parent: 6678,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 6686,indent: 1,parent: 6678,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "2<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "4.25",potSizeToWin: "4.25",amountToPot: "100",
+},
+{
+id: 6687,indent: 1,parent: 6678,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "8.50",amountToPot: "0",
+},
+{
+id: 6688,indent: 0,parent: null,handNum: "424",numPlayers: "5",numAllIns: "0",finalStep: "River",winner: "Kai",won: "12.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6689,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6690,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6691,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6692,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",
+},
+{
+id: 6693,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.75",amountToPot: "28",
+},
+{
+id: 6694,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "2.25",amountToPot: "11",
+},
+{
+id: 6695,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6696,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "3<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6697,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6698,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6699,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6700,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6701,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6702,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6703,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6704,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6705,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6706,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6707,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6708,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "2.50",potSizeToWin: "2.50",amountToPot: "100",
+},
+{
+id: 6709,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.00",amountToPot: "0",
+},
+{
+id: 6710,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Raise",amount: "5.00",potSizeToWin: "5.00",amountToPot: "100",
+},
+{
+id: 6711,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "10.00",amountToPot: "0",
+},
+{
+id: 6712,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "10.00",amountToPot: "0",
+},
+{
+id: 6713,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Reraise",amount: "15.00",potSizeToWin: "10.00",amountToPot: "150",
+},
+{
+id: 6714,indent: 1,parent: 6688,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "25.00",amountToPot: "0",
+},
+{
+id: 6715,indent: 0,parent: null,handNum: "425",numPlayers: "5",numAllIns: "0",finalStep: "Preflop",winner: "Greg",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6716,indent: 1,parent: 6715,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6717,indent: 1,parent: 6715,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6718,indent: 1,parent: 6715,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6719,indent: 1,parent: 6715,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6720,indent: 1,parent: 6715,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6721,indent: 1,parent: 6715,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 6722,indent: 1,parent: 6715,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6723,indent: 0,parent: null,handNum: "426",numPlayers: "5",numAllIns: "0",finalStep: "Flop",winner: "Chris Moy",won: "1.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6724,indent: 1,parent: 6723,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6725,indent: 1,parent: 6723,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6726,indent: 1,parent: 6723,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6727,indent: 1,parent: 6723,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 3<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6728,indent: 1,parent: 6723,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6729,indent: 1,parent: 6723,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6730,indent: 1,parent: 6723,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6731,indent: 1,parent: 6723,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 3<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6732,indent: 1,parent: 6723,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6733,indent: 1,parent: 6723,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "2.50",potSizeToWin: "1.50",amountToPot: "166",
+},
+{
+id: 6734,indent: 1,parent: 6723,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 6735,indent: 1,parent: 6723,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 6736,indent: 0,parent: null,handNum: "427",numPlayers: "5",numAllIns: "0",finalStep: "Preflop",winner: "Jeff",won: "6.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6737,indent: 1,parent: 6736,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6738,indent: 1,parent: 6736,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6739,indent: 1,parent: 6736,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6740,indent: 1,parent: 6736,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Raise",amount: "2.50",potSizeToWin: "1.25",amountToPot: "200",
+},
+{
+id: 6741,indent: 1,parent: 6736,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 6742,indent: 1,parent: 6736,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Reraise",amount: "6.75",potSizeToWin: "3.75",amountToPot: "180",
+},
+{
+id: 6743,indent: 1,parent: 6736,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "10.50",amountToPot: "0",
+},
+{
+id: 6744,indent: 1,parent: 6736,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "10.50",amountToPot: "0",
+},
+{
+id: 6745,indent: 1,parent: 6736,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "10.50",amountToPot: "0",
+},
+{
+id: 6746,indent: 0,parent: null,handNum: "428",numPlayers: "5",numAllIns: "0",finalStep: "River",winner: "Greg",won: "9.49",finalHand: "Pair, Q's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6747,indent: 1,parent: 6746,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6748,indent: 1,parent: 6746,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6749,indent: 1,parent: 6746,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Raise",amount: "2.25",potSizeToWin: "0.75",amountToPot: "300",
+},
+{
+id: 6750,indent: 1,parent: 6746,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6751,indent: 1,parent: 6746,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6752,indent: 1,parent: 6746,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6753,indent: 1,parent: 6746,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.75",potSizeToWin: "3.00",amountToPot: "58",
+},
+{
+id: 6754,indent: 1,parent: 6746,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 6755,indent: 1,parent: 6746,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.75",amountToPot: "0",
+},
+{
+id: 6756,indent: 1,parent: 6746,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "2.37",potSizeToWin: "4.75",amountToPot: "49",
+},
+{
+id: 6757,indent: 1,parent: 6746,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "2.37",potSizeToWin: "7.12",amountToPot: "33",
+},
+{
+id: 6758,indent: 1,parent: 6746,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "8<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "9.49",amountToPot: "0",
+},
+{
+id: 6759,indent: 1,parent: 6746,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "9.49",amountToPot: "0",
+},
+{
+id: 6760,indent: 0,parent: null,handNum: "429",numPlayers: "5",numAllIns: "0",finalStep: "River",winner: "Alex W",won: "4.25",finalHand: "Two Pair, 4's & 3's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6761,indent: 1,parent: 6760,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6762,indent: 1,parent: 6760,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6763,indent: 1,parent: 6760,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "3<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6764,indent: 1,parent: 6760,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "J<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 6765,indent: 1,parent: 6760,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "K<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Call",amount: "1.75",potSizeToWin: "2.50",amountToPot: "70",
+},
+{
+id: 6766,indent: 1,parent: 6760,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 6767,indent: 1,parent: 6760,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 6768,indent: 1,parent: 6760,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "4<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 3<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 6769,indent: 1,parent: 6760,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 6770,indent: 1,parent: 6760,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "3<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 6771,indent: 1,parent: 6760,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 6772,indent: 1,parent: 6760,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 6773,indent: 1,parent: 6760,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.25",amountToPot: "0",
+},
+{
+id: 6774,indent: 0,parent: null,handNum: "430",numPlayers: "5",numAllIns: "0",finalStep: "Flop",winner: "Chris Moy",won: "2.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6775,indent: 1,parent: 6774,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6776,indent: 1,parent: 6774,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6777,indent: 1,parent: 6774,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6778,indent: 1,parent: 6774,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6779,indent: 1,parent: 6774,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "1.00",potSizeToWin: "0.75",amountToPot: "133",
+},
+{
+id: 6780,indent: 1,parent: 6774,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 6781,indent: 1,parent: 6774,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.75",amountToPot: "28",
+},
+{
+id: 6782,indent: 1,parent: 6774,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",
+},
+{
+id: 6783,indent: 1,parent: 6774,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "1.68",potSizeToWin: "2.25",amountToPot: "74",
+},
+{
+id: 6784,indent: 1,parent: 6774,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.93",amountToPot: "0",
+},
+{
+id: 6785,indent: 0,parent: null,handNum: "431",numPlayers: "5",numAllIns: "0",finalStep: "Preflop",winner: "Jeff",won: "1.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6786,indent: 1,parent: 6785,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6787,indent: 1,parent: 6785,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6788,indent: 1,parent: 6785,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6789,indent: 1,parent: 6785,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6790,indent: 1,parent: 6785,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6791,indent: 1,parent: 6785,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6792,indent: 1,parent: 6785,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Raise",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 6793,indent: 1,parent: 6785,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6794,indent: 1,parent: 6785,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6795,indent: 0,parent: null,handNum: "432",numPlayers: "5",numAllIns: "0",finalStep: "River",winner: "Chris Moy",won: "31.49",finalHand: "Three of a Kind, 2's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6796,indent: 1,parent: 6795,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6797,indent: 1,parent: 6795,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6798,indent: 1,parent: 6795,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6799,indent: 1,parent: 6795,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6800,indent: 1,parent: 6795,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Raise",amount: "2.25",potSizeToWin: "1.25",amountToPot: "180",
+},
+{
+id: 6801,indent: 1,parent: 6795,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.50",amountToPot: "0",
+},
+{
+id: 6802,indent: 1,parent: 6795,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.50",amountToPot: "0",
+},
+{
+id: 6803,indent: 1,parent: 6795,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.75",potSizeToWin: "3.50",amountToPot: "50",
+},
+{
+id: 6804,indent: 1,parent: 6795,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "5.25",amountToPot: "0",
+},
+{
+id: 6805,indent: 1,parent: 6795,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "5.25",amountToPot: "0",
+},
+{
+id: 6806,indent: 1,parent: 6795,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "5<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "5.25",potSizeToWin: "5.25",amountToPot: "100",
+},
+{
+id: 6807,indent: 1,parent: 6795,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "5.25",potSizeToWin: "10.50",amountToPot: "50",
+},
+{
+id: 6808,indent: 1,parent: 6795,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "7.87",potSizeToWin: "15.75",amountToPot: "49",
+},
+{
+id: 6809,indent: 1,parent: 6795,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "7.87",potSizeToWin: "23.62",amountToPot: "33",
+},
+{
+id: 6810,indent: 0,parent: null,handNum: "433",numPlayers: "5",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "1.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6811,indent: 1,parent: 6810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6812,indent: 1,parent: 6810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6813,indent: 1,parent: 6810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6814,indent: 1,parent: 6810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 6815,indent: 1,parent: 6810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6816,indent: 1,parent: 6810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6817,indent: 1,parent: 6810,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6818,indent: 0,parent: null,handNum: "434",numPlayers: "5",numAllIns: "0",finalStep: "River",winner: "Greg",won: "25.49",finalHand: "Three of a Kind, 4's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6819,indent: 1,parent: 6818,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6820,indent: 1,parent: 6818,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6821,indent: 1,parent: 6818,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 6822,indent: 1,parent: 6818,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6823,indent: 1,parent: 6818,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6824,indent: 1,parent: 6818,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6825,indent: 1,parent: 6818,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "1.25",potSizeToWin: "2.50",amountToPot: "50",
+},
+{
+id: 6826,indent: 1,parent: 6818,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 6827,indent: 1,parent: 6818,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "3.75",amountToPot: "26",
+},
+{
+id: 6828,indent: 1,parent: 6818,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "CheckRaise",amount: "3.75",potSizeToWin: "4.75",amountToPot: "78",
+},
+{
+id: 6829,indent: 1,parent: 6818,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "2.75",potSizeToWin: "8.50",amountToPot: "32",
+},
+{
+id: 6830,indent: 1,parent: 6818,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Greg",holeCards: "",action: "Bet",amount: "7.12",potSizeToWin: "11.25",amountToPot: "63",
+},
+{
+id: 6831,indent: 1,parent: 6818,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "7.12",potSizeToWin: "18.37",amountToPot: "38",
+},
+{
+id: 6832,indent: 1,parent: 6818,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "25.49",amountToPot: "0",
+},
+{
+id: 6833,indent: 1,parent: 6818,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "25.49",amountToPot: "0",
+},
+{
+id: 6834,indent: 0,parent: null,handNum: "435",numPlayers: "5",numAllIns: "0",finalStep: "Flop",winner: "Alex W",won: "1.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6835,indent: 1,parent: 6834,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6836,indent: 1,parent: 6834,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6837,indent: 1,parent: 6834,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6838,indent: 1,parent: 6834,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6839,indent: 1,parent: 6834,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6840,indent: 1,parent: 6834,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6841,indent: 1,parent: 6834,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6842,indent: 1,parent: 6834,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "8<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6843,indent: 1,parent: 6834,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6844,indent: 1,parent: 6834,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "1.50",amountToPot: "66",
+},
+{
+id: 6845,indent: 1,parent: 6834,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6846,indent: 1,parent: 6834,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6847,indent: 0,parent: null,handNum: "436",numPlayers: "5",numAllIns: "0",finalStep: "Flop",winner: "Chris Moy",won: "1.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6848,indent: 1,parent: 6847,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6849,indent: 1,parent: 6847,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6850,indent: 1,parent: 6847,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6851,indent: 1,parent: 6847,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>, K<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6852,indent: 1,parent: 6847,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6853,indent: 1,parent: 6847,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6854,indent: 1,parent: 6847,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6855,indent: 1,parent: 6847,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6856,indent: 1,parent: 6847,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6857,indent: 1,parent: 6847,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 6858,indent: 1,parent: 6847,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6859,indent: 1,parent: 6847,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6860,indent: 0,parent: null,handNum: "437",numPlayers: "5",numAllIns: "0",finalStep: "Turn",winner: "Jeff",won: "15.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6861,indent: 1,parent: 6860,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6862,indent: 1,parent: 6860,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6863,indent: 1,parent: 6860,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6864,indent: 1,parent: 6860,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6865,indent: 1,parent: 6860,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",
+},
+{
+id: 6866,indent: 1,parent: 6860,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Raise",amount: "2.25",potSizeToWin: "1.75",amountToPot: "128",
+},
+{
+id: 6867,indent: 1,parent: 6860,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "2.00",potSizeToWin: "4.00",amountToPot: "50",
+},
+{
+id: 6868,indent: 1,parent: 6860,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 6869,indent: 1,parent: 6860,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 6870,indent: 1,parent: 6860,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Jeff",holeCards: "",action: "Bet",amount: "4.50",potSizeToWin: "6.00",amountToPot: "75",
+},
+{
+id: 6871,indent: 1,parent: 6860,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "4.50",potSizeToWin: "10.50",amountToPot: "42",
+},
+{
+id: 6872,indent: 1,parent: 6860,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "9<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Jeff",holeCards: "",action: "Bet",amount: "11.25",potSizeToWin: "15.00",amountToPot: "75",
+},
+{
+id: 6873,indent: 1,parent: 6860,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "26.25",amountToPot: "0",
+},
+{
+id: 6874,indent: 0,parent: null,handNum: "438",numPlayers: "5",numAllIns: "0",finalStep: "Preflop",winner: "Chris Moy",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6875,indent: 1,parent: 6874,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6876,indent: 1,parent: 6874,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6877,indent: 1,parent: 6874,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6878,indent: 1,parent: 6874,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6879,indent: 1,parent: 6874,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6880,indent: 1,parent: 6874,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 6881,indent: 1,parent: 6874,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "1.50",potSizeToWin: "1.00",amountToPot: "150",
+},
+{
+id: 6882,indent: 1,parent: 6874,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6883,indent: 0,parent: null,handNum: "439",numPlayers: "4",numAllIns: "0",finalStep: "Turn",winner: "Greg",won: "2.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6884,indent: 1,parent: 6883,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6885,indent: 1,parent: 6883,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "J<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6886,indent: 1,parent: 6883,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.00",potSizeToWin: "0.75",amountToPot: "133",
+},
+{
+id: 6887,indent: 1,parent: 6883,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 6888,indent: 1,parent: 6883,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.75",amountToPot: "0",
+},
+{
+id: 6889,indent: 1,parent: 6883,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.75",amountToPot: "28",
+},
+{
+id: 6890,indent: 1,parent: 6883,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "8<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>, 3<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",
+},
+{
+id: 6891,indent: 1,parent: 6883,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",
+},
+{
+id: 6892,indent: 1,parent: 6883,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "5<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Greg",holeCards: "",action: "Bet",amount: "1.68",potSizeToWin: "2.25",amountToPot: "74",
+},
+{
+id: 6893,indent: 1,parent: 6883,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.93",amountToPot: "0",
+},
+{
+id: 6894,indent: 0,parent: null,handNum: "440",numPlayers: "4",numAllIns: "0",finalStep: "Flop",winner: "Chris Moy",won: "2.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6895,indent: 1,parent: 6894,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6896,indent: 1,parent: 6894,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6897,indent: 1,parent: 6894,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6898,indent: 1,parent: 6894,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "K<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Call",amount: "0.50",potSizeToWin: "1.25",amountToPot: "40",
+},
+{
+id: 6899,indent: 1,parent: 6894,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.75",amountToPot: "14",
+},
+{
+id: 6900,indent: 1,parent: 6894,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6901,indent: 1,parent: 6894,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "6<span style = 'font-size:125%; color: blue; '>&spades;</span>, J<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6902,indent: 1,parent: 6894,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6903,indent: 1,parent: 6894,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6904,indent: 1,parent: 6894,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "1.50",potSizeToWin: "2.00",amountToPot: "75",
+},
+{
+id: 6905,indent: 1,parent: 6894,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.50",amountToPot: "0",
+},
+{
+id: 6906,indent: 1,parent: 6894,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.50",amountToPot: "0",
+},
+{
+id: 6907,indent: 1,parent: 6894,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.50",amountToPot: "0",
+},
+{
+id: 6908,indent: 0,parent: null,handNum: "441",numPlayers: "5",numAllIns: "0",finalStep: "Flop",winner: "Alex W",won: "1.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6909,indent: 1,parent: 6908,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6910,indent: 1,parent: 6908,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6911,indent: 1,parent: 6908,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6912,indent: 1,parent: 6908,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6913,indent: 1,parent: 6908,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6914,indent: 1,parent: 6908,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6915,indent: 1,parent: 6908,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6916,indent: 1,parent: 6908,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "3<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6917,indent: 1,parent: 6908,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6918,indent: 1,parent: 6908,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "1.50",amountToPot: "66",
+},
+{
+id: 6919,indent: 1,parent: 6908,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6920,indent: 1,parent: 6908,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Jeff",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 6921,indent: 0,parent: null,handNum: "442",numPlayers: "4",numAllIns: "0",finalStep: "Preflop",winner: "Alex W",won: "0.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6922,indent: 1,parent: 6921,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6923,indent: 1,parent: 6921,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.50",amountToPot: "0",
+},
+{
+id: 6924,indent: 1,parent: 6921,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.50",amountToPot: "0",
+},
+{
+id: 6925,indent: 1,parent: 6921,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.50",amountToPot: "0",
+},
+{
+id: 6926,indent: 0,parent: null,handNum: "443",numPlayers: "4",numAllIns: "0",finalStep: "Preflop",winner: "Greg",won: "1.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6927,indent: 1,parent: 6926,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6928,indent: 1,parent: 6926,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6929,indent: 1,parent: 6926,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",
+},
+{
+id: 6930,indent: 1,parent: 6926,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 6931,indent: 1,parent: 6926,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 6932,indent: 1,parent: 6926,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 6933,indent: 0,parent: null,handNum: "444",numPlayers: "4",numAllIns: "0",finalStep: "Flop",winner: "Alex W",won: "1.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6934,indent: 1,parent: 6933,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6935,indent: 1,parent: 6933,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6936,indent: 1,parent: 6933,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6937,indent: 1,parent: 6933,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6938,indent: 1,parent: 6933,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6939,indent: 1,parent: 6933,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6940,indent: 1,parent: 6933,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, J<span style = 'font-size:125%; color: blue; '>&spades;</span>, J<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6941,indent: 1,parent: 6933,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "1.25",amountToPot: "80",
+},
+{
+id: 6942,indent: 1,parent: 6933,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.25",amountToPot: "0",
+},
+{
+id: 6943,indent: 0,parent: null,handNum: "445",numPlayers: "4",numAllIns: "0",finalStep: "Flop",winner: "Alex W",won: "1.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6944,indent: 1,parent: 6943,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6945,indent: 1,parent: 6943,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6946,indent: 1,parent: 6943,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 6947,indent: 1,parent: 6943,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 6948,indent: 1,parent: 6943,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 6949,indent: 1,parent: 6943,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6950,indent: 1,parent: 6943,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Greg",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6951,indent: 1,parent: 6943,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6952,indent: 1,parent: 6943,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Bet",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 6953,indent: 1,parent: 6943,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6954,indent: 1,parent: 6943,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6955,indent: 0,parent: null,handNum: "446",numPlayers: "3",numAllIns: "0",finalStep: "Turn",winner: "Alex W",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6956,indent: 1,parent: 6955,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6957,indent: 1,parent: 6955,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6958,indent: 1,parent: 6955,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Greg",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6959,indent: 1,parent: 6955,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 6960,indent: 1,parent: 6955,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 6961,indent: 1,parent: 6955,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 6962,indent: 1,parent: 6955,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 6963,indent: 1,parent: 6955,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "J<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 6964,indent: 1,parent: 6955,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Bet",amount: "0.50",potSizeToWin: "1.00",amountToPot: "50",
+},
+{
+id: 6965,indent: 1,parent: 6955,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 6966,indent: 0,parent: null,handNum: "447",numPlayers: "2",numAllIns: "0",finalStep: "Flop",winner: "Kai",won: "3.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6967,indent: 1,parent: 6966,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6968,indent: 1,parent: 6966,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6969,indent: 1,parent: 6966,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",
+},
+{
+id: 6970,indent: 1,parent: 6966,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",
+},
+{
+id: 6971,indent: 1,parent: 6966,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "3<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 10<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 6972,indent: 1,parent: 6966,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "3.00",potSizeToWin: "3.00",amountToPot: "100",
+},
+{
+id: 6973,indent: 1,parent: 6966,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 6974,indent: 0,parent: null,handNum: "448",numPlayers: "2",numAllIns: "0",finalStep: "River",winner: "Alex W",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6975,indent: 1,parent: 6974,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6976,indent: 1,parent: 6974,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6977,indent: 1,parent: 6974,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 6978,indent: 1,parent: 6974,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 6979,indent: 1,parent: 6974,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "5<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 6980,indent: 1,parent: 6974,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 6981,indent: 1,parent: 6974,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 6982,indent: 1,parent: 6974,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 6983,indent: 1,parent: 6974,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "K<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 6984,indent: 1,parent: 6974,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "1.00",amountToPot: "100",
+},
+{
+id: 6985,indent: 1,parent: 6974,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6986,indent: 0,parent: null,handNum: "449",numPlayers: "2",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6987,indent: 1,parent: 6986,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6988,indent: 1,parent: 6986,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6989,indent: 1,parent: 6986,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",
+},
+{
+id: 6990,indent: 1,parent: 6986,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 6991,indent: 0,parent: null,handNum: "450",numPlayers: "2",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "0.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6992,indent: 1,parent: 6991,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6993,indent: 1,parent: 6991,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6994,indent: 1,parent: 6991,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 6995,indent: 0,parent: null,handNum: "451",numPlayers: "2",numAllIns: "0",finalStep: "River",winner: "Kai",won: "16.00",finalHand: "Two Pair, J's & 4's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 6996,indent: 1,parent: 6995,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, J<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 6997,indent: 1,parent: 6995,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "10<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 6998,indent: 1,parent: 6995,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",
+},
+{
+id: 6999,indent: 1,parent: 6995,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",
+},
+{
+id: 7000,indent: 1,parent: 6995,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "4<span style = 'font-size:125%; color: blue; '>&hearts;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 7001,indent: 1,parent: 6995,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "3.00",potSizeToWin: "3.00",amountToPot: "100",
+},
+{
+id: 7002,indent: 1,parent: 6995,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "3.00",potSizeToWin: "6.00",amountToPot: "50",
+},
+{
+id: 7003,indent: 1,parent: 6995,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "9.00",amountToPot: "0",
+},
+{
+id: 7004,indent: 1,parent: 6995,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "9.00",amountToPot: "0",
+},
+{
+id: 7005,indent: 1,parent: 6995,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "4<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Bet",amount: "3.50",potSizeToWin: "9.00",amountToPot: "38",
+},
+{
+id: 7006,indent: 1,parent: 6995,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "3.50",potSizeToWin: "12.50",amountToPot: "28",
+},
+{
+id: 7007,indent: 0,parent: null,handNum: "452",numPlayers: "2",numAllIns: "0",finalStep: "River",winner: "Alex W",won: "18.00",finalHand: "Three of a Kind, K's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7008,indent: 1,parent: 7007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "9<span style = 'font-size:125%; color: blue; '>&spades;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7009,indent: 1,parent: 7007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7010,indent: 1,parent: 7007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 7011,indent: 1,parent: 7007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7012,indent: 1,parent: 7007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "K<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "1.00",amountToPot: "100",
+},
+{
+id: 7013,indent: 1,parent: 7007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",
+},
+{
+id: 7014,indent: 1,parent: 7007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "7<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "3.00",potSizeToWin: "3.00",amountToPot: "100",
+},
+{
+id: 7015,indent: 1,parent: 7007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "3.00",potSizeToWin: "6.00",amountToPot: "50",
+},
+{
+id: 7016,indent: 1,parent: 7007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "9.00",amountToPot: "0",
+},
+{
+id: 7017,indent: 1,parent: 7007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Bet",amount: "4.50",potSizeToWin: "9.00",amountToPot: "50",
+},
+{
+id: 7018,indent: 1,parent: 7007,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "4.50",potSizeToWin: "13.50",amountToPot: "33",
+},
+{
+id: 7019,indent: 0,parent: null,handNum: "453",numPlayers: "2",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7020,indent: 1,parent: 7019,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "8<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7021,indent: 1,parent: 7019,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7022,indent: 1,parent: 7019,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",
+},
+{
+id: 7023,indent: 1,parent: 7019,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 7024,indent: 0,parent: null,handNum: "454",numPlayers: "3",numAllIns: "0",finalStep: "River",winner: "Chris Moy",won: "2.49",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7025,indent: 1,parent: 7024,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "4<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 10<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7026,indent: 1,parent: 7024,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7027,indent: 1,parent: 7024,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "PostsMissingSmallBlind",amount: "0.25",potSizeToWin: "0.75",amountToPot: "",
+},
+{
+id: 7028,indent: 1,parent: 7024,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "PostsMissingBigBlind",amount: "0.50",potSizeToWin: "1.00",amountToPot: "",
+},
+{
+id: 7029,indent: 1,parent: 7024,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7030,indent: 1,parent: 7024,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7031,indent: 1,parent: 7024,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7032,indent: 1,parent: 7024,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "5<span style = 'font-size:125%; color: blue; '>&diams;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7033,indent: 1,parent: 7024,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7034,indent: 1,parent: 7024,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "4<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "0.62",potSizeToWin: "1.50",amountToPot: "41",
+},
+{
+id: 7035,indent: 1,parent: 7024,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.62",potSizeToWin: "2.12",amountToPot: "29",
+},
+{
+id: 7036,indent: 1,parent: 7024,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "1.24",potSizeToWin: "2.74",amountToPot: "45",
+},
+{
+id: 7037,indent: 1,parent: 7024,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.98",amountToPot: "0",
+},
+{
+id: 7038,indent: 0,parent: null,handNum: "455",numPlayers: "3",numAllIns: "0",finalStep: "River",winner: "Alex W",won: "12.50",finalHand: "Three of a Kind, 9's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7039,indent: 1,parent: 7038,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7040,indent: 1,parent: 7038,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "3<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7041,indent: 1,parent: 7038,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 7042,indent: 1,parent: 7038,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 7043,indent: 1,parent: 7038,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7044,indent: 1,parent: 7038,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "9<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7045,indent: 1,parent: 7038,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7046,indent: 1,parent: 7038,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7047,indent: 1,parent: 7038,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "0.50",potSizeToWin: "1.50",amountToPot: "33",
+},
+{
+id: 7048,indent: 1,parent: 7038,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "2.00",amountToPot: "25",
+},
+{
+id: 7049,indent: 1,parent: 7038,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 7050,indent: 1,parent: 7038,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "2.50",potSizeToWin: "2.50",amountToPot: "100",
+},
+{
+id: 7051,indent: 1,parent: 7038,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Raise",amount: "5.00",potSizeToWin: "5.00",amountToPot: "100",
+},
+{
+id: 7052,indent: 1,parent: 7038,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "2.50",potSizeToWin: "10.00",amountToPot: "25",
+},
+{
+id: 7053,indent: 0,parent: null,handNum: "456",numPlayers: "3",numAllIns: "0",finalStep: "River",winner: "Alex W",won: "11.00",finalHand: "Pair, Q's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7054,indent: 1,parent: 7053,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7055,indent: 1,parent: 7053,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "8<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 10<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7056,indent: 1,parent: 7053,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7057,indent: 1,parent: 7053,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 7058,indent: 1,parent: 7053,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7059,indent: 1,parent: 7053,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Alex W",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "1.00",amountToPot: "100",
+},
+{
+id: 7060,indent: 1,parent: 7053,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",
+},
+{
+id: 7061,indent: 1,parent: 7053,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "4<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Alex W",holeCards: "",action: "Bet",amount: "3.00",potSizeToWin: "3.00",amountToPot: "100",
+},
+{
+id: 7062,indent: 1,parent: 7053,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "3.00",potSizeToWin: "6.00",amountToPot: "50",
+},
+{
+id: 7063,indent: 1,parent: 7053,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "6<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "9.00",amountToPot: "11",
+},
+{
+id: 7064,indent: 1,parent: 7053,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "10.00",amountToPot: "10",
+},
+{
+id: 7065,indent: 0,parent: null,handNum: "457",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "1.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7066,indent: 1,parent: 7065,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7067,indent: 1,parent: 7065,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7068,indent: 1,parent: 7065,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 7069,indent: 1,parent: 7065,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 7070,indent: 1,parent: 7065,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 7071,indent: 1,parent: 7065,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 7072,indent: 1,parent: 7065,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 7073,indent: 0,parent: null,handNum: "458",numPlayers: "3",numAllIns: "0",finalStep: "River",winner: "Kai",won: "4.50",finalHand: "Two Pair, 7's & 4's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7074,indent: 1,parent: 7073,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "10<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7075,indent: 1,parent: 7073,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7076,indent: 1,parent: 7073,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 7077,indent: 1,parent: 7073,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 7078,indent: 1,parent: 7073,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7079,indent: 1,parent: 7073,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "4<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "0.50",potSizeToWin: "1.50",amountToPot: "33",
+},
+{
+id: 7080,indent: 1,parent: 7073,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Raise",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",
+},
+{
+id: 7081,indent: 1,parent: 7073,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "3.00",amountToPot: "33",
+},
+{
+id: 7082,indent: 1,parent: 7073,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "4.00",amountToPot: "12",
+},
+{
+id: 7083,indent: 1,parent: 7073,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "7<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 7084,indent: 1,parent: 7073,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 7085,indent: 1,parent: 7073,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 7086,indent: 1,parent: 7073,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "J<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 7087,indent: 1,parent: 7073,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 7088,indent: 1,parent: 7073,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 7089,indent: 0,parent: null,handNum: "459",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Chris Moy",won: "0.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7090,indent: 1,parent: 7089,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7091,indent: 1,parent: 7089,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7092,indent: 1,parent: 7089,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7093,indent: 1,parent: 7089,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7094,indent: 0,parent: null,handNum: "460",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Chris Moy",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7095,indent: 1,parent: 7094,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7096,indent: 1,parent: 7094,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7097,indent: 1,parent: 7094,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7098,indent: 1,parent: 7094,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 7099,indent: 1,parent: 7094,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 7100,indent: 0,parent: null,handNum: "461",numPlayers: "3",numAllIns: "0",finalStep: "Turn",winner: "Alex W",won: "3.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7101,indent: 1,parent: 7100,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7102,indent: 1,parent: 7100,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7103,indent: 1,parent: 7100,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7104,indent: 1,parent: 7100,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 7105,indent: 1,parent: 7100,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7106,indent: 1,parent: 7100,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "1.00",amountToPot: "100",
+},
+{
+id: 7107,indent: 1,parent: 7100,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",
+},
+{
+id: 7108,indent: 1,parent: 7100,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "J<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 7109,indent: 1,parent: 7100,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Bet",amount: "3.00",potSizeToWin: "3.00",amountToPot: "100",
+},
+{
+id: 7110,indent: 1,parent: 7100,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 7111,indent: 0,parent: null,handNum: "462",numPlayers: "3",numAllIns: "0",finalStep: "Turn",winner: "Kai",won: "6.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7112,indent: 1,parent: 7111,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7113,indent: 1,parent: 7111,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7114,indent: 1,parent: 7111,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 7115,indent: 1,parent: 7111,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 7116,indent: 1,parent: 7111,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7117,indent: 1,parent: 7111,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "7<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7118,indent: 1,parent: 7111,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 7119,indent: 1,parent: 7111,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "3.00",amountToPot: "50",
+},
+{
+id: 7120,indent: 1,parent: 7111,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "4.50",amountToPot: "33",
+},
+{
+id: 7121,indent: 1,parent: 7111,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "8<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 7122,indent: 1,parent: 7111,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 7123,indent: 1,parent: 7111,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "4.50",potSizeToWin: "6.00",amountToPot: "75",
+},
+{
+id: 7124,indent: 1,parent: 7111,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "10.50",amountToPot: "0",
+},
+{
+id: 7125,indent: 1,parent: 7111,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "10.50",amountToPot: "0",
+},
+{
+id: 7126,indent: 0,parent: null,handNum: "463",numPlayers: "3",numAllIns: "0",finalStep: "Flop",winner: "Chris Moy",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7127,indent: 1,parent: 7126,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 5<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7128,indent: 1,parent: 7126,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7129,indent: 1,parent: 7126,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7130,indent: 1,parent: 7126,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 7131,indent: 1,parent: 7126,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7132,indent: 1,parent: 7126,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 4<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "1.00",amountToPot: "100",
+},
+{
+id: 7133,indent: 1,parent: 7126,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 7134,indent: 0,parent: null,handNum: "464",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Alex W",won: "0.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7135,indent: 1,parent: 7134,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7136,indent: 1,parent: 7134,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7137,indent: 1,parent: 7134,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7138,indent: 1,parent: 7134,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7139,indent: 0,parent: null,handNum: "465",numPlayers: "3",numAllIns: "0",finalStep: "Flop",winner: "Chris Moy",won: "3.75",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7140,indent: 1,parent: 7139,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7141,indent: 1,parent: 7139,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "J<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7142,indent: 1,parent: 7139,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 7143,indent: 1,parent: 7139,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 7144,indent: 1,parent: 7139,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.25",potSizeToWin: "2.50",amountToPot: "50",
+},
+{
+id: 7145,indent: 1,parent: 7139,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "2.81",potSizeToWin: "3.75",amountToPot: "74",
+},
+{
+id: 7146,indent: 1,parent: 7139,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.56",amountToPot: "0",
+},
+{
+id: 7147,indent: 0,parent: null,handNum: "466",numPlayers: "3",numAllIns: "0",finalStep: "Flop",winner: "Chris Moy",won: "3.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7148,indent: 1,parent: 7147,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7149,indent: 1,parent: 7147,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7150,indent: 1,parent: 7147,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7151,indent: 1,parent: 7147,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",
+},
+{
+id: 7152,indent: 1,parent: 7147,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",
+},
+{
+id: 7153,indent: 1,parent: 7147,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "2<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&hearts;</span>, J<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "2.25",potSizeToWin: "3.00",amountToPot: "75",
+},
+{
+id: 7154,indent: 1,parent: 7147,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.25",amountToPot: "0",
+},
+{
+id: 7155,indent: 0,parent: null,handNum: "467",numPlayers: "3",numAllIns: "0",finalStep: "Flop",winner: "Chris Moy",won: "3.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7156,indent: 1,parent: 7155,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7157,indent: 1,parent: 7155,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7158,indent: 1,parent: 7155,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "1.50",potSizeToWin: "0.75",amountToPot: "200",
+},
+{
+id: 7159,indent: 1,parent: 7155,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.25",potSizeToWin: "2.25",amountToPot: "55",
+},
+{
+id: 7160,indent: 1,parent: 7155,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.50",amountToPot: "0",
+},
+{
+id: 7161,indent: 1,parent: 7155,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.50",amountToPot: "0",
+},
+{
+id: 7162,indent: 1,parent: 7155,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "2.62",potSizeToWin: "3.50",amountToPot: "74",
+},
+{
+id: 7163,indent: 1,parent: 7155,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.12",amountToPot: "0",
+},
+{
+id: 7164,indent: 0,parent: null,handNum: "468",numPlayers: "3",numAllIns: "0",finalStep: "Flop",winner: "Chris Moy",won: "3.75",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7165,indent: 1,parent: 7164,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7166,indent: 1,parent: 7164,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "K<span style = 'font-size:125%; color: blue; '>&spades;</span>, J<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7167,indent: 1,parent: 7164,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 7168,indent: 1,parent: 7164,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 7169,indent: 1,parent: 7164,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.25",potSizeToWin: "2.50",amountToPot: "50",
+},
+{
+id: 7170,indent: 1,parent: 7164,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "4<span style = 'font-size:125%; color: blue; '>&diams;</span>, 8<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "2.81",potSizeToWin: "3.75",amountToPot: "74",
+},
+{
+id: 7171,indent: 1,parent: 7164,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.56",amountToPot: "0",
+},
+{
+id: 7172,indent: 0,parent: null,handNum: "469",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Chris Moy",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7173,indent: 1,parent: 7172,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7174,indent: 1,parent: 7172,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7175,indent: 1,parent: 7172,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7176,indent: 1,parent: 7172,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 7177,indent: 1,parent: 7172,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 7178,indent: 0,parent: null,handNum: "470",numPlayers: "3",numAllIns: "0",finalStep: "Flop",winner: "Alex W",won: "3.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7179,indent: 1,parent: 7178,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7180,indent: 1,parent: 7178,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7181,indent: 1,parent: 7178,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7182,indent: 1,parent: 7178,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",
+},
+{
+id: 7183,indent: 1,parent: 7178,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",
+},
+{
+id: 7184,indent: 1,parent: 7178,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "2<span style = 'font-size:125%; color: blue; '>&diams;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 7185,indent: 1,parent: 7178,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Bet",amount: "1.50",potSizeToWin: "3.00",amountToPot: "50",
+},
+{
+id: 7186,indent: 1,parent: 7178,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 7187,indent: 0,parent: null,handNum: "471",numPlayers: "3",numAllIns: "0",finalStep: "Flop",winner: "Chris Moy",won: "4.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7188,indent: 1,parent: 7187,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7189,indent: 1,parent: 7187,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7190,indent: 1,parent: 7187,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7191,indent: 1,parent: 7187,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 7192,indent: 1,parent: 7187,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "1.50",potSizeToWin: "1.00",amountToPot: "150",
+},
+{
+id: 7193,indent: 1,parent: 7187,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "2.50",amountToPot: "60",
+},
+{
+id: 7194,indent: 1,parent: 7187,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 7195,indent: 1,parent: 7187,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "3.00",potSizeToWin: "4.00",amountToPot: "75",
+},
+{
+id: 7196,indent: 1,parent: 7187,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "7.00",amountToPot: "0",
+},
+{
+id: 7197,indent: 0,parent: null,handNum: "472",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Chris Moy",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7198,indent: 1,parent: 7197,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7199,indent: 1,parent: 7197,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7200,indent: 1,parent: 7197,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7201,indent: 1,parent: 7197,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 7202,indent: 1,parent: 7197,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 7203,indent: 0,parent: null,handNum: "473",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7204,indent: 1,parent: 7203,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "4<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7205,indent: 1,parent: 7203,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7206,indent: 1,parent: 7203,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7207,indent: 1,parent: 7203,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",
+},
+{
+id: 7208,indent: 1,parent: 7203,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 7209,indent: 0,parent: null,handNum: "474",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "1.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7210,indent: 1,parent: 7209,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7211,indent: 1,parent: 7209,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7212,indent: 1,parent: 7209,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "K<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 7213,indent: 1,parent: 7209,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 7214,indent: 1,parent: 7209,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 7215,indent: 0,parent: null,handNum: "475",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "0.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7216,indent: 1,parent: 7215,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7217,indent: 1,parent: 7215,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "J<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7218,indent: 1,parent: 7215,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7219,indent: 1,parent: 7215,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7220,indent: 0,parent: null,handNum: "476",numPlayers: "3",numAllIns: "0",finalStep: "Turn",winner: "Alex W",won: "9.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7221,indent: 1,parent: 7220,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7222,indent: 1,parent: 7220,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7223,indent: 1,parent: 7220,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7224,indent: 1,parent: 7220,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",
+},
+{
+id: 7225,indent: 1,parent: 7220,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",
+},
+{
+id: 7226,indent: 1,parent: 7220,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "7<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "3.00",potSizeToWin: "3.00",amountToPot: "100",
+},
+{
+id: 7227,indent: 1,parent: 7220,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "3.00",potSizeToWin: "6.00",amountToPot: "50",
+},
+{
+id: 7228,indent: 1,parent: 7220,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "6<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "9.00",amountToPot: "0",
+},
+{
+id: 7229,indent: 1,parent: 7220,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Bet",amount: "6.75",potSizeToWin: "9.00",amountToPot: "75",
+},
+{
+id: 7230,indent: 1,parent: 7220,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "15.75",amountToPot: "0",
+},
+{
+id: 7231,indent: 0,parent: null,handNum: "477",numPlayers: "3",numAllIns: "0",finalStep: "River",winner: "Kai",won: "6.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7232,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7233,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7234,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "3<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 7235,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 7236,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7237,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7238,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7239,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7240,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7241,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 7242,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "3.00",amountToPot: "50",
+},
+{
+id: 7243,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "4.50",amountToPot: "33",
+},
+{
+id: 7244,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "3<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 7245,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 7246,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "6.00",potSizeToWin: "6.00",amountToPot: "100",
+},
+{
+id: 7247,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "12.00",amountToPot: "0",
+},
+{
+id: 7248,indent: 1,parent: 7231,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "12.00",amountToPot: "0",
+},
+{
+id: 7249,indent: 0,parent: null,handNum: "478",numPlayers: "3",numAllIns: "0",finalStep: "Flop",winner: "Kai",won: "4.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7250,indent: 1,parent: 7249,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "5<span style = 'font-size:125%; color: blue; '>&diams;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7251,indent: 1,parent: 7249,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7252,indent: 1,parent: 7249,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 7253,indent: 1,parent: 7249,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 7254,indent: 1,parent: 7249,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 7255,indent: 1,parent: 7249,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "3.00",amountToPot: "50",
+},
+{
+id: 7256,indent: 1,parent: 7249,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 7257,indent: 1,parent: 7249,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "4.50",potSizeToWin: "4.50",amountToPot: "100",
+},
+{
+id: 7258,indent: 1,parent: 7249,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "9.00",amountToPot: "0",
+},
+{
+id: 7259,indent: 0,parent: null,handNum: "479",numPlayers: "3",numAllIns: "0",finalStep: "Flop",winner: "Alex W",won: "2.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7260,indent: 1,parent: 7259,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7261,indent: 1,parent: 7259,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "4<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7262,indent: 1,parent: 7259,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7263,indent: 1,parent: 7259,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 7264,indent: 1,parent: 7259,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7265,indent: 1,parent: 7259,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "0.50",potSizeToWin: "1.00",amountToPot: "50",
+},
+{
+id: 7266,indent: 1,parent: 7259,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Raise",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 7267,indent: 1,parent: 7259,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 7268,indent: 0,parent: null,handNum: "480",numPlayers: "3",numAllIns: "0",finalStep: "River",winner: "Alex W",won: "3.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7269,indent: 1,parent: 7268,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7270,indent: 1,parent: 7268,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7271,indent: 1,parent: 7268,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 7272,indent: 1,parent: 7268,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 7273,indent: 1,parent: 7268,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7274,indent: 1,parent: 7268,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7275,indent: 1,parent: 7268,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "0.50",potSizeToWin: "1.50",amountToPot: "33",
+},
+{
+id: 7276,indent: 1,parent: 7268,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "2.00",amountToPot: "25",
+},
+{
+id: 7277,indent: 1,parent: 7268,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "2.50",amountToPot: "20",
+},
+{
+id: 7278,indent: 1,parent: 7268,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 7279,indent: 1,parent: 7268,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 7280,indent: 1,parent: 7268,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 7281,indent: 1,parent: 7268,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "8<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Bet",amount: "5.00",potSizeToWin: "3.00",amountToPot: "166",
+},
+{
+id: 7282,indent: 1,parent: 7268,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "8.00",amountToPot: "0",
+},
+{
+id: 7283,indent: 1,parent: 7268,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "8.00",amountToPot: "0",
+},
+{
+id: 7284,indent: 0,parent: null,handNum: "481",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "1.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7285,indent: 1,parent: 7284,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7286,indent: 1,parent: 7284,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7287,indent: 1,parent: 7284,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 7288,indent: 1,parent: 7284,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 7289,indent: 1,parent: 7284,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.25",potSizeToWin: "1.25",amountToPot: "100",
+},
+{
+id: 7290,indent: 1,parent: 7284,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 7291,indent: 0,parent: null,handNum: "482",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7292,indent: 1,parent: 7291,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "J<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7293,indent: 1,parent: 7291,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7294,indent: 1,parent: 7291,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7295,indent: 1,parent: 7291,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",
+},
+{
+id: 7296,indent: 1,parent: 7291,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 7297,indent: 0,parent: null,handNum: "483",numPlayers: "3",numAllIns: "0",finalStep: "River",winner: "Alex W",won: "1.00",finalHand: "A High",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7298,indent: 1,parent: 7297,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7299,indent: 1,parent: 7297,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7300,indent: 1,parent: 7297,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7301,indent: 1,parent: 7297,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 7302,indent: 1,parent: 7297,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7303,indent: 1,parent: 7297,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "9<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 3<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7304,indent: 1,parent: 7297,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7305,indent: 1,parent: 7297,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "6<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7306,indent: 1,parent: 7297,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7307,indent: 1,parent: 7297,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7308,indent: 1,parent: 7297,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7309,indent: 0,parent: null,handNum: "484",numPlayers: "3",numAllIns: "1",finalStep: "River",winner: "Chris Moy",won: "34.78",finalHand: "Full House, A's over 7's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7310,indent: 1,parent: 7309,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "Kai",won: "34.78",finalHand: "Full House, A's over 7's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7311,indent: 1,parent: 7309,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7312,indent: 1,parent: 7309,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7313,indent: 1,parent: 7309,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7314,indent: 1,parent: 7309,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 7315,indent: 1,parent: 7309,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "2.50",amountToPot: "60",
+},
+{
+id: 7316,indent: 1,parent: 7309,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "K<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 7317,indent: 1,parent: 7309,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 7318,indent: 1,parent: 7309,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "7<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "2.00",potSizeToWin: "4.00",amountToPot: "50",
+},
+{
+id: 7319,indent: 1,parent: 7309,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "2.00",potSizeToWin: "6.00",amountToPot: "33",
+},
+{
+id: 7320,indent: 1,parent: 7309,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "4.00",potSizeToWin: "8.00",amountToPot: "50",
+},
+{
+id: 7321,indent: 1,parent: 7309,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "RaiseAllIn",amount: "30.78",potSizeToWin: "12.00",amountToPot: "256",
+},
+{
+id: 7322,indent: 1,parent: 7309,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "26.78",potSizeToWin: "42.78",amountToPot: "62",
+},
+{
+id: 7323,indent: 0,parent: null,handNum: "485",numPlayers: "3",numAllIns: "0",finalStep: "Flop",winner: "Chris Moy",won: "1.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7324,indent: 1,parent: 7323,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7325,indent: 1,parent: 7323,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7326,indent: 1,parent: 7323,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "4<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 7327,indent: 1,parent: 7323,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 7328,indent: 1,parent: 7323,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7329,indent: 1,parent: 7323,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "7<span style = 'font-size:125%; color: blue; '>&diams;</span>, 5<span style = 'font-size:125%; color: blue; '>&diams;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7330,indent: 1,parent: 7323,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7331,indent: 1,parent: 7323,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "3.50",potSizeToWin: "1.50",amountToPot: "233",
+},
+{
+id: 7332,indent: 1,parent: 7323,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.00",amountToPot: "0",
+},
+{
+id: 7333,indent: 1,parent: 7323,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.00",amountToPot: "0",
+},
+{
+id: 7334,indent: 0,parent: null,handNum: "486",numPlayers: "3",numAllIns: "0",finalStep: "River",winner: "Chris Moy",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7335,indent: 1,parent: 7334,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7336,indent: 1,parent: 7334,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7337,indent: 1,parent: 7334,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7338,indent: 1,parent: 7334,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 7339,indent: 1,parent: 7334,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7340,indent: 1,parent: 7334,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&diams;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7341,indent: 1,parent: 7334,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7342,indent: 1,parent: 7334,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "9<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7343,indent: 1,parent: 7334,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7344,indent: 1,parent: 7334,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7345,indent: 1,parent: 7334,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "1.00",amountToPot: "100",
+},
+{
+id: 7346,indent: 1,parent: 7334,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 7347,indent: 0,parent: null,handNum: "487",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "0.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7348,indent: 1,parent: 7347,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7349,indent: 1,parent: 7347,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7350,indent: 1,parent: 7347,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7351,indent: 1,parent: 7347,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7352,indent: 0,parent: null,handNum: "488",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Alex W",won: "0.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7353,indent: 1,parent: 7352,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7354,indent: 1,parent: 7352,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7355,indent: 1,parent: 7352,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7356,indent: 1,parent: 7352,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7357,indent: 0,parent: null,handNum: "489",numPlayers: "3",numAllIns: "0",finalStep: "Turn",winner: "Chris Moy",won: "7.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7358,indent: 1,parent: 7357,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7359,indent: 1,parent: 7357,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7360,indent: 1,parent: 7357,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7361,indent: 1,parent: 7357,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",
+},
+{
+id: 7362,indent: 1,parent: 7357,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",
+},
+{
+id: 7363,indent: 1,parent: 7357,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "8<span style = 'font-size:125%; color: blue; '>&spades;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 3<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 7364,indent: 1,parent: 7357,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "2.25",potSizeToWin: "3.00",amountToPot: "75",
+},
+{
+id: 7365,indent: 1,parent: 7357,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "2.25",potSizeToWin: "5.25",amountToPot: "42",
+},
+{
+id: 7366,indent: 1,parent: 7357,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "7.50",amountToPot: "0",
+},
+{
+id: 7367,indent: 1,parent: 7357,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "5.62",potSizeToWin: "7.50",amountToPot: "74",
+},
+{
+id: 7368,indent: 1,parent: 7357,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "13.12",amountToPot: "0",
+},
+{
+id: 7369,indent: 0,parent: null,handNum: "490",numPlayers: "3",numAllIns: "1",finalStep: "River",winner: "Kai",won: "68.81",finalHand: "Flush, Ac High",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7370,indent: 1,parent: 7369,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7371,indent: 1,parent: 7369,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7372,indent: 1,parent: 7369,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "8<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 7373,indent: 1,parent: 7369,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 7374,indent: 1,parent: 7369,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 7375,indent: 1,parent: 7369,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 7376,indent: 1,parent: 7369,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.25",amountToPot: "0",
+},
+{
+id: 7377,indent: 1,parent: 7369,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "K<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "1.25",potSizeToWin: "1.25",amountToPot: "100",
+},
+{
+id: 7378,indent: 1,parent: 7369,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.25",potSizeToWin: "2.50",amountToPot: "50",
+},
+{
+id: 7379,indent: 1,parent: 7369,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "4.92",potSizeToWin: "3.75",amountToPot: "131",
+},
+{
+id: 7380,indent: 1,parent: 7369,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Raise",amount: "9.84",potSizeToWin: "8.67",amountToPot: "113",
+},
+{
+id: 7381,indent: 1,parent: 7369,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "ReraiseAllIn",amount: "27.61",potSizeToWin: "18.51",amountToPot: "149",
+},
+{
+id: 7382,indent: 1,parent: 7369,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "22.69",potSizeToWin: "46.12",amountToPot: "49",
+},
+{
+id: 7383,indent: 0,parent: null,handNum: "491",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Alex W",won: "1.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7384,indent: 1,parent: 7383,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7385,indent: 1,parent: 7383,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "6<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7386,indent: 1,parent: 7383,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 7387,indent: 1,parent: 7383,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 7388,indent: 1,parent: 7383,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Raise",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 7389,indent: 1,parent: 7383,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 7390,indent: 1,parent: 7383,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 7391,indent: 0,parent: null,handNum: "492",numPlayers: "3",numAllIns: "0",finalStep: "River",winner: "Chris Moy",won: "22.45",finalHand: "Pair, A's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7392,indent: 1,parent: 7391,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "Kai",won: "22.44",finalHand: "Pair, A's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7393,indent: 1,parent: 7391,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7394,indent: 1,parent: 7391,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "J<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7395,indent: 1,parent: 7391,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 7396,indent: 1,parent: 7391,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 7397,indent: 1,parent: 7391,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.25",potSizeToWin: "2.50",amountToPot: "50",
+},
+{
+id: 7398,indent: 1,parent: 7391,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 7399,indent: 1,parent: 7391,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "1.87",potSizeToWin: "3.75",amountToPot: "49",
+},
+{
+id: 7400,indent: 1,parent: 7391,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "CheckRaise",amount: "3.74",potSizeToWin: "5.62",amountToPot: "66",
+},
+{
+id: 7401,indent: 1,parent: 7391,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.87",potSizeToWin: "9.36",amountToPot: "19",
+},
+{
+id: 7402,indent: 1,parent: 7391,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "5.61",potSizeToWin: "11.23",amountToPot: "49",
+},
+{
+id: 7403,indent: 1,parent: 7391,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "5.61",potSizeToWin: "16.84",amountToPot: "33",
+},
+{
+id: 7404,indent: 1,parent: 7391,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "10<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "11.22",potSizeToWin: "22.45",amountToPot: "49",
+},
+{
+id: 7405,indent: 1,parent: 7391,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "11.22",potSizeToWin: "33.67",amountToPot: "33",
+},
+{
+id: 7406,indent: 0,parent: null,handNum: "493",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "1.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7407,indent: 1,parent: 7406,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7408,indent: 1,parent: 7406,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7409,indent: 1,parent: 7406,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 7410,indent: 1,parent: 7406,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 7411,indent: 1,parent: 7406,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.50",potSizeToWin: "1.50",amountToPot: "100",
+},
+{
+id: 7412,indent: 1,parent: 7406,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 7413,indent: 1,parent: 7406,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 7414,indent: 0,parent: null,handNum: "494",numPlayers: "3",numAllIns: "0",finalStep: "River",winner: "Kai",won: "11.24",finalHand: "Full House, 10's over A's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7415,indent: 1,parent: 7414,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "10<span style = 'font-size:125%; color: blue; '>&spades;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7416,indent: 1,parent: 7414,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7417,indent: 1,parent: 7414,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "5<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "Call",amount: "0.50",potSizeToWin: "0.75",amountToPot: "66",
+},
+{
+id: 7418,indent: 1,parent: 7414,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "1.25",amountToPot: "20",
+},
+{
+id: 7419,indent: 1,parent: 7414,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7420,indent: 1,parent: 7414,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "10<span style = 'font-size:125%; color: blue; '>&diams;</span>, 10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7421,indent: 1,parent: 7414,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7422,indent: 1,parent: 7414,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7423,indent: 1,parent: 7414,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "0.50",potSizeToWin: "1.50",amountToPot: "33",
+},
+{
+id: 7424,indent: 1,parent: 7414,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 7425,indent: 1,parent: 7414,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "1.50",potSizeToWin: "2.00",amountToPot: "75",
+},
+{
+id: 7426,indent: 1,parent: 7414,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "3.50",amountToPot: "28",
+},
+{
+id: 7427,indent: 1,parent: 7414,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "A<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 7428,indent: 1,parent: 7414,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "3.37",potSizeToWin: "4.50",amountToPot: "74",
+},
+{
+id: 7429,indent: 1,parent: 7414,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "3.37",potSizeToWin: "7.87",amountToPot: "42",
+},
+{
+id: 7430,indent: 0,parent: null,handNum: "495",numPlayers: "3",numAllIns: "0",finalStep: "Turn",winner: "Chris Moy",won: "3.75",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7431,indent: 1,parent: 7430,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7432,indent: 1,parent: 7430,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "A<span style = 'font-size:125%; color: blue; '>&hearts;</span>, K<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7433,indent: 1,parent: 7430,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "A<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 7434,indent: 1,parent: 7430,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 7435,indent: 1,parent: 7430,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.25",potSizeToWin: "2.50",amountToPot: "50",
+},
+{
+id: 7436,indent: 1,parent: 7430,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "6<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 3<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 7437,indent: 1,parent: 7430,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.75",amountToPot: "0",
+},
+{
+id: 7438,indent: 1,parent: 7430,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "5<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "2.81",potSizeToWin: "3.75",amountToPot: "74",
+},
+{
+id: 7439,indent: 1,parent: 7430,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.56",amountToPot: "0",
+},
+{
+id: 7440,indent: 0,parent: null,handNum: "496",numPlayers: "3",numAllIns: "0",finalStep: "River",winner: "Chris Moy",won: "0.50",finalHand: "Two Pair, K's & Q's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7441,indent: 1,parent: 7440,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "Kai",won: "0.50",finalHand: "Two Pair, K's & Q's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7442,indent: 1,parent: 7440,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7443,indent: 1,parent: 7440,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7444,indent: 1,parent: 7440,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7445,indent: 1,parent: 7440,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 7446,indent: 1,parent: 7440,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7447,indent: 1,parent: 7440,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, J<span style = 'font-size:125%; color: blue; '>&spades;</span>, K<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7448,indent: 1,parent: 7440,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7449,indent: 1,parent: 7440,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7450,indent: 1,parent: 7440,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7451,indent: 1,parent: 7440,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "K<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7452,indent: 1,parent: 7440,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7453,indent: 0,parent: null,handNum: "497",numPlayers: "3",numAllIns: "0",finalStep: "Turn",winner: "Chris Moy",won: "28.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7454,indent: 1,parent: 7453,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7455,indent: 1,parent: 7453,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7456,indent: 1,parent: 7453,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "2<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",
+},
+{
+id: 7457,indent: 1,parent: 7453,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.75",potSizeToWin: "2.75",amountToPot: "63",
+},
+{
+id: 7458,indent: 1,parent: 7453,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 7459,indent: 1,parent: 7453,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "10<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.50",amountToPot: "0",
+},
+{
+id: 7460,indent: 1,parent: 7453,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "4.50",potSizeToWin: "4.50",amountToPot: "100",
+},
+{
+id: 7461,indent: 1,parent: 7453,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "CheckRaise",amount: "12.00",potSizeToWin: "9.00",amountToPot: "133",
+},
+{
+id: 7462,indent: 1,parent: 7453,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "7.50",potSizeToWin: "21.00",amountToPot: "35",
+},
+{
+id: 7463,indent: 1,parent: 7453,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "10<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "28.50",amountToPot: "0",
+},
+{
+id: 7464,indent: 1,parent: 7453,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Bet",amount: "14.25",potSizeToWin: "28.50",amountToPot: "50",
+},
+{
+id: 7465,indent: 1,parent: 7453,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "42.75",amountToPot: "0",
+},
+{
+id: 7466,indent: 0,parent: null,handNum: "498",numPlayers: "3",numAllIns: "0",finalStep: "Turn",winner: "Kai",won: "9.37",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7467,indent: 1,parent: 7466,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7468,indent: 1,parent: 7466,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7469,indent: 1,parent: 7466,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 7470,indent: 1,parent: 7466,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 7471,indent: 1,parent: 7466,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Call",amount: "1.25",potSizeToWin: "2.50",amountToPot: "50",
+},
+{
+id: 7472,indent: 1,parent: 7466,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "2.81",potSizeToWin: "3.75",amountToPot: "74",
+},
+{
+id: 7473,indent: 1,parent: 7466,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "2.81",potSizeToWin: "6.56",amountToPot: "42",
+},
+{
+id: 7474,indent: 1,parent: 7466,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Chris Moy",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "9.37",amountToPot: "0",
+},
+{
+id: 7475,indent: 1,parent: 7466,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "4.68",potSizeToWin: "9.37",amountToPot: "49",
+},
+{
+id: 7476,indent: 1,parent: 7466,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "14.05",amountToPot: "0",
+},
+{
+id: 7477,indent: 0,parent: null,handNum: "499",numPlayers: "3",numAllIns: "0",finalStep: "Flop",winner: "Chris Moy",won: "3.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7478,indent: 1,parent: 7477,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7479,indent: 1,parent: 7477,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7480,indent: 1,parent: 7477,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7481,indent: 1,parent: 7477,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",
+},
+{
+id: 7482,indent: 1,parent: 7477,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",
+},
+{
+id: 7483,indent: 1,parent: 7477,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Chris Moy",holeCards: "",action: "Bet",amount: "2.25",potSizeToWin: "3.00",amountToPot: "75",
+},
+{
+id: 7484,indent: 1,parent: 7477,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.25",amountToPot: "0",
+},
+{
+id: 7485,indent: 0,parent: null,handNum: "500",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "4.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7486,indent: 1,parent: 7485,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7487,indent: 1,parent: 7485,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7488,indent: 1,parent: 7485,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",
+},
+{
+id: 7489,indent: 1,parent: 7485,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Reraise",amount: "5.75",potSizeToWin: "2.75",amountToPot: "209",
+},
+{
+id: 7490,indent: 1,parent: 7485,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "8.50",amountToPot: "0",
+},
+{
+id: 7491,indent: 1,parent: 7485,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "8.50",amountToPot: "0",
+},
+{
+id: 7492,indent: 0,parent: null,handNum: "501",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Chris Moy",won: "0.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7493,indent: 1,parent: 7492,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7494,indent: 1,parent: 7492,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7495,indent: 1,parent: 7492,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7496,indent: 1,parent: 7492,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7497,indent: 0,parent: null,handNum: "502",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Chris Moy",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7498,indent: 1,parent: 7497,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7499,indent: 1,parent: 7497,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7500,indent: 1,parent: 7497,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7501,indent: 1,parent: 7497,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 7502,indent: 1,parent: 7497,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.50",amountToPot: "0",
+},
+{
+id: 7503,indent: 0,parent: null,handNum: "503",numPlayers: "3",numAllIns: "0",finalStep: "Preflop",winner: "Chris Moy",won: "1.25",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7504,indent: 1,parent: 7503,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7505,indent: 1,parent: 7503,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7506,indent: 1,parent: 7503,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Raise",amount: "2.00",potSizeToWin: "0.75",amountToPot: "266",
+},
+{
+id: 7507,indent: 1,parent: 7503,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 7508,indent: 1,parent: 7503,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.75",amountToPot: "0",
+},
+{
+id: 7509,indent: 0,parent: null,handNum: "504",numPlayers: "3",numAllIns: "0",finalStep: "River",winner: "Alex W",won: "13.00",finalHand: "Two Pair, K's & Q's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7510,indent: 1,parent: 7509,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "K<span style = 'font-size:125%; color: blue; '>&spades;</span>, J<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7511,indent: 1,parent: 7509,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7512,indent: 1,parent: 7509,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 7513,indent: 1,parent: 7509,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Reraise",amount: "2.75",potSizeToWin: "2.50",amountToPot: "110",
+},
+{
+id: 7514,indent: 1,parent: 7509,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Chris Moy",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "5.25",amountToPot: "0",
+},
+{
+id: 7515,indent: 1,parent: 7509,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.25",potSizeToWin: "5.25",amountToPot: "23",
+},
+{
+id: 7516,indent: 1,parent: 7509,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&hearts;</span>, Q<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "6.50",amountToPot: "0",
+},
+{
+id: 7517,indent: 1,parent: 7509,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "3.25",potSizeToWin: "6.50",amountToPot: "50",
+},
+{
+id: 7518,indent: 1,parent: 7509,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "3.25",potSizeToWin: "9.75",amountToPot: "33",
+},
+{
+id: 7519,indent: 1,parent: 7509,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "3<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "13.00",amountToPot: "0",
+},
+{
+id: 7520,indent: 1,parent: 7509,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "13.00",amountToPot: "0",
+},
+{
+id: 7521,indent: 1,parent: 7509,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "13.00",amountToPot: "0",
+},
+{
+id: 7522,indent: 1,parent: 7509,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "13.00",amountToPot: "0",
+},
+{
+id: 7523,indent: 0,parent: null,handNum: "505",numPlayers: "2",numAllIns: "0",finalStep: "River",winner: "Kai",won: "18.00",finalHand: "Full House, 2's over A's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7524,indent: 1,parent: 7523,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "9<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7525,indent: 1,parent: 7523,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "2<span style = 'font-size:125%; color: blue; '>&diams;</span>, 2<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7526,indent: 1,parent: 7523,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 7527,indent: 1,parent: 7523,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "2.50",amountToPot: "60",
+},
+{
+id: 7528,indent: 1,parent: 7523,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 7529,indent: 1,parent: 7523,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 7530,indent: 1,parent: 7523,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "4.00",amountToPot: "25",
+},
+{
+id: 7531,indent: 1,parent: 7523,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "5.00",amountToPot: "20",
+},
+{
+id: 7532,indent: 1,parent: 7523,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "8<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "6.00",potSizeToWin: "6.00",amountToPot: "100",
+},
+{
+id: 7533,indent: 1,parent: 7523,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "6.00",potSizeToWin: "12.00",amountToPot: "50",
+},
+{
+id: 7534,indent: 0,parent: null,handNum: "506",numPlayers: "2",numAllIns: "0",finalStep: "Flop",winner: "Kai",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7535,indent: 1,parent: 7534,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7536,indent: 1,parent: 7534,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7537,indent: 1,parent: 7534,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 7538,indent: 1,parent: 7534,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7539,indent: 1,parent: 7534,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "9<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7540,indent: 1,parent: 7534,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "1.00",amountToPot: "100",
+},
+{
+id: 7541,indent: 1,parent: 7534,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "2.00",amountToPot: "0",
+},
+{
+id: 7542,indent: 0,parent: null,handNum: "507",numPlayers: "2",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "0.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7543,indent: 1,parent: 7542,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7544,indent: 1,parent: 7542,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "3<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7545,indent: 1,parent: 7542,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7546,indent: 0,parent: null,handNum: "508",numPlayers: "2",numAllIns: "0",finalStep: "River",winner: "Kai",won: "27.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7547,indent: 1,parent: 7546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "7<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 2<span style = 'font-size:125%; color: blue; '>&hearts;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7548,indent: 1,parent: 7546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7549,indent: 1,parent: 7546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.25",potSizeToWin: "0.75",amountToPot: "166",
+},
+{
+id: 7550,indent: 1,parent: 7546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",
+},
+{
+id: 7551,indent: 1,parent: 7546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "Q<span style = 'font-size:125%; color: blue; '>&diams;</span>, 9<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 7552,indent: 1,parent: 7546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "3.00",potSizeToWin: "3.00",amountToPot: "100",
+},
+{
+id: 7553,indent: 1,parent: 7546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "3.00",potSizeToWin: "6.00",amountToPot: "50",
+},
+{
+id: 7554,indent: 1,parent: 7546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "9.00",amountToPot: "0",
+},
+{
+id: 7555,indent: 1,parent: 7546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "9.00",amountToPot: "0",
+},
+{
+id: 7556,indent: 1,parent: 7546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "7<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Alex W",holeCards: "",action: "Bet",amount: "9.00",potSizeToWin: "9.00",amountToPot: "100",
+},
+{
+id: 7557,indent: 1,parent: 7546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "39.28",potSizeToWin: "18.00",amountToPot: "218",
+},
+{
+id: 7558,indent: 1,parent: 7546,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "57.28",amountToPot: "0",
+},
+{
+id: 7559,indent: 0,parent: null,handNum: "509",numPlayers: "2",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "0.50",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7560,indent: 1,parent: 7559,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7561,indent: 1,parent: 7559,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7562,indent: 1,parent: 7559,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "0.75",amountToPot: "0",
+},
+{
+id: 7563,indent: 0,parent: null,handNum: "510",numPlayers: "2",numAllIns: "0",finalStep: "Flop",winner: "Kai",won: "3.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7564,indent: 1,parent: 7563,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "7<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&spades;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7565,indent: 1,parent: 7563,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7566,indent: 1,parent: 7563,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 7567,indent: 1,parent: 7563,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7568,indent: 1,parent: 7563,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>",player: "Alex W",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "1.00",amountToPot: "100",
+},
+{
+id: 7569,indent: 1,parent: 7563,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "4.00",potSizeToWin: "2.00",amountToPot: "200",
+},
+{
+id: 7570,indent: 1,parent: 7563,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 7571,indent: 0,parent: null,handNum: "511",numPlayers: "2",numAllIns: "0",finalStep: "Preflop",winner: "Kai",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7572,indent: 1,parent: 7571,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7573,indent: 1,parent: 7571,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7574,indent: 1,parent: 7571,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 7575,indent: 1,parent: 7571,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "0.50",potSizeToWin: "1.00",amountToPot: "50",
+},
+{
+id: 7576,indent: 1,parent: 7571,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
+},
+{
+id: 7577,indent: 0,parent: null,handNum: "512",numPlayers: "2",numAllIns: "0",finalStep: "Flop",winner: "Alex W",won: "2.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7578,indent: 1,parent: 7577,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7579,indent: 1,parent: 7577,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7580,indent: 1,parent: 7577,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "0.75",potSizeToWin: "0.75",amountToPot: "100",
+},
+{
+id: 7581,indent: 1,parent: 7577,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.50",potSizeToWin: "1.50",amountToPot: "33",
+},
+{
+id: 7582,indent: 1,parent: 7577,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "6<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>, A<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Bet",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",
+},
+{
+id: 7583,indent: 1,parent: 7577,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "3.00",amountToPot: "0",
+},
+{
+id: 7584,indent: 0,parent: null,handNum: "513",numPlayers: "2",numAllIns: "0",finalStep: "River",winner: "Kai",won: "4.00",finalHand: "Pair, 8's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7585,indent: 1,parent: 7584,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "J<span style = 'font-size:125%; color: blue; '>&clubs;</span>, Q<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7586,indent: 1,parent: 7584,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "10<span style = 'font-size:125%; color: blue; '>&spades;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7587,indent: 1,parent: 7584,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Raise",amount: "1.75",potSizeToWin: "0.75",amountToPot: "233",
+},
+{
+id: 7588,indent: 1,parent: 7584,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "1.50",potSizeToWin: "2.50",amountToPot: "60",
+},
+{
+id: 7589,indent: 1,parent: 7584,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "8<span style = 'font-size:125%; color: blue; '>&diams;</span>, K<span style = 'font-size:125%; color: blue; '>&hearts;</span>, 4<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 7590,indent: 1,parent: 7584,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 7591,indent: 1,parent: 7584,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "5<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 7592,indent: 1,parent: 7584,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 7593,indent: 1,parent: 7584,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "8<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 7594,indent: 1,parent: 7584,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "4.00",amountToPot: "0",
+},
+{
+id: 7595,indent: 0,parent: null,handNum: "514",numPlayers: "2",numAllIns: "0",finalStep: "River",winner: "Kai",won: "1.00",finalHand: "Pair, 10's",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7596,indent: 1,parent: 7595,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "Q<span style = 'font-size:125%; color: blue; '>&spades;</span>, 5<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7597,indent: 1,parent: 7595,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7598,indent: 1,parent: 7595,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 7599,indent: 1,parent: 7595,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7600,indent: 1,parent: 7595,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "10<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 8<span style = 'font-size:125%; color: blue; '>&diams;</span>, A<span style = 'font-size:125%; color: blue; '>&clubs;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7601,indent: 1,parent: 7595,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7602,indent: 1,parent: 7595,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "10<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7603,indent: 1,parent: 7595,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Turn",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7604,indent: 1,parent: 7595,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "3<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7605,indent: 1,parent: 7595,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "River",boardCards: "",player: "Kai",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7606,indent: 0,parent: null,handNum: "515",numPlayers: "2",numAllIns: "0",finalStep: "Flop",winner: "Kai",won: "3.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7607,indent: 1,parent: 7606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7608,indent: 1,parent: 7606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "8<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 7<span style = 'font-size:125%; color: blue; '>&clubs;</span>",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7609,indent: 1,parent: 7606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 7610,indent: 1,parent: 7606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Raise",amount: "1.00",potSizeToWin: "1.00",amountToPot: "100",
+},
+{
+id: 7611,indent: 1,parent: 7606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Call",amount: "1.00",potSizeToWin: "2.00",amountToPot: "50",
+},
+{
+id: 7612,indent: 1,parent: 7606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "2<span style = 'font-size:125%; color: blue; '>&clubs;</span>, 5<span style = 'font-size:125%; color: blue; '>&spades;</span>, 2<span style = 'font-size:125%; color: blue; '>&diams;</span>",player: "Kai",holeCards: "",action: "Bet",amount: "3.00",potSizeToWin: "3.00",amountToPot: "100",
+},
+{
+id: 7613,indent: 1,parent: 7606,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "6.00",amountToPot: "0",
+},
+{
+id: 7614,indent: 0,parent: null,handNum: "516",numPlayers: "2",numAllIns: "0",finalStep: "Flop",winner: "Kai",won: "1.00",finalHand: "",step: "",boardCards: "",player: "",holeCards: "",action: "",amount: "",potSizeToWin: "",amountToPot: "",
+},
+{
+id: 7615,indent: 1,parent: 7614,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "SmallBlind",amount: "0.25",potSizeToWin: "0.00",amountToPot: "",
+},
+{
+id: 7616,indent: 1,parent: 7614,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "BigBlind",amount: "0.50",potSizeToWin: "0.25",amountToPot: "",
+},
+{
+id: 7617,indent: 1,parent: 7614,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Kai",holeCards: "",action: "Call",amount: "0.25",potSizeToWin: "0.75",amountToPot: "33",
+},
+{
+id: 7618,indent: 1,parent: 7614,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Preflop",boardCards: "",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7619,indent: 1,parent: 7614,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "4<span style = 'font-size:125%; color: blue; '>&spades;</span>, 10<span style = 'font-size:125%; color: blue; '>&spades;</span>, 6<span style = 'font-size:125%; color: blue; '>&hearts;</span>",player: "Alex W",holeCards: "",action: "Check",amount: "0.00",potSizeToWin: "1.00",amountToPot: "0",
+},
+{
+id: 7620,indent: 1,parent: 7614,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Kai",holeCards: "",action: "Bet",amount: "0.50",potSizeToWin: "1.00",amountToPot: "50",
+},
+{
+id: 7621,indent: 1,parent: 7614,handNum: "",numPlayers: "",numAllIns: "",finalStep: "",winner: "",won: "",finalHand: "",step: "Flop",boardCards: "",player: "Alex W",holeCards: "",action: "Fold",amount: "0.00",potSizeToWin: "1.50",amountToPot: "0",
 },
 ];
