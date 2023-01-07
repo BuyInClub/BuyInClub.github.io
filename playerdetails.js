@@ -392,7 +392,7 @@ var columns = [
   {id: "holeCards", name: "Hole Cards", field: "holeCards", formatter: HtmlFormatter},
   { id: "holeCardsTier", name: "HC Tier", field: "holeCardsTier", width: 50, formatter: cellFound, toolTip: "Hole Card Tier from https://en.wikipedia.org/wiki/Texas_hold_%27em_starting_hands#Statistics_based_on_real_online_play" },
   {id: "step", name: "Step", field: "step", formatter: cellFound},
-  {id: "boardCards", name: "Board Cards", field: "boardCards", minWidth: 120, formatter: HtmlFormatter},
+  {id: "boardCards", name: "Board Cards", field: "boardCards", minWidth: 140, formatter: HtmlFormatter},
   {id: "action", name: "Action", field: "action", formatter: cellFound},
   {id: "amount", name: "Amount", field: "amount", formatter: cellFound},
   {id: "potSizeToWin", name: "Pot Size", field: "potSizeToWin"},

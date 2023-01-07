@@ -329,7 +329,7 @@ var columns = [
   {id: "won", name: "Won", field: "won", formatter: cellFound},
   {id: "finalHand", name: "Final Hand", field: "finalHand", width:140},
   { id: "step", name: "Step", field: "step", width: 80, formatter: cellFound},
-  {id: "boardCards", name: "Board Cards", field: "boardCards", formatter: HtmlFormatter},
+  { id: "boardCards", name: "Board Cards", field: "boardCards", formatter: HtmlFormatter, width: 100 },
   //{id: "player", name: "Player", field: "player", formatter: cellFound },
   {id: "player", name: "Player", field: "player", formatter: addLinkToPlayer},
   {id: "holeCards", name: "Hole Cards", field: "holeCards", formatter: HtmlFormatter},
