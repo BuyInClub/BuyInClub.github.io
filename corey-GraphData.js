@@ -12,5 +12,5 @@ var Agg = [
 ]
 var wonLost = [
 { label: "Mar 14th 2023", y: -60.0},
-{ label: "Mar 21st 2023", y: 3},
+{ label: "Mar 21st 2023", y: 3.0},
 ]
