@@ -458,7 +458,9 @@ $(function () {
   dataView.setItems(data);
   dataView.setFilter(myFilter);
   dataView.endUpdate();
-  grid.scrollRowIntoView(gotoHand()-1);     
+  //grid.scrollRowIntoView(gotoHand() - 1); 
+    setTimeout(() => grid.scrollRowToTop(gotoHand()), 0);
+
 
   grid.onCellChange.subscribe(function (e, args) {
     dataView.updateItem(args.item.id, args.item);
