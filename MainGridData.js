@@ -1,5 +1,5 @@
-﻿var titlePla = "Player Totals: Aug 3rd 2023";
-var titleTab = "Player by Table: Aug 3rd 2023";
+﻿var titlePla = "Player Totals: Aug 4th 2023";
+var titleTab = "Player by Table: Aug 4th 2023";
 var dataPla = [
 {
 player: "Alex W",wonLost: 117.76,numHands: 303,numWins: 56,numFoldedWH: 0,numUncalledWins: 40,pctUncalledWins: 71,showedHoleCards: 5,VPIP: 59,PFR: 11,VPIPPFR: 18,AggFact: 35,StdDev: 0,
