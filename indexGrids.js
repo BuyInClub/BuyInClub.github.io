@@ -113,7 +113,7 @@ var columnsSess = [
 //  {id: "totalMoney", name: "Total Money", field: "totalMoney", sortable: true, minWidth:42},
   {id: "numHands", name: "# Hands", field: "numHands", sortable: true, minWidth:42},
   {id: "numTables", name: "# Tables", field: "numTables", sortable: true, minWidth:42},
-  { id: "numHundredPlusHands", name: "# of $100+ Hands", field: "numHundredPlusHands", sortable: true, minWidth: 42 },
+    { id: "numBigPots", name: "Big Pots", field: "numBigPots", toolTip: "Number of pots that exceeded 200 big blinds", sortable: true, minWidth: 42 },
   { id: "stdDev", name: "Avg StdDev", field: "stdDev", sortable: true, toolTip: "Average Standard Deviation for each player won/lost per hand", minWidth: 42 },
     { id: "numWretchedHands", name: "# of WHs", field: "numWretchedHands", sortable: true, toolTip: "Number of wretched hands", minWidth: 42 },
     { id: "minPlayed", name: "Minutes", field: "minPlayed", sortable: true, toolTip: "total minutes", minWidth: 42 },
