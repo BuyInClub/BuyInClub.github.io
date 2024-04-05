@@ -1,0 +1,101 @@
+
+<!DOCTYPE HTML>
+<html>
+<head>
+
+<script type="text/javascript" src="sudburyjay-GraphData.js"></script>
+<link href="rebuystyles.css" rel="stylesheet" type="text/css">
+
+
+
+<script>
+window.onload = function () {
+	var chart = new CanvasJS.Chart("chartContainer", {
+    axisX:{
+        labelAngle: 45
+    },        
+	axisY:[
+	{
+		title: "Statistics",
+        includeZero: true,
+		lineColor: "DarkRed",
+		tickColor: "DarkRed",
+		labelFontColor: "DarkRed",
+		titleFontColor: "DarkRed",
+        suffix: "%"        
+	}],
+	axisY2: {
+		title: "Won/Lost",
+        includeZero: true,
+		lineColor: "DarkGreen",
+		tickColor: "DarkGreen",
+		labelFontColor: "DarkGreen",
+		titleFontColor: "DarkGreen",        
+		prefix: "$",
+	},
+	toolTip: {
+		shared: true
+	},
+	legend: {
+		cursor: "pointer",
+		itemclick: toggleDataSeries
+	},
+	data: [
+	{
+		type: "line",
+        name: "PFR",
+        color: "DarkRed",    
+        markerType: "square",
+		axisYIndex: 0,
+		showInLegend: true,
+	},
+	{
+		type: "line",
+        name: "VPIP",
+        color: "DarkRed",    
+        markerType: "triangle",
+		axisYIndex: 0,
+		showInLegend: true,
+	},
+	{
+		type: "line",
+        name: "Agg Factor",
+        color: "DarkRed",    
+        markerType: "circle",
+		axisYIndex: 0,
+		showInLegend: true,
+	},
+	{
+		type: "line",
+        name: "Won/Lost",
+		color: "DarkGreen",                
+		axisYType: "secondary",
+		showInLegend: true,
+	}]
+});
+chart.options.data[0].dataPoints = PFR;
+chart.options.data[1].dataPoints = VPIP;
+chart.options.data[2].dataPoints = Agg;
+chart.options.data[3].dataPoints = wonLost;
+chart.render();
+
+function toggleDataSeries(e) {
+	if (typeof (e.dataSeries.visible) === "undefined" || e.dataSeries.visible) {
+		e.dataSeries.visible = false;
+	} else {
+		e.dataSeries.visible = true;
+	}
+	e.chart.render();
+}
+
+}
+</script>
+</head>
+<body>
+    <div class="grid-header" style="width:100%;">
+        <label id="titleTab" style="font-size: 16px;">sudburyjay Statistics across Sessions</label>
+    </div>
+    <div id="chartContainer" style="height: 370px; width: 100%;"></div>
+<script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+</body>
+</html>

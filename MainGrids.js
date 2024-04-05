@@ -316,22 +316,22 @@ var columnsFF = [
     { id: "preflopPercentSeen", name: "% seen", field: "preflopPercentSeen", sortable: true, width: 65, columnGroup: "Preflop" },
     { id: "preflopPercentFolded", name: "% folded", field: "preflopPercentFolded", sortable: true, width: 65, columnGroup: "Preflop" },
     { id: "preflopPercentWon", name: "% won", field: "preflopPercentWon", sortable: true, width: 65, columnGroup: "Preflop" },
-    { id: "preflopAmountWonPerHand", name: "amount", field: "preflopAmountWonPerHand", sortable: true, width: 65, columnGroup: "Preflop" },
+    { id: "preflopAmountWonPerHand", name: "BB amt", field: "preflopAmountWonPerHand", sortable: true, width: 65, columnGroup: "Preflop" },
 
     { id: "flopPercentSeen", name: "% seen", field: "flopPercentSeen", sortable: true, width: 65, columnGroup: "Flop" },
     { id: "flopPercentFolded", name: "% folded", field: "flopPercentFolded", sortable: true, width: 65, columnGroup: "Flop" },
     { id: "flopPercentWon", name: "% won", field: "flopPercentWon", sortable: true, width: 65, columnGroup: "Flop" },
-    { id: "flopAmountWonPerHand", name: "amount", field: "flopAmountWonPerHand", sortable: true, width: 65, columnGroup: "Flop" },
+    { id: "flopAmountWonPerHand", name: "BB amt", field: "flopAmountWonPerHand", sortable: true, width: 65, columnGroup: "Flop" },
 
     { id: "turnPercentSeen", name: "% seen", field: "turnPercentSeen", sortable: true, width: 65, columnGroup: "Turn" },
     { id: "turnPercentFolded", name: "% folded", field: "turnPercentFolded", sortable: true, width: 65, columnGroup: "Turn" },
     { id: "turnPercentWon", name: "% won", field: "turnPercentWon", sortable: true, width: 65, columnGroup: "Turn" },
-    { id: "turnAmountWonPerHand", name: "amount", field: "turnAmountWonPerHand", sortable: true, width: 65, columnGroup: "Turn" },
+    { id: "turnAmountWonPerHand", name: "BB amt", field: "turnAmountWonPerHand", sortable: true, width: 65, columnGroup: "Turn" },
 
     { id: "riverPercentSeen", name: "% seen", field: "riverPercentSeen", sortable: true, width: 65, columnGroup: "River" },
     { id: "riverPercentFolded", name: "% folded", field: "riverPercentFolded", sortable: true, width: 65, columnGroup: "River" },
     { id: "riverPercentWon", name: "% won", field: "riverPercentWon", sortable: true, width: 65, columnGroup: "River" },
-    { id: "riverAmountWonPerHand", name: "amount", field: "riverAmountWonPerHand", sortable: true, width: 65, columnGroup: "River" },
+    { id: "riverAmountWonPerHand", name: "BB amt", field: "riverAmountWonPerHand", sortable: true, width: 65, columnGroup: "River" },
 ];
 
 $(function () {

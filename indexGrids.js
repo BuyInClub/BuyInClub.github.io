@@ -102,12 +102,15 @@ var gridSess;
 var columnsSess = [
   {id: "sessionName", name: "Name", field: "sessionName", sortable: true, width:120, formatter: addLinkToMain},
   {id: "numPlayers", name: "# Players", field: "numPlayers", sortable: true, minWidth:42},
-  {id: "bigWinner", name: "Big Winner", field: "bigWinner", sortable: true},
-  {id: "winnerAmount", name: "Amount", field: "winnerAmount", sortable: true, minWidth:42},
-  { id: "winnerAmountPercentOfMoney", name: "% of Total $", field: "winnerAmountPercentOfMoney", sortable: true, minWidth: 42 },
+  {id: "bigWinner", name: "Amt Winner", field: "bigWinner", sortable: true},
+  { id: "winnerAmount", name: "Amount", field: "winnerAmount", sortable: true, minWidth: 42 },
+  { id: "bigWinnerBB", name: "BB Winner", field: "bigWinnerBB", sortable: true },
+  { id: "winnerAmountBB", name: "BB Amount", field: "winnerAmountBB", sortable: true, minWidth: 42 },
+
+//  { id: "winnerAmountPercentOfMoney", name: "% of Total $", field: "winnerAmountPercentOfMoney", sortable: true, minWidth: 42 },
 //  {id: "bigLoser", name: "Big Loser", field: "bigLoser", sortable: true, minWidth:42},
 //  {id: "loserAmount", name: "Big Loss Amount", field: "loserAmount", sortable: true, minWidth:42},
-  {id: "totalMoney", name: "Total Money", field: "totalMoney", sortable: true, minWidth:42},
+//  {id: "totalMoney", name: "Total Money", field: "totalMoney", sortable: true, minWidth:42},
   {id: "numHands", name: "# Hands", field: "numHands", sortable: true, minWidth:42},
   {id: "numTables", name: "# Tables", field: "numTables", sortable: true, minWidth:42},
   { id: "numHundredPlusHands", name: "# of $100+ Hands", field: "numHundredPlusHands", sortable: true, minWidth: 42 },
@@ -145,7 +148,9 @@ gridSess.onSort.subscribe(function (e, args) {
 var gridPla;
 var columnsPla = [
   {id: "player", name: "Player", field: "player", formatter: addLinkToPlayer, sortable: true, minWidth:50},
-  {id: "numBigWinner", name: "Big Winner", field: "numBigWinner", sortable: true, toolTip: "# of times big winner for a session", minWidth:42},
+    { id: "numBigWinner", name: "Amt Winner", field: "numBigWinner", sortable: true, toolTip: "# of times amount big winner for a session", minWidth: 42 },
+    { id: "numBigWinnerBB", name: "BB Winner", field: "numBigWinnerBB", sortable: true, toolTip: "# of times BB big winner for a session", minWidth: 42 },
+
   {id: "numSessions", name: "# Sessions", field: "numSessions", sortable: true, minWidth:42},
   {id: "numHands", name: "# Hands", field: "numHands", sortable: true, minWidth: 42 },
   {id: "luckScore", name: "Lucky", field: "luckScore", sortable: true, toolTip: "how lucky are you", minWidth: 42 },
