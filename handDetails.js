@@ -325,7 +325,11 @@ var columns = [
   {id: "numPlayers", name: "# Players", field: "numPlayers"},
   {id: "numAllIns", name: "# All In's", field: "numAllIns", width: 80},
   {id: "finalStep", name: "Final Step", field: "finalStep", minWidth: 60},
-  {id: "winner", name: "Winner", field: "winner", formatter: cellFound, sortable:true},
+  { id: "winner", name: "Winner", field: "winner", formatter: cellFound, sortable: true },
+    { id: "bigBlind", name: "Big Blind", field: "bigBlind", width: 60 },
+    { id: "runItTwice", name: "RIT", field: "runItTwice", width: 60 },
+
+
   {id: "won", name: "Won", field: "won", formatter: cellFound},
   {id: "finalHand", name: "Final Hand", field: "finalHand", width:140},
   { id: "step", name: "Step", field: "step", width: 80, formatter: cellFound},
