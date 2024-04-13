@@ -2,19 +2,23 @@
     font-weight: bold;
   }
 
-  .toggle {
-    height: 9px;
-    width: 9px;
+.toggle {
+    height: 14px;
+    width: 14px;
     display: inline-block;
-  }
+    vertical-align: middle;
+}
 
-  .toggle.expand {
-    background: url(http://6pac.github.io/SlickGrid/images/expand.gif) no-repeat center center;
-  }
+.toggle.expand {
+    background: url(./icons8-plus-32.png) no-repeat center center;
+    vertical-align: middle;
+}
 
-  .toggle.collapse {
-    background: url(http://6pac.github.io/SlickGrid/images/collapse.gif) no-repeat center center;
-  }
+.toggle.collapse {
+    background: url(./icons8-minus-32.png) no-repeat center center;
+    vertical-align: middle;
+}
+
   .cellFound {
   color: #006100;
   background: #C6EFCE;

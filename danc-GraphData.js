@@ -36,7 +36,7 @@ var VPIP = [
 { label: "Mar 15th 2024", y: 45},
 { label: "Mar 29th 2024", y: 45},
 { label: "Apr 6th 2024", y: 44},
-{ label: "Apr 12th 2024", y: 40},
+{ label: "Apr 12th 2024", y: 41},
 ]
 var Agg = [
 { label: "Jan 2nd 2024", y: 32},
@@ -76,5 +76,5 @@ var wonLost = [
 { label: "Mar 15th 2024", y: 377.99},
 { label: "Mar 29th 2024", y: -200.0},
 { label: "Apr 6th 2024", y: 110.49},
-{ label: "Apr 12th 2024", y: -0.05},
+{ label: "Apr 12th 2024", y: 0.81},
 ]
