@@ -136,5 +136,5 @@ var wonLost = [
 { label: "Apr 6th 2024", y: -70.0},
 { label: "Apr 9th 2024", y: -30.00},
 { label: "Apr 12th 2024", y: -30.0},
-{ label: "Apr 13th 2024", y: -25},
+{ label: "Apr 13th 2024", y: -25.0},
 ]
