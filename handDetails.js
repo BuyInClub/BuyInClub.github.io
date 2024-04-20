@@ -7,12 +7,14 @@ var searchResults = "";
 $("#clearFilters").click(function () {
     document.getElementById('winnerSearch').value = "";
     document.getElementById('amountWonSearch').value = "";
-
     document.getElementById('playerActionSearch').value = "";
     document.getElementById('actionSearch').value = "";
     document.getElementById('stepSearch').value = "";
     document.getElementById('actionAmountSearch').value = "";
     document.getElementById('amountToPotSearch').value = "";
+    document.getElementById('finalHand').value = "";
+    document.getElementById('bigBlind').value = "";
+    document.getElementById('RIT').checked = false;
 
     numHands = 0;
     numFound = 0;
@@ -29,6 +31,7 @@ $("#clearFilters").click(function () {
 
 
 function childCriteriaMet(item) {
+
     if ((document.getElementById('playerActionSearch').value !== "") &&
         (document.getElementById('playerActionSearch').value !== item.player)) {
         return "NoMatch";
@@ -41,16 +44,25 @@ function childCriteriaMet(item) {
         (document.getElementById('stepSearch').value !== item.step)) {
         return "NoMatch";
     }
-    if ((document.getElementById('actionAmountSearch').value !== "") &&
-        (parseFloat(document.getElementById('actionAmountSearch').value) > parseFloat(item.amount))) {
-        return "NoMatch";
+    // have between
+    if (document.getElementById('actionAmountSearch').value !== "") 
+    {
+        if (!InRange(document.getElementById('actionAmountSearch').value, item.amount))
+        {
+            return "NoMatch";
+        }
     }
+
     // item.amountToPot can be blank
     var amountToPot = 0;
     if (item.amountToPot !== "") { amountToPot = parseFloat(item.amountToPot); }
-    if ((document.getElementById('amountToPotSearch').value !== "") &&
-        (parseFloat(document.getElementById('amountToPotSearch').value) > item.amountToPot)) {
-        return "NoMatch";
+    // have between
+    if (document.getElementById('amountToPotSearch').value !== "") 
+    {
+        if (!InRange(document.getElementById('amountToPotSearch').value, item.amountToPot))
+        {
+            return "NoMatch";
+        }
     }
 
     if ((document.getElementById('playerActionSearch').value === "") &&
@@ -70,21 +82,85 @@ function parentCriteriaMet(item)
         (document.getElementById('winnerSearch').value !== item.winner)) {
         return "NoMatch";
     }
-    if ((document.getElementById('amountWonSearch').value !== "") &&
-        (parseFloat(document.getElementById('amountWonSearch').value) > parseFloat(item.won))) {
+    // have between
+    if (document.getElementById('amountWonSearch').value !== "") 
+    {
+        if (!InRange(document.getElementById('amountWonSearch').value, item.won))
+        {
+            return "NoMatch";
+        }
+    }
+
+    if ((document.getElementById('finalHand').value !== "") &&
+        (!item.finalHand.includes(document.getElementById('finalHand').value))) {    
         return "NoMatch";
     }
-    if ((document.getElementById('winnerSearch').value === "") && (document.getElementById('amountWonSearch').value === "")) {
+    if ((document.getElementById('bigBlind').value !== "") &&
+        (parseFloat(document.getElementById('bigBlind').value) !== parseFloat(item.bigBlind))) {
+        return "NoMatch";
+    }
+    if ((document.getElementById('RIT').checked === true) &&
+        (item.runItTwice === "")) {
+        return "NoMatch";
+    }
+
+    if ((document.getElementById('winnerSearch').value === "") && 
+        (document.getElementById('amountWonSearch').value === "") &&
+        (document.getElementById('finalHand').value === "") &&
+        (document.getElementById('bigBlind').value === "") &&
+        (document.getElementById('RIT').checked === false)) {
         return "NoCriteria";
     }
 
     return "Match";
 }
 
+
+
+function InRange(inputRange, compare)
+{
+    // regular expression for floats
+    var regex = /[+-]?\d+(\.\d+)?/g;
+    var range = inputRange.match(regex);
+
+    //var range = inputRange.match(/\d+/g);  
+    if (compare === "")
+    {
+        return false;
+    }
+    if (range !== null)      
+    {
+        //range = range.map(v => parseInt(v, 10));
+        range = range.map(x => parseFloat(x));
+    }
+    else
+    {
+        range = [];
+    }
+    if (range.length === 1)
+    {
+        if (parseFloat(range[0]) > parseFloat(compare)) 
+        {
+            return false;
+        }
+    }
+    if (range.length === 2)
+    {
+        if (!(parseFloat(compare) >= range[0] && parseFloat(compare) <= range[1])) 
+        {
+            return false;
+        }
+
+    }
+
+    return true;
+}
+
 // needs to be global for filter
 var handsThatMeetFilter = new HashTable();
 // need for exanpaing and collapsing
 var idsThatMeetFilter = new HashTable();
+var parentIdForFilter = -1;
 
 function addFilterItem(item)
 {
@@ -113,7 +189,7 @@ $("#search").click(function () {
     // to make things always update collapse all first.
     document.getElementById('collapse').click();
 
-
+    parentIdForFilter = -1;
     handsThatMeetFilter.clear();
     idsThatMeetFilter.clear();
     //var childResult;
@@ -246,7 +322,7 @@ function cellFound(row, cell, value, columnDef, dataContext) {
                     { rtn.addClasses = "cellFound"; }
             }
             if (columnDef.id === "won" && document.getElementById('amountWonSearch').value !== "") 
-                if (parseFloat(value) >= parseFloat(document.getElementById('amountWonSearch').value)) {
+                if (InRange(document.getElementById('amountWonSearch').value, parseFloat(value))) {
                     { rtn.addClasses = "cellFound"; }
             }
 
@@ -255,6 +331,20 @@ function cellFound(row, cell, value, columnDef, dataContext) {
                 if (value === document.getElementById('playerActionSearch').value)
                     { rtn.addClasses = "cellFound"; }
             }        
+            if (columnDef.id === "finalHand" && document.getElementById('finalHand').value !== "") {
+                if (value.includes(document.getElementById('finalHand').value))
+                    { rtn.addClasses = "cellFound"; }
+            }        
+            if (columnDef.id === "bigBlind" && document.getElementById('bigBlind').value !== "") {
+                if (parseFloat(value) === parseFloat(document.getElementById('bigBlind').value))
+                    { rtn.addClasses = "cellFound"; }
+            }        
+            if (columnDef.id === "runItTwice" && document.getElementById('RIT').checked === true) {
+                if (value !== "")
+                    { rtn.addClasses = "cellFound"; }
+            }        
+
+
             if (columnDef.id === "action" && document.getElementById('actionSearch').value !== "") {
                 if (value.includes(document.getElementById('actionSearch').value))
                     { rtn.addClasses = "cellFound"; }
@@ -264,14 +354,14 @@ function cellFound(row, cell, value, columnDef, dataContext) {
                     { rtn.addClasses = "cellFound"; }
             }            
 
-            if (columnDef.id === "amount" && document.getElementById('actionAmountSearch').value !== "") 
-                if (parseFloat(value) >= parseFloat(document.getElementById('actionAmountSearch').value)) {
+            if (columnDef.id === "amount" && document.getElementById('actionAmountSearch').value !== "") {
+                if (InRange(document.getElementById('actionAmountSearch').value, value))             
                     { rtn.addClasses = "cellFound"; }
             }
 
-            if (columnDef.id === "amountToPot" && document.getElementById('amountToPotSearch').value !== "") 
-                if (parseFloat(value) >= parseFloat(document.getElementById('amountToPotSearch').value)) {
-                    { rtn.addClasses = "cellFound"; }
+            if (columnDef.id === "amountToPot" && document.getElementById('amountToPotSearch').value !== "") {
+                if (InRange(document.getElementById('amountToPotSearch').value, value))             
+                    {  rtn.addClasses = "cellFound"; }
             }
 
         }
@@ -332,7 +422,7 @@ var columns = [
 
   {id: "won", name: "Won", field: "won", formatter: cellFound},
   {id: "finalHand", name: "Final Hand", field: "finalHand", width:140},
-  { id: "step", name: "Step", field: "step", width: 80, formatter: cellFound},
+  { id: "step", name: "Street", field: "step", width: 80, formatter: cellFound},
   { id: "boardCards", name: "Board Cards", field: "boardCards", formatter: HtmlFormatter, width: 100 },
   //{id: "player", name: "Player", field: "player", formatter: cellFound },
   {id: "player", name: "Player", field: "player", formatter: addLinkToPlayer},
@@ -355,20 +445,58 @@ var percentCompleteThreshold = 0;
 var searchString = "";
 
 
-function myFilter(item) {   
-  if (item.parent != null) {
-    var parent = data[item.parent];
-
-    while (parent) {
-      if (parent._collapsed || (parent["percentComplete"] < percentCompleteThreshold) || (searchString !== "" && parent["title"].indexOf(searchString) === -1)) {
-        return false;
-      }
-
-      parent = data[parent.parent];
+function myFilter2(item)
+{
+    //debugger;
+    // beginning of code that makes expand and collapse work with filter, do not understand why it works
+    // figured out from the example - https://6pac.github.io/SlickGrid/examples/example5-collapsing.html    
+    if (item.parent != null) {
+        var parent = data[item.parent];
+    
+        while (parent) {
+            
+            if (parent._collapsed) {
+                return false;
+            }
+            
+            parent = data[parent.parent];
+        }
     }
-  }
+    // end of code
+    if (document.getElementById('winnerSearch').value === "" &&
+        document.getElementById('finalHand').value === "" &&
+        document.getElementById('bigBlind').value === "" &&
+        document.getElementById('RIT').checked === false &&
+        document.getElementById('amountWonSearch').value === ""  &&
+        document.getElementById('playerActionSearch').value === "" && 
+        document.getElementById('actionSearch').value === "" && 
+        document.getElementById('stepSearch').value === "" && 
+        document.getElementById('actionAmountSearch').value === "" &&
+        document.getElementById('amountToPotSearch').value === "") 
+    {
+        return true;
+    } 
 
-  return true;
+    if (idsThatMeetFilter.hasItem(item.id)) {
+        if (idsThatMeetFilter.items[item.id].parent === null)
+        {
+            //console.log("parent: " + idsThatMeetFilter.items[item.id].id);
+            parentIdForFilter = idsThatMeetFilter.items[item.id].id;
+        }
+    }
+    if (item.id === parentIdForFilter)
+    {
+        return true;
+    }
+    if (item.parent !== null)
+    {
+        if (item.parent === parentIdForFilter)
+        {
+            return true;
+        }
+    }        
+  // everything else is filtered out
+  return false;    
 }
 
 $(function () {
@@ -394,7 +522,7 @@ $(function () {
 
   dataView.beginUpdate();
   dataView.setItems(data);
-  dataView.setFilter(myFilter);
+  dataView.setFilter(myFilter2);
   dataView.endUpdate();
 
   //grid.scrollRowIntoView(gotoHand()-1);     
@@ -406,7 +534,10 @@ $(function () {
 
   // expand or collapse grid based on clicking on row icon.
   grid.onClick.subscribe(function (e, args) {
+    //console.log("clicked on row");
+
     if ($(e.target).hasClass("toggle")) {
+
       var item = dataView.getItem(args.row);
       if (item) {
         if (!item._collapsed) {
@@ -427,7 +558,7 @@ $(function () {
         container: '.container', // DOM element selector, can be an ID or a class name
 
         // optionally define some padding and dimensions
-        rightPadding: 5,    // defaults to 0
+        rightPadding: 0,    // defaults to 0
         bottomPadding: 10,  // defaults to 20
         minHeight: 150,     // defaults to 180
         minWidth: 250,      // defaults to 300
