@@ -43,17 +43,41 @@ function childCriteriaMet(item) {
         (document.getElementById('stepSearch').value !== item.step)) {
         return "NoMatch";
     }
+    /*
     if ((document.getElementById('actionAmountSearch').value !== "") &&
         (parseFloat(document.getElementById('actionAmountSearch').value) > parseFloat(item.amount))) {
         return "NoMatch";
     }
+    */
+    // have between
+    if (document.getElementById('actionAmountSearch').value !== "") 
+    {
+        if (!InRange(document.getElementById('actionAmountSearch').value, item.amount))
+        {
+            return "NoMatch";
+        }
+    }   
     // item.amountToPot can be blank
+    /*
     var amountToPot = 0;
     if (item.amountToPot !== "") { amountToPot = parseFloat(item.amountToPot); }
     if ((document.getElementById('amountToPotSearch').value !== "") &&
         (parseFloat(document.getElementById('amountToPotSearch').value) > item.amountToPot)) {
         return "NoMatch";
     }
+    */
+    var amountToPot = 0;
+    if (item.amountToPot !== "") { amountToPot = parseFloat(item.amountToPot); }
+    // have between
+    if (document.getElementById('amountToPotSearch').value !== "") 
+    {
+        if (!InRange(document.getElementById('amountToPotSearch').value, item.amountToPot))
+        {
+            return "NoMatch";
+        }
+    }
+
+
     if ((document.getElementById('actionSearch').value !== "") &&
         (!item.action.includes(document.getElementById('actionSearch').value))) {
         return "NoMatch";
@@ -93,10 +117,20 @@ function parentCriteriaMet(item)
         (document.getElementById('totalPlayersSearch').value !== item.totalPlayers)) {
         return "NoMatch";
     }
+    /*
     if ((document.getElementById('amountWonSearch').value !== "") &&
         (parseFloat(document.getElementById('amountWonSearch').value) > parseFloat(item.wonNetOrLost))) {
         return "NoMatch";
     }
+    */
+    if (document.getElementById('amountWonSearch').value !== "") 
+    {
+        if (!InRange(document.getElementById('amountWonSearch').value, item.wonNetOrLost))
+        {
+            return "NoMatch";
+        }
+    }
+
     if ((document.getElementById('amountLossSearch').value !== "") &&
         (parseFloat(document.getElementById('amountLossSearch').value) < parseFloat(item.wonNetOrLost))) {
         return "NoMatch";
@@ -109,10 +143,50 @@ function parentCriteriaMet(item)
     return "Match";
 }
 
+function InRange(inputRange, compare)
+{
+    // regular expression for floats
+    var regex = /[+-]?\d+(\.\d+)?/g;
+    var range = inputRange.match(regex);
+
+    //var range = inputRange.match(/\d+/g);  
+    if (compare === "")
+    {
+        return false;
+    }
+    if (range !== null)      
+    {
+        //range = range.map(v => parseInt(v, 10));
+        range = range.map(x => parseFloat(x));
+    }
+    else
+    {
+        range = [];
+    }
+    if (range.length === 1)
+    {
+        if (parseFloat(range[0]) > parseFloat(compare)) 
+        {
+            return false;
+        }
+    }
+    if (range.length === 2)
+    {
+        if (!(parseFloat(compare) >= range[0] && parseFloat(compare) <= range[1])) 
+        {
+            return false;
+        }
+
+    }
+
+    return true;
+}
+
 // needs to be global for filter
 var handsThatMeetFilter = new HashTable();
 // need for exanpaing and collapsing
 var idsThatMeetFilter = new HashTable();
+var parentIdForFilter = -1;
 
 function addFilterItem(item)
 {
@@ -143,7 +217,7 @@ $("#search").click(function () {
     // to make things always update collapse all first.
     document.getElementById('collapse').click();
 
-
+    parentIdForFilter = -1;
     handsThatMeetFilter.clear();
     idsThatMeetFilter.clear();
     var childResult;
@@ -312,10 +386,18 @@ function cellFound(row, cell, value, columnDef, dataContext) {
                 if (document.getElementById('totalPlayersSearch').value === dataContext.totalPlayers)
                 { rtn.addClasses = "cellFound"; }
             }
+            /*
             if (columnDef.id === "wonNetOrLost" && document.getElementById('amountWonSearch').value !== "") 
                 if (parseFloat(value) >= parseFloat(document.getElementById('amountWonSearch').value)) {
                     { rtn.addClasses = "cellFound"; }
             }
+            */
+            if (columnDef.id === "wonNetOrLost" && document.getElementById('amountWonSearch').value !== "") 
+                if (InRange(document.getElementById('amountWonSearch').value, parseFloat(value))) {
+                    { rtn.addClasses = "cellFound"; }
+            }
+
+
             if (columnDef.id === "wonNetOrLost" && document.getElementById('amountLossSearch').value !== "") 
                 if (parseFloat(value) <= parseFloat(document.getElementById('amountLossSearch').value)) {
                     { rtn.addClasses = "cellFound"; }
@@ -324,16 +406,28 @@ function cellFound(row, cell, value, columnDef, dataContext) {
                 if (value === document.getElementById('stepSearch').value)
                     { rtn.addClasses = "cellFound"; }
             }            
-
+            /*
             if (columnDef.id === "amount" && document.getElementById('actionAmountSearch').value !== "") 
                 if (parseFloat(value) >= parseFloat(document.getElementById('actionAmountSearch').value)) {
                     { rtn.addClasses = "cellFound"; }
             }
+            */
+            if (columnDef.id === "amount" && document.getElementById('actionAmountSearch').value !== "") {
+                if (InRange(document.getElementById('actionAmountSearch').value, value))             
+                    { rtn.addClasses = "cellFound"; }
+            }
 
+            /*
             if (columnDef.id === "amountToPot" && document.getElementById('amountToPotSearch').value !== "") 
                 if (parseFloat(value) >= parseFloat(document.getElementById('amountToPotSearch').value)) {
                     { rtn.addClasses = "cellFound"; }
             }
+            */
+            if (columnDef.id === "amountToPot" && document.getElementById('amountToPotSearch').value !== "") {
+                if (InRange(document.getElementById('amountToPotSearch').value, value))             
+                    {  rtn.addClasses = "cellFound"; }
+            }
+
             if (columnDef.id === "action" && document.getElementById('actionSearch').value !== "") {
                 if (value.includes(document.getElementById('actionSearch').value))
                     { rtn.addClasses = "cellFound"; }
@@ -384,7 +478,7 @@ var dataView;
 var grid;
 
 var columns = [
-  {id: "handNum", name: "Hand #", field: "handNum", width: 50, cssClass: "cell-title", formatter: HandFormatter},
+  {id: "handNum", name: "Hand #", field: "handNum", width: 60, cssClass: "cell-title", formatter: HandFormatter},
   {id: "wonNetOrLost", name: "Won/Lost", field: "wonNetOrLost", formatter: wonLostFormatter},
   {id: "startAmt", name: "Start Amt", field: "startAmt", width: 60},
   {id: "endAmt", name: "End Amt", field: "endAmt", minWidth: 60},
@@ -393,7 +487,7 @@ var columns = [
     { id: "holeCardsTier", name: "HC Tier", field: "holeCardsTier", width: 50, formatter: cellFound, toolTip: "Hole Card Tier from https://en.wikipedia.org/wiki/Texas_hold_%27em_starting_hands#Statistics_based_on_real_online_play" },
     { id: "bigBlind", name: "Big Blind", field: "bigBlind", width: 60 },
     { id: "runItTwice", name: "RIT", field: "runItTwice", width: 60 },
-  {id: "step", name: "Step", field: "step", formatter: cellFound},
+  {id: "step", name: "Street", field: "step", formatter: cellFound},
   {id: "boardCards", name: "Board Cards", field: "boardCards", minWidth: 140, formatter: HtmlFormatter},
   {id: "action", name: "Action", field: "action", formatter: cellFound},
   {id: "amount", name: "Amount", field: "amount", formatter: cellFound},
@@ -420,19 +514,58 @@ var searchString = "";
 
 
 function myFilter(item) {   
-  if (item.parent != null) {
-    var parent = data[item.parent];
-
-    while (parent) {
-      if (parent._collapsed || (parent["percentComplete"] < percentCompleteThreshold) || (searchString != "" && parent["title"].indexOf(searchString) == -1)) {
-        return false;
-      }
-
-      parent = data[parent.parent];
+    //debugger;
+    // beginning of code that makes expand and collapse work with filter, do not understand why it works
+    // figured out from the example - https://6pac.github.io/SlickGrid/examples/example5-collapsing.html    
+    if (item.parent != null) {
+        var parent = data[item.parent];
+    
+        while (parent) {
+            
+            if (parent._collapsed) {
+                return false;
+            }
+            
+            parent = data[parent.parent];
+        }
     }
-  }
+    // end of code    
+    if (document.getElementById('amountWonSearch').value === "" &&
+        document.getElementById('amountLossSearch').value === "" &&
+        document.getElementById('positionSearch').value === "" &&
+        document.getElementById('holeCardsTierSearch').value === "" &&
+        document.getElementById('totalPlayersSearch').value === "" &&
 
-  return true;
+        document.getElementById('stepSearch').value === "" &&
+        document.getElementById('actionAmountSearch').value === "" &&
+        document.getElementById('amountToPotSearch').value === "" &&
+        document.getElementById('actionSearch').value === "" &&
+        document.getElementById('lastActionSearch').value === "" &&
+        document.getElementById('lastActionPlayerSearch').value === "")
+    {
+        return true;
+    } 
+
+    if (idsThatMeetFilter.hasItem(item.id)) {
+        if (idsThatMeetFilter.items[item.id].parent === null)
+        {
+            //console.log("parent: " + idsThatMeetFilter.items[item.id].id);
+            parentIdForFilter = idsThatMeetFilter.items[item.id].id;
+        }
+    }
+    if (item.id === parentIdForFilter)
+    {
+        return true;
+    }
+    if (item.parent !== null)
+    {
+        if (item.parent === parentIdForFilter)
+        {
+            return true;
+        }
+    }        
+  // everything else is filtered out
+  return false;    
 }
 
 $(function () {
@@ -491,7 +624,7 @@ $(function () {
         container: '.container', // DOM element selector, can be an ID or a class name
 
         // optionally define some padding and dimensions
-        rightPadding: 5,    // defaults to 0
+        rightPadding: 0,    // defaults to 0
         bottomPadding: 10,  // defaults to 20
         minHeight: 150,     // defaults to 180
         minWidth: 250,      // defaults to 300
