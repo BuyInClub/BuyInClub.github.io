@@ -24,6 +24,7 @@
 { label: "May 24th 2024", y: 10},
 { label: "May 31st 2024", y: 24},
 { label: "Jun 7th 2024", y: 14},
+{ label: "Jun 14th 2024", y: 13},
 ]
 var VPIP = [
 { label: "Jan 5th 2024", y: 58},
@@ -51,6 +52,7 @@ var VPIP = [
 { label: "May 24th 2024", y: 30},
 { label: "May 31st 2024", y: 39},
 { label: "Jun 7th 2024", y: 39},
+{ label: "Jun 14th 2024", y: 33},
 ]
 var Agg = [
 { label: "Jan 5th 2024", y: 33},
@@ -78,6 +80,7 @@ var Agg = [
 { label: "May 24th 2024", y: 19},
 { label: "May 31st 2024", y: 30},
 { label: "Jun 7th 2024", y: 22},
+{ label: "Jun 14th 2024", y: 30},
 ]
 var wonLost = [
 { label: "Jan 5th 2024", y: 100.61},
@@ -105,4 +108,5 @@ var wonLost = [
 { label: "May 24th 2024", y: 0.7},
 { label: "May 31st 2024", y: -150.0},
 { label: "Jun 7th 2024", y: -150.0},
+{ label: "Jun 14th 2024", y: -150},
 ]
